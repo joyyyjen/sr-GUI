@@ -1,0 +1,6 @@
+DEBUG: true
+URL: http://localhost
+UPLOAD_DIR: /upload
+ALLOWED_EXTENSIONS:
+  - .zip
+

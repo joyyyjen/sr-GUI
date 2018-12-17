@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ASR Error Analyzer</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="linker/data.js"></script>
+    {% if PIE_DATA is defined %}
+    {% include "plugin_pie_chart.html" %}
+    {% endif %}
+</head>
+
+<body>
+<div class="container">
+    <!-- RUN TITLE -->
+    <div class="jumbotron">
+        <h1>Speech-to-Text Error Analyzer</h1>
+
+        <p>Powered by Python <br>Rendered by HTML and JavaScript</p>
+    </div>
+    <br>
+
+    <div class="panel panel-default">
+        <div class="panel-body">
+            <h3>Required Files</h3>
+            <ul>
+                <li>Please make sure all the audio file is record at a sample rate of 16 KHz</li>
+                <li>Include <a href="../static/example/fileid.txt" target="_blank">a fileid file</a> and <a
+                        href="../static/example/transcription.txt" target="_blank"> a transcription file </a></li>
+                <li>The file structure should look like this:
+                    <ul>
+                        <li>84-121123-0000.wav</li>
+                        <li>84-121123-0001.wav</li>
+                        <li>...</li>
+                        <li>fileid.txt</li>
+                        <li>transcription</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h3>Please Upload Your Recognition Zipfile</h3><br>
+            <!-- <input type="file" id="data" hidden="hidden"/> -->
+            <form method=post enctype=multipart/form-data>
+                <div class="col-xs-2">
+                    <input type=file name=file>
+                </div>
+                <div class="col-xs-2">
+                    <input type=submit class="btn btn-info" value=Upload>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    {% if PIE_DATA is defined %}
+    <div class="well">
+        <h3>Evaluation</h3>
+        <ul>
+            <li>Words error rate is a common metric of the performance of a speech recognition.</li>
+            <li>The formula is WER = ( I + D + S) / N.</li>
+            <li>Given an original text, a recognition text with a length of N words,
+                <ul>
+                    <li> S: number of substitutions</li>
+                    <li>D: number of deletions</li>
+                    <li> I: number of insertions</li>
+                    <li> N: total number of words</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+    <div>
+        <div id="piechart" style="width: 100%; height: 500px;"></div>
+    </div>
+    {% endif %}
+
+    {% if OPT is defined %}
+
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Error Type</th>
+            <th>Count</th>
+            <th>Frequency</th>
+            <th>Subclasses</th>
+        </tr>
+        </thead>
+        <tbody>
+
+        {% for i in OPT %}
+        <tr>
+            <td>{{i[0]}}</td>
+            <td>{{i[1][0]}}</td>
+            <td>{{i[1][1]}}</td>
+            <td>{% if i[1][2] is defined %}
+                {% for type, count in i[1][2] %}
+                <p><span>{{type}}</span>:{{count}}</p>
+                {% endfor %}
+                {% endif %}
+            </td>
+        </tr>
+        {% endfor %}
+
+        </tbody>
+    </table>
+    {% endif %}
+
+    {% if TXT_REPORT is defined %}
+    <div>
+        <pre><code>{{TXT_REPORT}}</code></pre>
+    </div>
+    {% endif %}
+
+</div>
+</body>
+
+</html>

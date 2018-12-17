@@ -1,0 +1,20 @@
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+  google.charts.load('current', {'packages':['corechart']});
+  google.charts.setOnLoadCallback(drawChart);
+
+  function drawChart() {
+
+    var pie_data = {{PIE_DATA|tojson}};
+    var data = google.visualization.arrayToDataTable(pie_data);
+
+    var options = {
+      title: 'Error Types',
+      colors: ["fdaeae","#ffda95","#6dc3c4","#ff7c7c","#aeeac4","#138d90","#001871","#43bcff","#ffb743","#e95b4f"]
+    };
+
+    var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+
+    chart.draw(data, options);
+  }
+</script>

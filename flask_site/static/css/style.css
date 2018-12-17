@@ -1,0 +1,8 @@
+.chart{
+  text-indent: 3px;
+  table-layout: fixed;
+  width: 100%;
+
+  white-space: nowrap;
+  font-size: x-small;
+}
