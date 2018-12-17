@@ -60,7 +60,7 @@ Freq.py includes WER module.
 
 #### Word Error Rate (WER)
 - Evaluation
-- Words error rate is a common metric of the performance of a speech recognition.
+- Words error rate is a common metric of the performance of a speech recognition. It is derived from Levenshtein distance algorithm
 - The formula is WER = ( I + D + S) / N.
 - Given an original text, a recognition text with a length of N words,
   - S: number of substitutions
@@ -69,8 +69,8 @@ Freq.py includes WER module.
   - N: total number of words
 
 WER modules aligned transcription txt and recognition txt.
-Given WER, freq.py applied N-gram to build bigram error dictionary.
-With different combination of word errors, functions.py adapt mataphone to find homophone and nltk stemmer and lemmatizer to find inflections. While other combinations are categorized into merge and split. 
+Given WER, freq.py applied **N-gram** to build bigram error dictionary.
+With different combination of word errors, functions.py adapt **mataphone** to find homophone and **nltk stemmer and lemmatizer** to find inflections. While other combinations are categorized into merge and split. 
 
 Freq.py and Functions.py is currently set to a bigram. For further improvement, feel free to adapt and modify freq.py and function.py to tri-gram or so on. 
 
