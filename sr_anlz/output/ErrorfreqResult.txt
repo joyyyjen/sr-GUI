@@ -1,0 +1,72 @@
+SS : 0.02304964539007092 =====
+split + quasi-homophone	(('S', ('may', 'met')), ('S', ('thus', 'the')))
+(('S', ('and', 'at')), ('S', ('villefort', 'villa')))
+(('S', ('asked', 's')), ('S', ('morrel', 'morel')))
+(('S', ('asked', 'as')), ('S', ('morrel', 'morel')))
+(('S', ('silently', 'solidly')), ('S', ('rolled', 'roll')))
+(('S', ('as', 'of')), ('S', ('i', 'the')))
+(('S', ('i', 'the')), ('S', ('pass', 'past')))
+(('S', ('said', '77')), ('S', ('villefort', 'delaford')))
+split + quasi-homophone	(('S', ('i', 'of')), ('S', ('beseech', 'a')))
+(('S', ('beseech', 'a')), ('S', ('you', 'c2')))
+(('S', ('to', 'a')), ('S', ('accompany', 'company')))
+(('S', ('accompany', 'company')), ('S', ('this', 'that')))
+split + quasi-homophone	(('S', ('will', 'while')), ('S', ('you', "you're")))
+
+SD : 0.0 =====
+
+DS : 0.015957446808510637 =====
+merge + quasi-homophone	(('D', ('inhale', ' ')), ('S', ('a', 'inhaler')))
+(('D', ('which', ' ')), ('S', ('draws', 'withdraws')))
+merge	(('D', ('some', ' ')), ('S', ('time', 'sometime')))
+merge + quasi-homophone	(('D', ('oh', ' ')), ('S', ('you', 'ou')))
+(('D', ('and', ' ')), ('S', ('thus', 'unless')))
+(('D', ('said', ' ')), ('S', ('morrel', 'several')))
+merge + number	(('D', ('of', ' ')), ('S', ('noirtier', '48')))
+merge + number	(('D', ("d'avrigny", ' ')), ('S', ('said', '77')))
+(('D', ('i', ' ')), ('S', ('am', "i'm")))
+
+II : 0.0 =====
+
+IS : 0.0 =====
+
+SI : 0.0070921985815602835 =====
+(('S', ("d'avrigny", 'devon')), ('I', (' ', 'you')))
+split + homophone	(('S', ('villefort', 'villa')), ('I', (' ', 'ford')))
+(('S', ('noirtier', 'naughty')), ('I', (' ', 'a')))
+(('S', ('noirtier', 'naughty')), ('I', (' ', 'i')))
+
+DD : 0.0 =====
+
+I : 0.0017730496453900709 =====
+stop words missing	('I', (' ', 'of'))
+
+D : 0.0017730496453900709 =====
+('D', ('go', ' '))
+
+S : 0.0425531914893617 =====
+number	('S', ('five', '5'))
+homophone	('S', ('groaned', 'ground'))
+homophone	('S', ('centred', 'centered'))
+inflection	('S', ('swelled', 'swell'))
+quasi-homophone	('S', ('in', 'and'))
+('S', ("d'avrigny", 'deveney'))
+homophone	('N', ('', ''))
+quasi-homophone	('S', ('noirtier', 'noche'))
+homophone	('S', ('morrel', 'morale'))
+inflection	('S', ('remained', 'remain'))
+homophone	('S', ('gentlemen', 'gentleman'))
+inflection	('S', ("culprit's", 'culprits'))
+inflection	('S', ('thirsts', 'thirst'))
+('S', ('yet', 'get'))
+quasi-homophone	('S', ('this', 'the'))
+('S', ('morrel', 'laurel'))
+homophone	('S', ('on', 'in'))
+inflection	('S', ('entered', 'enter'))
+homophone	('N', ('', ''))
+inflection	('S', ('district', "district's"))
+inflection	('S', ('approached', 'approach'))
+quasi-homophone	('S', ('amongst', 'among'))
+quasi-homophone	('S', ('abbe', 'ave'))
+inflection	('S', ('fervent', 'fervently'))
+
