@@ -25,7 +25,7 @@ Open the link and now you can use the Front End WebUI Error Analyzer.
 
 ### How does it Work?
 - This program accept a recognition zipfile. 
-- In the backend, speech recognition will first recognize the audios, output recognition.txt.
+- In the backend, speech recognition will first recognize the audios and output recognition.txt.
 - Giving this recognition.txt and a provided trans.txt, the analyzer will start word error rate alignment.
 - Using the word error rate alignment, the SR error analyzer categorize errors.
 - In the frontend, it prints a pie chart showing the coverage of each error, a table which listed the count, frequency and subclasses of the error type, and a txt reference of all errors. 
