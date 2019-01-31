@@ -1,303 +1,87 @@
-REF: how are we doing 
-HYP: how are we doing 
-EVA:                  
-REF:    no no no     by that i meant how are we homo sapiens we doing as a species 
-HYP: no no no no but by that i meant how are we homo sapiens    we'd  as a species 
-EVA: I           I                                           D  S                  
-REF: now the typical way to answer that question is this 
-HYP: now the typical way to answer that question is this 
-EVA:                                                     
-REF: you choose some measure of human physical well-being       
-HYP: you choose some measure of human physical well       being 
-EVA:                                           S          I     
-REF: average longevity average calories per day average income overall population that sort of thing 
-HYP: average longevity average calories per day average income overall population that sort of thing 
-EVA:                                                                                                 
-REF: and draw a graph of its value over time 
-HYP: and draw a graph of its value over time 
-EVA:                                         
-REF: in almost every case you get the same result 
-HYP: in almost every case you get the same result 
-EVA:                                              
-REF: the line  skitters along at a low level     for millennia then rockets up exponentially in the 19th       and 20th      century 
-HYP: the lines get      along    a     low-level for millennia and  rockets up accidentally  in the nineteenth and twentieth century 
-EVA:     S     S              D    D   S                       S               S                    S              S                 
-REF: or choose a measure of consumption 
-HYP: or choose a measure of consumption 
-EVA:                                    
-REF: consumption of energy consumption of fresh water consumption of  the world's photosynthesis 
-HYP: consumption of energy                            consumption for far as      a              
-EVA:                       D           D  D     D                 S   S   S       S              
-REF: and draw a graph of its value over time 
-HYP: and draw   graph of its value over time 
-EVA:          D                              
-REF: in the same way the line  skitters along at a low level for millennia then rockets up exponentially in the 19th       and 20th      century 
-HYP: in the same way the lines because  along at a low level for millennia and  rockets up exponentially in the nineteenth and twentieth century 
-EVA:                     S     S                                           S                                    S              S                 
-REF: biologists have a word for this outbreak 
-HYP: biologists have a word for this outbreak 
-EVA:                                          
-REF: an outbreak is when a population or species exceeds the bounds of natural selection 
-HYP: an outbreak is when a population of species exceeds the bounds of natural selection 
-EVA:                                  S                                                  
-REF: natural selection ordinarily keeps populations and species within roughly defined limits 
-HYP: natural selection ordinarily keeps populations and species within roughly defined limits 
-EVA:                                                                                          
-REF: pests parasites       lack of resources prevent them from expanding too much 
-HYP: s.    era       sites lack of resources prevent them from expanding too much 
-EVA: S     S         I                                                            
-REF: but every now and then a species escapes its  bounds 
-HYP: but every now and then a species escapes it's bounds 
-EVA:                                          S           
-REF: crown-of-thorns starfish                in the indian ocean zebra mussels in  the   great  lakes spruce budworm here in canada 
-HYP: from            a        porn star fish in the indian ocean zebra mussels and brake lights spurs but    we're   here in canada 
-EVA: S               S        I    I    I                                      S   S     S      S     S      S                      
-REF: populations explode    a        hundredfold a thousandfold      a millionfold        
-HYP:             population exploded approval    a thousand     pull a million     people 
-EVA: D           S          S        S             S            I      S           I      
-REF: so heres  a fundamental lesson from biology outbreaks in nature don't end well 
-HYP: so here's a fundamental lesson from biology breaks    in nature don't end well 
-EVA:    S                                        S                                  
-REF: put a couple of protozoa into a petri dish            full of nutrient goo       
-HYP: but a couple of porn     is   a big   cookie sheet is full of          nutrients 
-EVA: S               S        S      S     S      I     I          D        S         
-REF: in their natural habitat soil     or     water 
-HYP:          natural         habitats toilet water 
-EVA: D  D             D       S        S            
-REF: their environment constrains  them 
-HYP: your  money       constraints that 
-EVA: S     S           S           S    
-REF: in the petri dish they have an  ocean of breakfast and no natural enemies 
-HYP: in a   petri dish           the ocean    roughest  and no natural enemies 
-EVA:    S              D    D    S         D  S                                
-REF: they eat and reproduce eat and reproduce eat and reproduce until  bang 
-HYP: the  key to  reproduce     in  return    is  a   great     result that 
-EVA: S    S   S             D   S   S         S   S   S         S      S    
-REF: they hit the edge of   the petri dish at which point they either drown in their own   waste starve from lack    of resources or  both 
-HYP:      if  it  yeah it's a   petri dish at what  point                      that  brown the   wrong  way  sparked my resources are off  
-EVA: D    S   S   S    S    S                 S           D    D      D     D  S     S     S     S      S    S       S            S   S    
-REF: the outbreak ends  always badly 
-HYP: the outbreak man's always that  
-EVA:              S            S     
-REF: now from the viewpoint of biology you and  i     are not fundamentally different than the protozoa in       the  petri dish 
-HYP: not from the viewpoint of biology     your night are not fundamentally different than     a        proposal that you   get  
-EVA: S                                 D   S    S                                          D   S        S        S    S     S    
-REF: we're not special 
-HYP: we're not special 
-EVA:                   
-REF: all the things that we in our vanity think make  us   different 
-HYP: all the things that we    are vanity think maybe it's different 
-EVA:                        D  S                S     S              
-REF: art science technology and so forth 
-HYP: art science technology and so forth 
-EVA:                                     
-REF: they don't matter 
-HYP:            the    
-EVA: D    D     S      
-REF: we're an  outbreak species 
-HYP:       one outbreak species 
-EVA: D     S                    
-REF: we're going to hit the edge of  the petri dish simple as that 
-HYP:                        when did you dc    this simple    fact 
-EVA: D     D     D  D   D   S    S   S   S     S           D  S    
-REF: well the obvious question is this actually true 
-HYP: well the obvious question is      actually true 
-EVA:                              D                  
-REF: are we in fact doomed to hit the edge of  the petri dish  
-HYP: are    in fact                        and if  you'd think 
-EVA:     D          D      D  D   D   D    S   S   S     S     
-REF: i'd like to set aside this question for a  moment       and  ask you   guys another one 
-HYP:                 but   this              is satisfaction from a   nasty guys another one 
-EVA: D   D    D  D   S          D        D   S  S            S    S   S                      
-REF: if we are going to escape biology how are we going to do  it  
-HYP: if we are going is the    biology how                 did you 
-EVA:                 S  S                  D   D  D     D  S   S   
-REF: in the year 2050   there will be   almost 10  billion people in the world and all of those people will want the things that you and   i   want 
-HYP: in     your twenty fifty a    week almost ten billion people of the war   and              i      also want the things      the human eye out  
-EVA:    D   S    S      S     S    S           S                  S      S         D   D  D     S      S                    D    S   S     S   S    
-REF: nice cars nice clothes nice homes the  odd  chunk of  toblerone 
-HYP: nice cars nice clothes nice homes yeah come to    the iranian   
-EVA:                                   S    S    S     S   S         
-REF: i mean think of it      toblerone for 10  billion people how are we going  to do this 
-HYP: i      think a  toddler running   for ten billion people            coming to    this 
-EVA:   D          S  S       S             S                  D   D   D  S         D       
-REF: how are we       going to     feed everybody get water to everybody provide power to everybody avoid the worst impacts of climate change 
-HYP:         pharmacy it    really did  want      to  read  by the       provide power to rebut     avoid the worst impacts of climate change 
-EVA: D   D   S        S     S      S    S         S   S     S  S                          S                                                   
-REF: i'm a science journalist and i've been asking these questions to     researchers for years 
-HYP: i'm a science journalist and           by     the   vastness  pushes researchers for years 
-EVA:                              D    D    S      S     S         S                            
-REF: and in my experience their answers fall      into two broad categories which i  call  wizards and prophets 
-HYP:     in my experience there is      a    full into two broad categories       of cycle wizards and profits  
-EVA: D                    S     S       S    I                              D     S  S                 S        
-REF: wizards techno whizzes       believe that science and technology properly applied will let us     produce our   way   out of our dilemmas 
-HYP: was     it     actually says believe that science and technology properly applied      to  listen to      these early on  to 'em it's     
-EVA: S       S      S        I                                                         D    S   S      S       S     S     S   S  S   S        
-REF: be    smart make more they say that way   everyone can win 
-HYP: these are   the  more they say that point everyone can we  
-EVA: S     S     S                       S                  S   
-REF: prophets believe close to the opposite 
-HYP:          profits legal to be  awesome  
-EVA: D        S       S        S   S        
-REF: they see the world as governed by   fundamental ecological processes  with limits that we     transgress to    our peril 
-HYP: they see the world is governed by a fundamental ecological prophecies was  limits the  leaves and        grass for peril 
-EVA:                    S              I                        S          S           S    S      S          S     S         
-REF: use less conserve they       say 
-HYP: use      last     conserving say 
-EVA:     D    S        S              
-REF: otherwise everybody is    going       to    lose 
-HYP:           the       white everybody's gonna lose 
-EVA: D         S         S     S           S          
-REF: how are we doing 
-HYP: how are we doing 
-EVA:                  
-REF:    no no no     by that i meant how are we homo sapiens we doing as a species 
-HYP: no no no no but by that i meant how are we homo sapiens    we'd  as a species 
-EVA: I           I                                           D  S                  
-REF: now the typical way to answer that question is this 
-HYP: now the typical way to answer that question is this 
-EVA:                                                     
-REF: you choose some measure of human physical well-being       
-HYP: you choose some measure of human physical well       being 
-EVA:                                           S          I     
-REF: average longevity average calories per day average income overall population that sort of thing 
-HYP: average longevity average calories per day average income overall population that sort of thing 
-EVA:                                                                                                 
-REF: and draw a graph of its value over time 
-HYP: and draw a graph of its value over time 
-EVA:                                         
-REF: in almost every case you get the same result 
-HYP: in almost every case you get the same result 
-EVA:                                              
-REF: the line  skitters along at a low level     for millennia then rockets up exponentially in the 19th       and 20th      century 
-HYP: the lines get      along    a     low-level for millennia and  rockets up accidentally  in the nineteenth and twentieth century 
-EVA:     S     S              D    D   S                       S               S                    S              S                 
-REF: or choose a measure of consumption 
-HYP: or choose a measure of consumption 
-EVA:                                    
-REF: consumption of energy consumption of fresh water consumption of  the world's photosynthesis 
-HYP: consumption of energy                            consumption for far as      a              
-EVA:                       D           D  D     D                 S   S   S       S              
-REF: and draw a graph of its value over time 
-HYP: and draw   graph of its value over time 
-EVA:          D                              
-REF: in the same way the line  skitters along at a low level for millennia then rockets up exponentially in the 19th       and 20th      century 
-HYP: in the same way the lines because  along at a low level for millennia and  rockets up exponentially in the nineteenth and twentieth century 
-EVA:                     S     S                                           S                                    S              S                 
-REF: biologists have a word for this outbreak 
-HYP: biologists have a word for this outbreak 
-EVA:                                          
-REF: an outbreak is when a population or species exceeds the bounds of natural selection 
-HYP: an outbreak is when a population of species exceeds the bounds of natural selection 
-EVA:                                  S                                                  
-REF: natural selection ordinarily keeps populations and species within roughly defined limits 
-HYP: natural selection ordinarily keeps populations and species within roughly defined limits 
-EVA:                                                                                          
-REF: pests parasites       lack of resources prevent them from expanding too much 
-HYP: s.    era       sites lack of resources prevent them from expanding too much 
-EVA: S     S         I                                                            
-REF: but every now and then a species escapes its  bounds 
-HYP: but every now and then a species escapes it's bounds 
-EVA:                                          S           
-REF: crown-of-thorns starfish                in the indian ocean zebra mussels in  the   great  lakes spruce budworm here in canada 
-HYP: from            a        porn star fish in the indian ocean zebra mussels and brake lights spurs but    we're   here in canada 
-EVA: S               S        I    I    I                                      S   S     S      S     S      S                      
-REF: populations explode    a        hundredfold a thousandfold      a millionfold        
-HYP:             population exploded approval    a thousand     pull a million     people 
-EVA: D           S          S        S             S            I      S           I      
-REF: so heres  a fundamental lesson from biology outbreaks in nature don't end well 
-HYP: so here's a fundamental lesson from biology breaks    in nature don't end well 
-EVA:    S                                        S                                  
-REF: put a couple of protozoa into a petri dish            full of nutrient goo       
-HYP: but a couple of porn     is   a big   cookie sheet is full of          nutrients 
-EVA: S               S        S      S     S      I     I          D        S         
-REF: in their natural habitat soil     or     water 
-HYP:          natural         habitats toilet water 
-EVA: D  D             D       S        S            
-REF: their environment constrains  them 
-HYP: your  money       constraints that 
-EVA: S     S           S           S    
-REF: in the petri dish they have an  ocean of breakfast and no natural enemies 
-HYP: in a   petri dish           the ocean    roughest  and no natural enemies 
-EVA:    S              D    D    S         D  S                                
-REF: they eat and reproduce eat and reproduce eat and reproduce until  bang 
-HYP: the  key to  reproduce     in  return    is  a   great     result that 
-EVA: S    S   S             D   S   S         S   S   S         S      S    
-REF: they hit the edge of   the petri dish at which point they either drown in their own   waste starve from lack    of resources or  both 
-HYP:      if  it  yeah it's a   petri dish at what  point                      that  brown the   wrong  way  sparked my resources are off  
-EVA: D    S   S   S    S    S                 S           D    D      D     D  S     S     S     S      S    S       S            S   S    
-REF: the outbreak ends  always badly 
-HYP: the outbreak man's always that  
-EVA:              S            S     
-REF: now from the viewpoint of biology you and  i     are not fundamentally different than the protozoa in       the  petri dish 
-HYP: not from the viewpoint of biology     your night are not fundamentally different than     a        proposal that you   get  
-EVA: S                                 D   S    S                                          D   S        S        S    S     S    
-REF: we're not special 
-HYP: we're not special 
-EVA:                   
-REF: all the things that we in our vanity think make  us   different 
-HYP: all the things that we    are vanity think maybe it's different 
-EVA:                        D  S                S     S              
-REF: art science technology and so forth 
-HYP: art science technology and so forth 
-EVA:                                     
-REF: they don't matter 
-HYP:            the    
-EVA: D    D     S      
-REF: we're an  outbreak species 
-HYP:       one outbreak species 
-EVA: D     S                    
-REF: we're going to hit the edge of  the petri dish simple as that 
-HYP:                        when did you dc    this simple    fact 
-EVA: D     D     D  D   D   S    S   S   S     S           D  S    
-REF: well the obvious question is this actually true 
-HYP: well the obvious question is      actually true 
-EVA:                              D                  
-REF: are we in fact doomed to hit the edge of  the petri dish  
-HYP: are    in fact                        and if  you'd think 
-EVA:     D          D      D  D   D   D    S   S   S     S     
-REF: i'd like to set aside this question for a  moment       and  ask you   guys another one 
-HYP:                 but   this              is satisfaction from a   nasty guys another one 
-EVA: D   D    D  D   S          D        D   S  S            S    S   S                      
-REF: if we are going to escape biology how are we going to do  it  
-HYP: if we are going is the    biology how                 did you 
-EVA:                 S  S                  D   D  D     D  S   S   
-REF: in the year 2050   there will be   almost 10  billion people in the world and all of those people will want the things that you and   i   want 
-HYP: in     your twenty fifty a    week almost ten billion people of the war   and              i      also want the things      the human eye out  
-EVA:    D   S    S      S     S    S           S                  S      S         D   D  D     S      S                    D    S   S     S   S    
-REF: nice cars nice clothes nice homes the  odd  chunk of  toblerone 
-HYP: nice cars nice clothes nice homes yeah come to    the iranian   
-EVA:                                   S    S    S     S   S         
-REF: i mean think of it      toblerone for 10  billion people how are we going  to do this 
-HYP: i      think a  toddler running   for ten billion people            coming to    this 
-EVA:   D          S  S       S             S                  D   D   D  S         D       
-REF: how are we       going to     feed everybody get water to everybody provide power to everybody avoid the worst impacts of climate change 
-HYP:         pharmacy it    really did  want      to  read  by the       provide power to rebut     avoid the worst impacts of climate change 
-EVA: D   D   S        S     S      S    S         S   S     S  S                          S                                                   
-REF: i'm a science journalist and i've been asking these questions to     researchers for years 
-HYP: i'm a science journalist and           by     the   vastness  pushes researchers for years 
-EVA:                              D    D    S      S     S         S                            
-REF: and in my experience their answers fall      into two broad categories which i  call  wizards and prophets 
-HYP:     in my experience there is      a    full into two broad categories       of cycle wizards and profits  
-EVA: D                    S     S       S    I                              D     S  S                 S        
-REF: wizards techno whizzes       believe that science and technology properly applied will let us     produce our   way   out of our dilemmas 
-HYP: was     it     actually says believe that science and technology properly applied      to  listen to      these early on  to 'em it's     
-EVA: S       S      S        I                                                         D    S   S      S       S     S     S   S  S   S        
-REF: be    smart make more they say that way   everyone can win 
-HYP: these are   the  more they say that point everyone can we  
-EVA: S     S     S                       S                  S   
-REF: prophets believe close to the opposite 
-HYP:          profits legal to be  awesome  
-EVA: D        S       S        S   S        
-REF: they see the world as governed by   fundamental ecological processes  with limits that we     transgress to    our peril 
-HYP: they see the world is governed by a fundamental ecological prophecies was  limits the  leaves and        grass for peril 
-EVA:                    S              I                        S          S           S    S      S          S     S         
-REF: use less conserve they       say 
-HYP: use      last     conserving say 
-EVA:     D    S        S              
-REF: otherwise everybody is    going       to    lose 
-HYP:           the       white everybody's gonna lose 
-EVA: D         S         S     S           S          
-REF: how are we doing 
-HYP: how are we doing 
-EVA:                  
+REF: go do you hear 
+HYP:    do you hear 
+EVA: D              
+REF: but in less than five minutes the staircase groaned beneath an extraordinary weight 
+HYP: but in less than 5    minutes the staircase ground  beneath an extraordinary weight 
+EVA:                  S                          S                                       
+REF: at this moment    the whole soul of the old man seemed centred  in his eyes which became bloodshot the veins of the throat swelled his cheeks and temples became purple as though he was struck with epilepsy nothing was wanting to complete this but the utterance of a cry 
+HYP: at this moment of the whole soul of the old man seemed centered in his eyes which became bloodshot the veins of the throat swell   his cheeks and temples became purple as though he was struck with epilepsy nothing was wanting to complete this but the utterance of a cry 
+EVA:                I                                       S                                                                   S                                                                                                                                                  
+REF: and the cry issued from his pores if we may thus speak a cry frightful in  its silence 
+HYP: and the cry issued from his pores if we met the  speak a cry frightful and its silence 
+EVA:                                         S   S                          S               
+REF: d'avrigny     rushed towards the old man and made him inhale a       powerful restorative 
+HYP: devon     you rushed towards the old man and made him        inhaler powerful restorative 
+EVA: S         I                                           D      S                            
+REF: d'avrigny unable to bear the sight of this touching emotion turned away and villefort      without seeking any further explanation and attracted towards him by the irresistible magnetism which draws     us towards those who have loved the people for whom we mourn extended his hand towards the young man 
+HYP: deveney   unable to bear the sight of this touching emotion turned away at  villa     ford without seeking any further explanation and attracted towards him by the irresistible magnetism       withdraws us towards those who have loved the people for whom we mourn extended his hand towards the young man 
+EVA: S                                                                       S   S         I                                                                                                    D     S                                                                                                              
+REF: for some time     nothing was heard in that chamber but sobs exclamations and prayers 
+HYP: for      sometime nothing was heard in that chamber but sobs exclamations and prayers 
+EVA:     D    S                                                                            
+REF: what do you mean sir 
+HYP: what do you mean sir 
+EVA:                      
+REF: oh you rave sir exclaimed villefort in vain endeavoring to escape the net in which he was taken i rave   
+HYP:    ou  rave sir exclaimed villefort in vain endeavoring to escape the net in which he was taken i raised 
+EVA: D  S                                                                                              S      
+REF: do you know the assassin asked morrel 
+HYP: do you know the assassin s     morel  
+EVA:                          S     S      
+REF: noirtier looked upon morrel with one of those melancholy smiles which had so often made valentine happy and thus   fixed his attention 
+HYP: noche    looked upon morale with one of those melancholy smiles which had so often made valentine happy     unless fixed his attention 
+EVA: S                    S                                                                                  D   S                          
+REF: said morrel  sadly yes replied noirtier   
+HYP:      several sadly yes replied naughty  a 
+EVA: D    S                         S        I 
+REF: the old man's eyes remained fixed on the door 
+HYP: the old man's eyes remain   fixed on the door 
+EVA:                    S                          
+REF: asked morrel yes 
+HYP: as    morel  yes 
+EVA: S     S          
+REF: must i leave alone no 
+HYP: must i leave alone no 
+EVA:                       
+REF: but can he understand you yes 
+HYP: but can he understand you yes 
+EVA:                               
+REF: gentlemen he said in a hoarse voice give me your word of honor that this horrible secret shall forever remain buried amongst ourselves the two men drew back 
+HYP: gentleman he said in a hoarse voice give me your word of honor that this horrible secret shall forever remain buried amongst ourselves the two men drew back 
+EVA: S                                                                                                                                                            
+REF: my father has revealed the culprit's name my father thirsts for revenge as much as you do yet even he conjures you as i do to keep this secret do you not father 
+HYP: my father has revealed the culprits  name my father thirst  for revenge as much as you do get even he conjures you as i do to keep the  secret do you not father 
+EVA:                            S                        S                                     S                                        S                             
+REF: morrel suffered an exclamation of horror and surprise to escape him 
+HYP: laurel suffered an exclamation of horror and surprise to escape him 
+EVA: S                                                                   
+REF: the old man made a sign in the affirmative 
+HYP: the old man made a sign in the affirmative 
+EVA:                                            
+REF: it was something terrible to witness the silent agony the mute despair of noirtier whose tears silently rolled down his cheeks 
+HYP: it was something terrible to witness the silent agony the mute despair    48       whose tears solidly  roll   down his cheeks 
+EVA:                                                                        D  S                    S        S                      
+REF: but he stopped on the landing he had not the courage to again visit the death chamber 
+HYP: but he stopped in the landing he had not the courage to again visit the death chamber 
+EVA:                S                                                                      
+REF: the two doctors therefore entered the room alone 
+HYP: the two doctors therefore enter   the room alone 
+EVA:                           S                      
+REF: noirtier   was near the bed pale motionless and silent as the corpse 
+HYP: naughty  i was near the bed pale motionless and silent as the courts 
+EVA: S        I                                                    S      
+REF: the district   doctor approached with the indifference of a man accustomed to spend half his time amongst the dead he then lifted the sheet which was placed over the face and just unclosed the lips 
+HYP: the district's doctor approach   with the indifference of a man accustomed to spend half his time among   the dead he then lifted the sheet which was placed over the face and just unclosed the lips 
+EVA:     S                 S                                                                           S                                                                                                   
+REF: the nearest said the district doctor is a good italian abbe who lives next door to you shall i call on him as i   pass 
+HYP: the nearest said the district doctor is a good italian ave  who lives next door to you shall i call on him of the past 
+EVA:                                                        S                                                   S  S   S    
+REF: d'avrigny said villefort be so kind i  beseech you as to accompany this gentleman here is the key of the door so that you can go in and out as you please you will bring the priest with you and will oblige me by introducing him into my child's room do you wish to see him 
+HYP:           77   delaford  be so kind of a       c2  as a  company   that gentleman here is the key of the door so that you can go in and out as you please you will bring the priest with you and will oblige me by introducing him into my child's room do you wish to see him 
+EVA: D         S    S                    S  S       S      S  S         S                                                                                                                                                                                                           
+REF: i only wish to be alone you will excuse me will  you    not 
+HYP: i only wish to be alone you will excuse me while you're not 
+EVA:                                            S     S          
+REF: i am  going sir and i do not hesitate to say that no prayers will be more fervent   than mine 
+HYP:   i'm going sir and i do not hesitate to say that no prayers will be more fervently than mine 
+EVA: D S                                                                       S                   

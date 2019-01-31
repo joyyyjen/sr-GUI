@@ -1,19 +1,21 @@
 from flask import Flask, render_template, request
 from definition import CFG, SITE_ROOT, UPLOAD_ROOT
-from sr_anlz.execute.main import execute
-from sr_anlz.execute.main import analyze
+from sr_anlz.execute2.main import execute
+from sr_anlz.execute2.main import analyze
 import flask_site.utility as uti
 import os
-
 app = Flask(__name__, instance_relative_config=True)
-
 
 @app.route("/", methods=["GET", "POST"])
 def index():
+    for file_name in os.listdir(UPLOAD_ROOT):
+        print(file_name)
+        file_path = os.path.join(UPLOAD_ROOT,file_name)
+        os.unlink(file_path)
+
     # POST
     if request.method == "POST":
         uploaded_files = request.files.getlist("file")
-        print(len(uploaded_files))
         file = uploaded_files[0]
         if ".zip" in file.filename:
             fp = os.path.join(UPLOAD_ROOT, file.filename)
