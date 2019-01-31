@@ -74,6 +74,7 @@ def n_gram_set(sents, n):
 def print_func(name, error, total):
     error_tuple = []
     error_list = []
+    print(name,error,total)
 
     freqResult.write("{} : {} =====\n".format(name, len(error) / total))
     freqDict[name] = [len(error), round(len(error) / total,3)]
@@ -89,6 +90,7 @@ def print_func(name, error, total):
         error_list.append((i, error_tuple.count(i)))
     freqDict[name].append(error_list)
     freqResult.write('\n')
+
 
 
 def format_print(error):
@@ -125,6 +127,39 @@ def main_freq():
     sorted_by_value = sorted(freqDict.items(), key=lambda kv: kv[1],reverse=True)
     test.close()
     sol.close()
+
+
+    return output_path, sorted_by_value
+
+def sec_freq(rec_file,trans_file):
+    test = open(rec_file,'r')
+    sol = open(trans_file,'r')
+
+    test_string = test.readlines()
+    sol_string = sol.readlines()
+    # print(len(sol_string))
+    sum = 0
+    sents = []
+    for i in range(len(sol_string)):
+        if sol_string[i] == "\n":
+            print("Error Occur")
+            break
+        sol_word = sol_string[i].strip("\n").lower().split()
+        sum = sum + len(sol_word)
+        test_word = test_string[i].strip("\n").lower().split()
+        sents.append(word_error.wer(sol_word, test_word))
+
+
+    error = n_gram_set(sents, 2)
+    print("PASS N-GRAM")
+
+    format_print(error)
+    print("PASS FORMAT PRINT")
+
+    sorted_by_value = sorted(freqDict.items(), key=lambda kv: kv[1],reverse=True)
+    test.close()
+    sol.close()
     freqResult.close()
 
     return output_path, sorted_by_value
+

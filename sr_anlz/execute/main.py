@@ -4,7 +4,7 @@ import os
 import shutil
 from sr_anlz.definition import PKG_DIR
 from sr_anlz.execute.recognizer import recognition
-from sr_anlz.execute.freq import main_freq
+from sr_anlz.execute.freq import main_freq, sec_freq
 
 '''
 if len(sys.argv) != 2:
@@ -14,6 +14,7 @@ if len(sys.argv) != 2:
 
 
 def execute(zip_file):
+    print(str(zip_file))
     with zipfile.ZipFile(zip_file, 'r') as zip_ref:
         zip_ref.extractall(PKG_DIR)
 
@@ -33,4 +34,9 @@ def execute(zip_file):
 
     return result_fp, result
 
+
+def analyze(rf,tf):
+    print("Start Analyzing")
+    result_fp, result = sec_freq(rf,tf)
+    return result_fp, result
 

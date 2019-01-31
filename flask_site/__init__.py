@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request
 from definition import CFG, SITE_ROOT, UPLOAD_ROOT
 from sr_anlz.execute.main import execute
+from sr_anlz.execute.main import analyze
 import flask_site.utility as uti
 import os
 
@@ -11,12 +12,24 @@ app = Flask(__name__, instance_relative_config=True)
 def index():
     # POST
     if request.method == "POST":
-        file = request.files['file']
-        fp = os.path.join(UPLOAD_ROOT, file.filename)
-        file.save(fp)
-        # Process Data and Output
-        # OPT
-        OPT = execute(fp)
+        uploaded_files = request.files.getlist("file")
+        print(len(uploaded_files))
+        file = uploaded_files[0]
+        if ".zip" in file.filename:
+            fp = os.path.join(UPLOAD_ROOT, file.filename)
+            file.save(fp)
+            # Process Data and Output
+            # OPT
+            OPT = execute(fp)
+        else:
+            file1 = uploaded_files[0]
+            file2 = uploaded_files[1]
+            rf = os.path.join(UPLOAD_ROOT, file1.filename)
+            tf = os.path.join(UPLOAD_ROOT, file2.filename)
+            file1.save(rf)
+            file2.save(tf)
+
+            OPT = analyze(rf,tf)
         # TXT
         with open(OPT[0], mode="r") as f:
             TXT = f.read()

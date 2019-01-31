@@ -8,7 +8,9 @@ from sr_anlz.definition import PKG_DIR
 
 mistake = 0
 grade = open(os.path.join(PKG_DIR, "output", "ErrorWer.txt"),'w+')
-alignedresult = open(os.path.join(PKG_DIR, "output", "ErrorAlignedresult.txt"), 'w+')
+alignedresult = open(os.path.join(PKG_DIR, "output", "ErrorAlignedresult.txt"), 'a+')
+
+
 
 def editDistance(r, h):
     '''
@@ -248,6 +250,8 @@ def wer(r, h):
     #global grade
     grade.write('{}\n'.format("%.2f" % (100 - result_1)))
     editorder = alignedPrint(list, r, h, result)
+    alignedresult.close()
+    grade.close()
     return editorder 
 
 

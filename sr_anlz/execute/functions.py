@@ -8,22 +8,6 @@ nltk.download('wordnet')
 nltk.download('stopwords')
 
 #homoResult = open(os.path.join(PKG_DIR,"output","homoresult"),'w+')
-''''
-def homo_check(pair):
-    #count = 0
-    for pair in error_s:
-        word1 = pair[1][0]
-        word2 = pair[1][1]
-        if doublemetaphone(word1) == doublemetaphone(word2):
-            return "homo"
-            #homoResult.write("{} {}\n".format(word1, word2))
-            #count += 1
-        else:
-            if stem_check(word1, word2): 
-                return "stem"
-    #return count
-'''
-
 
 def homo_check(pair):
     word1 = pair[1][0]
