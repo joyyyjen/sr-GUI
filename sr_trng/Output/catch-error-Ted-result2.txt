@@ -1,0 +1,6 @@
+'19th' 11
+'budworm' 17
+'thousandfold' 18
+'2050' 38
+'10' 40
+0.12 fail to produce phonetic transcription

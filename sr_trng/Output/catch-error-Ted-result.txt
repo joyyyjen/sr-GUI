@@ -1,0 +1,6 @@
+'skitters' 16
+'crown-of-thorns' 17
+'hundredfold' 37
+'2050' 38
+'toblerone' 49
+0.14

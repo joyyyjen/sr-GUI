@@ -1,0 +1,776 @@
+We are kicking off this evening a week-long celebration of a landmark event, which is the golden anniversary of the Allerton Conference on Communication, Control, and Computing.
+For those of you who have been regular attendees at the Allerton Conference for many years and for some probably Allerton is special place in your career, having presented your first paper or second paper in your career at the Allerton Conference, and I know that there are many of you out there.
+For those of you for whom this is the very first Allerton Conference, an-and for all conference attendees and for our guests, this is a historic moment.
+It's a celebration of a multi-disciplinary scientific meeting which was launched 50 years ago on November 15, 1963 with vision and incredible foresight.
+It was the brainchild of Mac Van Valkenburg who, together with Joe Cruz, co-chaired the first conference 50 years ago.
+Bill Perkins, eh, who is here, ehht, and, eh, he was also involved in the initial discussions and planning of the conference, and I believe he is the only one in this room who has witnessed that historic event 50 years ago.
+The creatives' vision was, as articulated by Mac and Joe in the forward to the proceedings of that first conference.
+That vision was to provide an opportunity for researchers to present their fresh new results in a dynamic growing field and to bring researchers in different disciplines together to cultivate cross-fertilization of ideas.
+And this was right on target.
+And this far-reaching vision of its founders is still the guiding light at Allerton 50 years later.
+It's-it's one of the longest running conferences at least that I'm aware of in the systems area, and it's one of the most prestigious.
+It's perhaps the only longest running conference that has never changed its venue.
+From the very beginning, it has been held at the Allerton House in Monticello, Illinois.
+Only a minor adjustment was made in going from the first to the second Allerton Conference in 1964, which was to move the date from the chilly mid November to late September, which was September 28th through the 30th.
+That's when the-the second Allerton Conference was held, so that the attendees can enjoy the beautiful fall weather at the Allerton grounds, and it looks like, at least some of the days we'll have that beautiful weather with us this year also.
+I'm told, eh, I'm not sure to what extent that it is a fact, but, eh, Mac actually wanted to hold the first, eh, conference in October, the first week in October because that coincided, would have coincided with his birth date, which was October 5th.
+But the Allerton House was not available at the time, and I'm told that was the reason why it was pushed to November the 15th.
+But then immediately the following year, it was brought back to the first week or the last week in September, and since then it has always been held either the last week in September or the first week in October.
+The conference has evolved over the years in parallel to the developments in the fields of communication, control, and computing, and in fact it has at times influenced, impacted, and shaped the evolutions in those fields.
+Some of the very early results, which then became landmarks in these fields, were presented at the Allerton Conference.
+To share with you some numbers, in 1963, at the very first conference there were 11 technical sessions, 3 general or what we now call plenary sessions, they were not called that way at the time, with 62 individual presentations involving 84 authors.
+The proceedings of that inaugural meeting was edited by Joe Cruz, and it comprised 780 pages.
+And here I have actually a copy of that very first proceedings and it is in such good shape, 50 years later.
+[laughing] And the, and the proceedings in the intervening years have always looked like this.
+Nothing has changed.
+And the, eh, today, as compared with those initial numbers, 49 years later, we have in the program this week, 65 sessions, 344 individual presentations, and have almost 500 authors, maybe even over 500 authors, are involved in these papers which will be presented here.
+So it's a, it's a major growth, but we are limited by the size of the Allerton House, so don't expect those numbers to grow, to double within the next even, uh, 10 years.
+So talking about the celebrations, this, eh, golden anniversary of the Allerton Conference is not the only important anniversary on our campus today.
+Today is also the exact, to the day, first year anniversary of our chancellor, Phyllis Wise, taking on the stewardship of our campus.
+We are delighted and honored to have her here with us this evening to share with us this important moment and to officially open this kick-off event for the golden anniversary.
+Chancellor Wise also holds the position of Vice President of the University of Illinois, and as CEO of our campus she is responsible for all financial programs, campus policies, and priorities with the mission of insuring a transformative, educational experience for America's next generation of leaders.
+She has held, eh, faculty and administrative appointments at the University of Washington, at the University of California at Davis and Kentucky, eh, prior to joining here, eh, Illinois.
+Eh, her research career has focused on issues concerning women's health and gender based biology.
+She is a Fellow of AAAS and a member of the National Academy of Sciences Institute of Medicine.
+Please join me in welcoming Vice President and Chancellor, Phyllis Wise, to the podium, to open this golden anniversary.
+[applause] (Phyllis Wise) Somebody took good care of these proceedings from 50 years ago.
+It's a real honor to be here in this overflowing room.
+I wonder whether we're in fire code, but that's, that's okay.
+I won't say anything, if you don't.
+Um, it is truly an honor to be here to, uh, welcome you to the 50th anniversary celebration of this wonderful conference with such a long and strong history.
+Y'know, um, when I got this position I tried really hard to, uh, do a lot of homework on the University of Illinois to learn about my new academic home, and I must admit I did not come across the Allerton Conference so I must not have done homework enough to realize what a rich tradition was really started 50 years ago.
+Um, this conference really is an illustration of, uh, what can happen at a great university with a 145 year history.
+Uh, the-the story that you just told, Professor Baser-Basar, and, uh, what I'm learning tonight about all of this, is truly amazing.
+I think it's wonderful that it started out at Allerton and it continues to be at Allerton.
+I think it's wonderful to know that sometimes traditions should be carried on because they hav-are part of the richness of the experience.
+Um, you know, I-I just want to add tonight that, uh, I'm sure that this is the beginning of the next 50 years of this conference, and though it won't get larger in terms of number, that that is actually a good thing because sometimes the intimacy that you gather from having only a few hundred people cannot be replicated when you let it grow into thousands and thousands of people at the same time.
+So I wish you the very best in this conference.
+I am honored to be here to welcome you to it and I wish you the richest of ca-discussions and, and, um, new discoveries being discussed here.
+Thank you very much for having me.
+[clapping] (male) Now that we have the official opening of the confernece, Allerton Conference we can, uh, eh, continue with the program, and, eh, and we have a very distinguished, eh, eh, speaker, eh, to, uh, eh, for this, eh, kick-off evening, and-and this is something special.
+Allerton Conference, for those of you who have attended in the past, has always been for three days and all events were held out in Monticello, and because of this 50th anniversary we decided to, eh, have a kick-off event here on campus and so that we can attract, uh, people who maybe normally would not have gone out to Allerton.
+And, eh, and, and we wanted to pick someone, uh, who is, uh, who will talk to the importance of this occasion.
+And, eh, I'm very pleased, eh, eh, to, eh, have, eh, Karl Astrom from Lund University of Sweden, eh, to be the keynote speaker or the Jubilee Lecturer this evening.
+Eh, he is a world renown control scientist and engineer and educator, and I can take a full hour, actually, to talk about his accomplishments, his impact on the field, not only on the control field but-but-but across the board and, eh, eh, communications, eh, and-and computing, those that-that are really the topics and areas that are covered Aller-at the Allerton Conference.
+So let me say just a-a few brief, eh, words on, uh, Karl's background and-and some of his achievements.
+As I said, I won't be able to cover everything.
+He was educated at the Royal Institute of Technology in Stockholm.
+During his studies, he worked on inertial navigation for Research Institute of National Defense.
+After working for IBM research for five years, he was appointed Professor of the Chair of Automatic Control at Lund Institute of Technology, or Lund University, where he established a new department.
+From 2000 'til 2010 he was a professor at the University of California in Santa Barbara, and he is currently back at Lund University as a, as a senior professor.
+Uh, he has broad interest in control including, stochastic control, modeling, system identification, adaptive control, computer control, and computer-aided control engineering.
+He is listed in the ISI, ISA Highly Cited and-and he has the Adarsh number three.
+For those of you who don't know what that means, ask your neighbor, but after the lecture.
+And, uh, two, he has seven books, and two of these books have received the prestigious Harold Chestnut Textbook Prize from the International Federation of Automatic Control.
+And one of his papers on self-tuning control, which is very well known, very well cited, which was co-authored with Wittenmark, eh, again from Lund University, was selected for the IEEE book on control theory.
+This was the millennium, eh, book on Control Theory, 25 Seminal Papers, eh, covering the period 1932 and 1981.
+There were only 25 papers that were picked, eh, er-eh, out of, from a pool of thousands of papers, and-and this was one of those.
+Eh, he has several patents, and one of them for automatic tuning of PID controllers, which he holds jointly with-with Hagglund, eh, and that has led to substantial industrial production.
+Eh, Karl is a member of the Royal Society, Royal Swedish Academy of Engineering, Sciences, and the Royal Swedish Academy of Sciences.
+He is a foreign member of the U.S. National Academy of Engineering, the Russian Academy of Sciences, and the Hungarian Academy of Sciences.
+He is a Fellow of IFAC, a life Fellow of IEEE, and he has received many honors, among them six honorary doctorates, eh, the 1985 Oldenburger Medal from the, eh, American Society of Mechanical Engineers, ASME.
+The 1987 Quazza Medal from the Information Federat-eh, International Federation of Automatic Control, IFAC, and-and which is the highest medal that organization bestows on, eh, ehm, eh, scientists and engineers in the control field.
+The 1990 IEEE Control Systems Award he is a recipient of, and-and also the 1993 IEEE Medal of Honor, which is the highest award of IEEE which is the largest engineering organization in the world, and the 2002 Great Gold Medal of the Royal Swedish Academy of Engineering, and in 2003 he was inducted, uh, into the Process Control of-of Fame.
+and, uh, please join me in welcoming Karl to deliver the Jubilee Lecture.
+[applause] (Karl) Thank you very much, Tamer.
+I should also tell the students, sitting there in the back, there are a couple of seats up front.
+Don't be shy, but step forward and use these seats, please.
+Um, it's certainly a great honor for me to speak on this fantastic location of the celebration of the Allerton Conference.
+So, I would like to thank you very much for inviting me to do this.
+And, em, Tamer asked me to give a broad picture of control, and I was brave enough to take this picture.
+There should actually be a sub-line here saying, "a personal reflection." So remember what I'm saying here are my personal views.
+They're certainly not universal truth.
+So, eh, control has been around for a long time, but it really started to grow in connection with the development of the industries.
+Eh, it was sometimes an enabling technology, but one didn't recognize that there were lots of similarities between for example, process control, telecommunications, flight control, etc.
+And it became an engineering discipline in the 1940s, eh, and it has been developing very, very rapidly.
+And today we have lots and lots of applications and also some very interesting challenges.
+Eh, there have recently been a couple of studies of broad pictures of control.
+For example, the IEEE Control Systems Society has published a book called The Impact of Control Technology, which is available on the web, and in connection with the year eh-two, eh-2000 there were a couple of books presented that gave a perspective of engineering and control, uh, in this century, and I listed a few of them there and we'll come back to them later.
+One thing, that has been a hallmark of the control community is a solid foundation.
+And I've always been wanting to have an illustration of this and by accident I found this in Montreal this summer.
+This beautiful building here happens to be an insurance building in Montreal.
+And you look at this beaut, it was one of the most beautiful buildings in Montreal.
+But this tower fell down because the foundations were not so good.
+They had put in wooden pillars in the ground and then they started to rot.
+So, what I'm saying here, even if you have a beautiful house, unless the foundations are solid, eh, it's gonna tumble down.
+So I'm very proud to say that this has been a hallmark of control and you will see this logo popping up here and there.
+I've called control the hidden technology.
+Eh, it's widely used, it's very successful, it's seldom talked about except when there's a disaster, you know.
+When a reactor blows up, when the airplane crashes.
+And I've often been wondering why.
+And I think it's much easier to talk about devices than ideas.
+It's much easier to say, will a computer fix that than the ideas that are behind it.
+And also I think we have something to blame ourselves for.
+We have been very bad at telling what control is to our fellow scientists and also, em, to our colleagues and to the general public.
+Eh, so therefore, I have advised our students, this is something that we have done badly and you in the next generation now have to do it.
+So I think Intel did it very well with this sort of Intel inside, y'know.
+So we should have something like Control inside.
+So that would be one symbol.
+And then we should remember, y'know, to keep the foundations okay.
+And if we do this, things would be very well here in the future.
+So what will I do now? Well I have a very simple outline.
+I-its exactly follows the title.
+The past, the present, the future, and then I will do a little summary.
+So now let's do the past.
+Eh, control is a young field.
+Ehm, it's a little bit older than the Allerton Conference.
+Eh, and-em, eh, so it's useful to think about this.
+We are not matured, y'know.
+We're a little bit more than teenagers but barely.
+Eh, there's been e-early use of control in many fields.
+In governors for machines, in process controls, in vehicle control, and communication.
+As I said before, people didn't realize it was the same thing until we got the Servomechanism Theory around, say, 1940, 1950.
+And this had tremendous consequences.
+Education on control spread like wildfire in all engineering education and I think everybody would have been proud a-uh, about this.
+But around 1960, y'know, about the time the Allerton Conference started, there was a paradigm shift.
+And we got to tackle the second phase in control that I will talk a lot about.
+And I think what we're experience now is the third phase.
+And I'm not so sure about this so that's why I put a question mark over there.
+So let's now do something.
+Let's look at power generation.
+Y'know, you start to generate electric power and if you were using AC you wanted to generate it with constant frequency.
+The solution to this was that you introduced a turbine controller which is a classic watt governor that was, eh, y'know, these two wheels start spinning around.
+If they go-go, eh, if go fast, you-you, eh, reduce the amount of water that's coming in, etc.
+The side effect of this is that whenever you use feedback, you run the risk of instability.
+And that happened when people started to experiment with this, so you need it to have stability theory.
+And there were a number of people, that you can see in the bottom of the slide who contributed to this.
+There you see from-from left to right you see Maxwell, who actually wrote one of the early papers of analysis of control systems, Routh, a British mathematician, Stodola, a Swiss turbine engineer, Hurwitz, a sw-a Swiss mathematician, Vyshnegradski, a Russian engineer, and Lyapunov.
+So there was a whole lo-eh-slough of people who were developing stability theory.
+Let's move to another field, process control.
+Typical problem was a chemical process to keep temperatures, to keep pressures, etc. constant.
+The solution to this was the PID controller.
+There were some nice side effects.
+We got an industrial communication standard, consisting of plastic tubes of given dimensions and the agreement that you should propagate signals by pressures between 3 and 15 psi.
+And then you had standard instruments and standard devices that you connected.
+Course with the day's communication standard, eh, it's not too good and not too fast, but at least it was a standard.
+We also got two new rules to tune the PID controllers.
+Flight Control.
+Question is how to fly? And one reason that the Wright Brothers succeeded was that they understood dynamics.
+And they designed an airplane that was easy to maneuver but was not terribly stable.
+Many other people designed stable airplanes that were difficult to maneuver.
+Em, a side effect of this is that, em, it's boring to sit there and stabilize an airplane.
+And you can see there on the plane up here, em, there is, em, Eh, Sperry's son is sitting there and they put an autopilot on this plane and, em, eh, th-th-the mechanic was walking on the wing to introduce a perturbation and you can see that it's pretty close to the ground.
+So i-in-in, around 1913 this autopilot won the prize for the most stable airplane at, eh, in Paris.
+And I've taken this from the Honeywell book.
+In that they say, "An interesting feature is the proximity to the ground." (laughing) And down there on the left you can see the Wright Brothers and then you can see, em, eh, Minorsky who was a ship engineer, eh, who was very heavily involved in the interaction between stability and control.
+Here's another field, telecommunications.
+Em, the problem was how can you communicate over long distances? And to do this you needed amplification.
+So you needed to make a good amplifier.
+We are not talking about 1920, 1930.
+And their amp, the amplifying device at that time was the electronic tube, a pretty crummy device.
+It gave you amplification, but it was non-linear and it had time bearing characteristic.
+And then we had some brilliant people who we, eh, at Bell Labs invented the feedback amplifier.
+So what did, eh, it was done by Black.
+And the idea was that, how can you make a system out a bad component? And the-uh-the answer was by using feedback you can actually do this.
+And you see this calculation down here for a feedback amplifier, that, eh, if you, if-arrange a feedback in here, you look at the-the gain.
+It's essentially if k is large, the gain is large.
+These two terms disappeared and essentially R2 over R1 which are passive component.
+So that was the key idea of the feedback amplifier.
+Of course, again, people run into stability problems.
+Here they call it singing because this amplifier started to, y'know, this sort of sound you had here in the beginning with the microphone and the loud speaker.
+So therefore you had to do stability theory and there are two giants.
+Bode, who I was told grew up here in Urbana, and, em, eh, his father was a professor here in classics or languages, and there were Harry Nyquist who grew up in Sweden.
+Eh, the reason why feedback is used so much that that's a tremendous power.
+You can make accurate system from imprecise component like you did in electronic amplifiers.
+You can reduce effects of disturbances and component variation like you do in process control.
+You can regulate, stabilize, and shape behavior.
+You're a fantastic properties.
+So what are the drawbacks? Drawback number one is risk for instability.
+And that's why stability has played such an important role in control engineering.
+Y'know, you really have to know, you have to know your enemies.
+[laughing] The other thing about feedback is that you are feeding sensor noise into the system so that noise will create a lot of action that you would like to avoid.
+So these are the two drawbacks.
+But, of course, if you look to the advantages we have a lot of positive things going for us.
+So the scene of 1940 was widespread use of control in many fields and I gave you examples of this.
+I listed them there.
+The similarities were not realized.
+So what it took to-to realize the similarities was essentially the Second World War.
+So during the Second World War, what happened was that, em, politicians realized that science could have a major impact on the outcome of a war.
+And here in United States and in other places, want organized laboratories around universities which were going to develop the m-m-military tools, the radar, etc.
+And of course very prominent here in the United States was the effort around MIT.
+So I want to, gunsights, radar, etc.
+So the concepts were to use feedback and feedforward.
+And what happened then is that they brought in people who had very different talents.
+They brought in people, for example, who new about autopilots.
+They brought in people from Bell Labs.
+They brought in people from the process control industry.
+And then people discovered we have actually been doing the same thing.
+And then control emerged.
+And, em, the, eh, design tools were block diagrams and transfer functions.
+The simulation tools were analog simulation.
+Implementation was again that whenever you would have to build a controller you's, you essentially using analog techniques.
+And at that time there was a holistic view of theory and applications.
+So, essentially, the same groups who were doing application, were also doing theory.
+Eh, here's a little picture of servomechanism theory.
+Eh, the picture on the left illustrates, em, the block diagram, which is a very nice way of abstracting away details from a technical system.
+The picture in the middle show a hardware in the loop simulation from the Saab Airplane Company around 1952, and you see an analog computer sitting there, on the right.
+The theory was Laplace transforms and complex variables.
+System concepts, feedback, feedforward.
+Design was frequency response, a lot of graphical methods, and then analog simulation and analog implementation.
+Here's one of the early books on control.
+The reason it's called Servomechanism Theory.
+And notice, it's written by a professor of physics from Purdue.
+It's written by an instrument engineer from an instrument company, Nathaniel Nichols, and a first rate abstract mathematician, Ralph Phillips from, eh, University of Southern California.
+Cert its conception, control was multidisciplinary with a strong footing in mathematics, a strong footing in physics, and a strong footing in instrumentation.
+The consequences of this were tremendous.
+We were getting e-education of control engineers, sort of.
+Control courses sprung up everywhere.
+They came in different departments, mechanical, electric, sometimes in civil engineering.
+Eh, we got organizations where the most prominent is IFAC, International Federation of Automatic Control, was founded '57.
+Eh, there was industrialization.
+The company was specializing on control.
+Like Johnson Control, like Honeywell.
+We got journals and we got conferences and I think today, there's a control conference every week.
+I think every subject would have been proud of this, and we are now come roughly to 1960.
+So, in 1960 I said we had a paradigm shift.
+And in my mind the driver was a space race.
+You know Sputnik came up 1957, generated a fantastic amount of activity.
+Another thing that came around were the computers.
+So one started to use computers to solve control, to implement control systems instead of using analog computers.
+And the first installation was i-was in an oil refinery in Texas in '59.
+Eh, also it was discovered that the tools that were available at the time, in 1960 were insufficient.
+So what happened then, we turned a lot to mathematics to bring in, y'know, new tools and new ideas.
+There was a rapid growth of s-subspecialties, optimal control, stochastic control, nonlinear control, etc.
+We also got computational tools.
+Y'know, MATLAB today is a successor of what was developed at the time.
+There was a very impressive development of theory, but the holistic view was lost.
+Eh, I've sometimes said at the time that, em, there were many professors of control who had a platonic view of control systems.
+They talked a lot about them, but they never touched them.
+[laughing] And, em, that illustrates, y'know, the, uh, lack of the holistic view.
+Eh, I'll give you a couple of examples.
+One of the most promising one-eh, p-prominent one was optimal control theory.
+Eh, it was built on-on, eh, classical results, like by Hamilton and Euler.
+And then we had Bellman who developed dynamic programming, direct descendant of Hamilton and Jacobi.
+We had Pontryagin, who you can say, his ideas were direct descendents of Euler and Lagrange.
+And today we have what you call model predictive control.
+A lot of this was driven by the space race.
+Y'know, you would like to shoot up a heavy satellite with a weak rocket, you better do it in the right way.
+Eh, and here I just gave two books, one by Bellman and one by Pontryagin.
+Another very important thing that happened was the Kalman filtering.
+And I put Wiener right on the left because Wiener filtering was the predecessor.
+In-in many senses a lot of the machine was developed by him.
+And then Kalman came along and found very efficient ways to filter signals and he could combine measurements with mathematical models to es-to do estimation.
+So that's the basis of the Kalman filtering.
+Another thing is that we also got a new structure of the controller.
+Instead of the controller being a black box, we now saw that the controller should have a couple of components, a Kalman filter, here, that receives all the information from the process.
+It generates, best estimate of the state.
+Then we have here a feedforward generator that-that generates both feedforward signal, that drives the system where we would like it to go and also desire-generates desired behavior of the state and then we just do state feedback up here.
+So, that was something that we got out of the Kalman's work and the Kalman filtering.
+We also got system identification, a methodology to get out mathematical models from experiments.
+This is data I made myself in a paper factory in the early 60s.
+We which-we, uh, wanted to know how does a big factory behave from input/output and then you persuade the people to let you change things during production and you measure important variables in the end.
+And then based on this data you, em, eh, you estimate mathematical relations between these ones.
+And the typical idea is that by-by doing better control you can move closer to tolerances here and you can save money.
+So here's a tip, one of the first experiments we did when we were controlling the thickness of paper accurately.
+It was a project that IBM was running together with the Swedish paper mill.
+Here's another area, adaptive control.
+Em, one of the things, eh, it actually came up, er, from aerospace because when airplanes started to go supersonic, the dynamics changed.
+And then it was not enough to have an autopilot with fixed settings so one tried to do an autopilot that could adjust itself to changing flight conditions.
+The early experiments were not too successful.
+There was a famous crash on the X-15, for example.
+So the field has been going up and down and has continued to go up and down.
+Eh, one of the things I've been concerned with was called the self-tuning regulator.
+Eh, there was a lot of theory developed.
+There were case studies.
+Eh, I've given here a couple of products that I will skip because of time.
+I'll give you one example, though.
+A ship steering autopilot.
+This was something we developed from my lab together with a local shipyard in Kockums.
+And when I Google this now, the autopilot is still marketed by Northrop Grumman.
+And here I gave you an example.
+A typical autopilot runs a PID controller, and here you see what is happening, how the course is deviating when you're running in pretty bad weather and here you see what the rudder is doing.
+When we switched on the adaptive controller in here, you see what happens to the course deviations.
+You don't have to do an analysis to see that this is better.
+The reason that the adaptive controller can do it here, it knows about waves and it's trying to estimate what the wave motion is.
+And you can also see, we are not using larger rudder motions than what you are doing with the PID controller.
+That's a little bit more high frequency in here.
+So I would say that this is a very nice example of adaptive control that was done 30 years ago, and the products are still here, here running.
+One nice thing here is that you know quite a bit about ships so one can actual do a physics-based initialization of the system.
+So if you know basic data about the ship, you can roughly figure out what the initial parameters are going to be.
+Em, here's a special subject I will take up.
+Because in the early phase of servomechanism, people knew that there were limitations of control.
+People knew that time delays are bad.
+People knew that instabilities are bad.
+People know that what we call zeros in the right-half-plane, are bad.
+When, em, the so-called modern control theory came around with Kalman filters and state feedback, these conditions somehow did not show up, if you looked upon the way people were looking about it.
+So then people say, eh, well, y'know, maybe these limitations are not so serious anyway.
+And, eh, uh, I attended conference that were violent discussions, y'know, between the people who were advocating, what was at the time called, modern control theory and the classic guys.
+The classic guys were saying like this, oh, time delays are limitations.
+It must come into the theory.
+Zeros in the right-half-planes are very bad.
+They must come in.
+And then the guys sitting there on the-the modern control say, oh, y'know, you guys are stupid.
+Y'know, you don't know about matrixes, calculations like this.
+So we have this fantastic robustness property, etc.
+Well in the end, so it was almost like religious battles, y'know.
+So instead of sitting down and-and asking, trying out what the problem was and resolving it, y-you becam-you got a religious fight that lasted for several years.
+So it took a long time to figure this out.
+And I'm very pleased to say that eh, one of the first glimpses of what was going on was actually presented at the Allerton Conference by this man here, which is called George Zames, in 1979.
+Am I correct now? Yes, 79.
+So that was the first time it came up that there's probably something about the fundamental limitations about time delays.
+And then it took a while, eh, but the, and of course what contributed to this was that state space had a i-had infinite gain margin and phase margin of 60 degrees.
+Of course that had to do with the fact that you're measuring all the state values.
+When you do output feedback, this is not at all true.
+So then the field of robust control came around, and Youla, who was very active here from the first Allerton Conference, was one of the key contributors to this.
+And then there was a very famous paper that's called the four-author paper by John Doyle, eh, Keith Glover, Khargonekar, and Bruce Francis.
+I couldn't find a good picture of Bruce Francis, but he should be here.
+[laughing] And, em, it, then it became very clear that there are indeed fundamental limitations.
+So, y'know, the classical guys were right about this.
+And also, eh, one figured out the way to solve this.
+Then, another thing happened here in Illinois.
+Eh, you recognize our friend here? And he had a colleague in France called Pierre Bernhard, and they said well, it's all games.
+See, in other words, they formulated the robust control problem as a game problem.
+Nature is providing the bad perturbations and what you are doing is that you're playing against nature.
+The very nice consequence of this is that it opened up the area to do robust control for nonlinear systems.
+The other approaches that were done before, they were limited to linear systems.
+But now when you treat it as a game, from a different viewpoint, you could suddenly, you could suddently tackle nonlinear problems you couldn't do before.
+So that was a little bit about the past.
+And I didn't dare to go f-more than to roughly 1980 because one of my colleagues who was a professor of history said, "Never, ever talk about recent things because you'll never have a good perspective on them." So I was brave when I went to 1980.
+I didn't want to go any further.
+So now I'll talk about the present.
+And, em, eh, about applications.
+There are lots and lots and lots of applications of control in the traditional fields, and this application are expanding.
+So we have it in power systems, in process control, in aerospace, in automotives, in buildings and robotics.
+We have it in computer systems.
+We have it also at other levels.
+For example, in global enterprise control.
+You have it in advertisement.
+You have it in mobile telephones.
+You have it in art and games, and you have it in physics and biology.
+So not only the tra-traditional fields are expanding but also the application fields are expanding.
+I'll give ya, I'll give you illustrations of this.
+Here is, for example, a process control example.
+It's also something I've been involved with.
+A simple way to tune simple controllers.
+So there's a PID controller that you would like to tune, what you do is set the switch in a relay here.
+Then you get like a thermostat.
+And what happens with a thermostat, the tempers starts to oscillate, start to swing.
+Well, the swinging there contains useful information, so by analyzing the swinging you can pick up enough information to tune a PID controller and then you can just switch it, switch it over.
+It's a robust and easy to use.
+It's well adapted to users.
+You can just have a button that you push, and it's done by quite a large company, at the time, so there are hundreds of thousands of, of these sort of devices out there today.
+I-I gave you a nice example of this.
+This comes from, em, em, a paper mill up in Naven, Sweden.
+And, em, eh, I wasn't there myself, so I, this is second-hand story.
+So my-my colleagues were up there.
+They had been a student of these controllers with automatic tuning.
+And typical commission a factory is something that typically takes a week or two.
+Y-y'know, you have to fix up the instruments.
+You have to tune controllers, etc.
+In this case they did it in three days.
+So what they did, they make, uh, sure the instruments right.
+Connect one of these autotunes and push a button.
+This loop is clear.
+Go to the other loop.
+So people were very happy about this.
+So they said, well can't you use this magic device on this beast of process we have here that we have not really been able to control.
+And this was a destination tower and I'll show you here what's happening.
+Eh, time is running this way.
+It's one of these old fashioned instruments.
+You see here it's oscillating.
+And this is run under, under PID control.
+Eh, well here, uthm, what is this? This is, ah, roughly before launch.
+You put it, control into manual and then the oscillation stopped.
+Here at 2 o'clock in the afternoon they push the tuning button.
+They push a button.
+So now what-what's happening here, you have, essentially, the relay feedback.
+Here, in the beginning, you are just measuring a little bit of noise and hysteresis and then you can see it's not in a perfect sinusoidal iteration but it's enough to pick out the dynamics.
+And of course here people are starting to get worried.
+It doesn't work.
+And in there the controller has figured out by itself that now I know what parameters are and I can regulate, and then see how well it regulates.
+And this takes from 2:00 in the afternoon 'til, what is it here? Eh, it's, uh, 7:00 o'clock in the evening.
+So, it's a long time, but, eh,it tuned successfully.
+So I think this is a nice little example of automatic tuning.
+Here's a very different example.
+This is a comp-ehh, it's a factory complex.
+Eh, again, a paper factory.
+You have lots of manufacturing units and then you have storage tanks, etc.
+And here the problem is to run the whole factory in a, in, eh, a sensible way.
+Eh, this is work that was done by ABB.
+And what they do is that they've been doing mathematic and model of the whole thing.
+The model is partic-complicate.
+It's about, er, a few thousand variables.
+So what they do is that they estimate the state from sensors.
+Then they run an optimization program, and then they simulate.
+And at this stage they give commands to the people who are running the different units about how they are going to chan-change production settings.
+Some of the production settings are set there automatically.
+So it's an example of, em, automation of-of a more complex systems.
+Em, this then grew up.
+This would be typical process control.
+This would be the manufacturing system I was talking about.
+What's happening now is control is now creeping up together with the business systems.
+Em, so, for example, Wal-Mart is one of the companies who's most skilled at dealing with this higher level here to keep, y'know, storage of things like this, um, at a low level.
+Here's another example that comes from General Electric.
+Eh, it's what's called a trip optimizer.
+It has to do with how you should run freight trains effectively.
+Eh, and the trick to run freight trains is that you should try to, you should arrive in the right time and you should avoid braking as much as possible.
+So what General Electric has done is that they have applied optimal control and then they have made a nice implementation of a system.
+So, they are using wireless links, eh, s-so, to on board computers so you can know what you are.
+There are maps, you know what the terrain looks like.
+So if you are going to go up a hill you can go a little bit faster.
+When you go down, etc.
+You shouldn't brake when you go down.
+And then they have done an integrated system like this that is run by the train operators.
+So this system is now, eh, in commercial operation.
+In automotive, I think that deserves a special slide because automotive is a strong technology driver.
+Y'know, there are so many cars and the car companies are so powerful so they can get, em, CMI manufacturing companies to do things they may not otherwise be willing to do.
+So for example, eh, eh, they persuaded Intel and Motorola to do the micro controller.
+In other words, eh, eh, it's a computer with built-in A to D and D to A.
+And also, right now, eh, the automotive industry's pushing the sensory industry, very much so we are getting cheap accelerometers and cheap gyroscopes.
+And, em, i-i-it started with them, engine control, because it was impossible to satisfy the California emission standard without, with-with tradition means.
+So the only way to do this was to introduce feedback.
+So that's what's happened.
+And then once you started to get a computer into the car, there were many opportunities to many other things.
+So then you, one, got cruise control.
+You got adaptive cruise control.
+Today you get collision avoidance and you get traction control.
+And you get also line gade-guided assistance.
+And also one is moving to traffic flow control.
+There was a very interesting project run at, uh, by University of Berkeley on platooning of cars.
+Em, you wanted to, eh, get more throughput on the highway by shortening the distances between cars and then you were going to run them automatically with about, y'know, half a meter between them and then you can push through cars very quickly.
+You can say it's a way of making trains out of cars, but it was an interesting project.
+Now here's, em, eh, another one of this namely for, for, trucks.
+This is done by Scania, which is a Swedish car company, KTH.
+So by running trucks close to each other, here, you can reduce a lot of the, a-air resistance between them.
+And in a modern k-t-car today there are about 80, you could say there's about 80 control systems or 80, eh, microprocessors.
+And the way the automotive industry deals with complexity is that, they buy the whole system.
+They buy the sensor.
+They buy the actuator.
+They buy the computer.
+And that was all right if you had, em, handful of systems.
+Eh, now when you're getting 80 of them where some of them may use the same sensory information it's getting more complicated.
+So now there's a very strong push in the automotive industry to get an infrastructure where they can do this.
+There's also a problem about specifications because typical specifications here, you write a little book in English about half an inch thick and they hand this to some of the manufacturers and say, okay, this is what I want.
+And then they send you an electronic book and say here it is.
+So the question is, how do you verify this? And how do you make sure that it works? And of course it doesn't always work.
+So this is one of the areas where there's a tremendous need for systematic procedures.
+Em, here's another example.
+Eh, it's, em, automotive powertrain control.
+Eh, and it's a nice system done by Honeywell which are selling to car manufacturers so that the car manufacturers can introduce optimizing control into cars.
+Eh, I think I'm going to skip this one.
+Eh, also, mobile telephones.
+I think this is really interesting.
+Em, here is an example of a mobile telephone in the 1980s.
+You see price.
+Eh, very expensive.
+And you take one today, about 13 dollars.
+The weight, 4 kilograms.
+Now it's 60 kilograms.
+And if you look to the control loops, there are about 10, 10 critical control loops in a phone.
+And then you multiply by the number of phones per year.
+So, i-in the mobile industry is actually leading in terms of number of control loops.
+So this is the number of control loops you have in mobile telephones per year.
+So they require some attention.
+You do frequency control.
+Em, you do power control and gain control.
+And mostly it's fairly simple controls, but you had to pay careful attention to them because you manufacture so many of them.
+There are actually 6,000 people who work in mobile telephone technology right next to our university which is kind of interesting for us.
+Em, here's another area, which I think, should be of prime importance for this campus.
+You're going to get this super computer coming here.
+Uh, this super computer is generating a lot of heat.
+That you have to get, you have to buy the electricity for it and then you have to supply the heating.
+So, control of computing centers is becoming very important.
+And it's both a matter of allocating the resources.
+Eh, you have a lot of jobs coming into the, the cloud and then you have to allocate the resources in the computer system to deal with this in an efficient way.
+You also have to have to manage energy.
+And typically in the system you can lower the voltage by, thereby, y'know, reducing the clock speed and you're reducing, you're reducing power consumption energy.
+They're quite interesting control problems to do this.
+And you're certainly going to get one of these problems, here, on campus, which could be a very interesting test case.
+So they said the same thing about data management in computing centers.
+Here's a somewhat unexpected things.
+It is about internet advertising.
+Eh, o-one nice thing about the internet is that, uh, uh, the idea is, how should you design, er, an advertisement campaign.
+Y'know, you're putting in money to do this and this and that and you are expecting a certain outcome.
+Eh, a nice thing about the internet is that it's very easy to measure the outcome quickly.
+Em, and, em, there is a company called Advertisement.Inc, originally.
+It was founded by a son of Leuenberger who is one of our community.
+It's, eh, out in Palo Alto.
+And they are doing systems like this.
+So they are doing systems to, essentially, automate a use optimization for inter-internet advertisement and they are using the sort of typical tools that we have, y'know, modeling and feedback control.
+Then I have to talk about art and games, and I, this slide is sort of violent.
+It's done by young people.
+So I have to, I had to stop.
+Y'know, they can look at many things at the same time.
+I would, would like you to look at this.
+Em, this is done by Raff D'Andrea, eh, who was at Cornell who is now professor at the ETH and, em, this is what he calls The Chair.
+It starts like this and then, eh, it falls down and then it starts over again.
+This is in a museum in Toronto.
+Eh, he has also done other things.
+So this is a, eh, a, a nice piece of art.
+Here's another one.
+I know there are people here who are interested in quadrocopters.
+So these are quadrocopters in Switzerland.
+You see there roughly what they look like.
+And they are building pyramids.
+And of course this stones are lighter than what the Egyptians had, [laughing] eh, but they certainly build quicker.
+So I think it's interesting to see that control is now moving into the, the art world.
+And, em, Raff D'Andrea was also, I-I'm going to stop this one.
+You are, not like my grandchildren because they all fall at the same time.
+Eh, he also participated very successful in the RoboCup where little robots were playing soccer together.
+So, y'know, they are running around there and trying to beat the other team.
+Eh, I think Raff D'Andrea won the World Cup twice or something like this.
+Eh, but this is not only games.
+The same team have done this with the same type of technology.
+It's about, em, eh, doing warehouses.
+For example, when Amazon is going to package books and send them to you.
+And what they have done is that by using feedback, they have been able to use very simple devices and then they are using feedback to make very accurate motion based on this.
+So they are, they are using the feedback, feedback tricks and, em, eh, they are not only playing games like this, they're also doing real things that are now making profit.
+Eh, this is called Kiva Systems and I think the company has now been bought by Amazon.
+Now, The Chair was in the National Gallery of Canada, so I think it's nice that control has made its, made its mark there.
+Em, well, control has also had impact in physics.
+And there are two people who have got the Nobel Prize in physics for control effort.
+The first one was a Swedish engineer called Gustaf Dalen, who invented the switch for lighthouses.
+Y'know, lighthouses, when it's dark, you want to switch the switch on, and when it's light, you will switch it off.
+And he had a very simple idea.
+He was using, three polished metal bars and one black metal bar.
+When, eh, light is shining, y'know, the, em, the-the black one e-expands and then it was open like this and it revolutionized lighthouses all over the world.
+The second one is a Dutch engineer, Simon van der Meer, who was working with this accelerators where you are sending particles around a circuit and he invented something called stochastic cooling.
+There're some in-very interesting effects done right now in quantum and molecular systems.
+And on here I have to mention this one, too, about, y'know, I think I'm doing, almost great with time, I think, yeah.
+Eh, y'know, turbulence has always been a challenge in physics to explain turbulence.
+And, eh, i-it's governed by Navier-Stokes equations.
+A nonlinear partial differential equations.
+And then people a long time ago, they linearized the Navier-Stokes equations around, eh, eh, eh, some behavior and then they analyzed how will the eigenvalues of the linearized motion behave when you're changing Reynolds number.
+They found it was never unstable.
+So they couldn't explain it like this.
+So, the rumor went along that you can never explain turbulence by linear theory.
+But then, eh, a couple of control theorists, eh, Mohammed Dahleh, who is no longer with us, unfortunately, and Bassam Bamieh They did the following.
+They analyzed, if you have perturbations in the world, how do these perturbations propagate to the velocity field? And they linearized this operator.
+And then they were analyzing the gain of that operator.
+I mean, how much of the variations here propagated into the flow.
+And they got very nice agreement with, eh, how turbulence changes with Reynolds numbers.
+So I think that's one, one, one area where system theory have contributed to, y'know, classical physics problem.
+Then in-in physics, eh, you use feedback in the large scales for adaptive optics.
+What you're essentially doing there, is that, you're reducing the variation that happens when the rate is going through the atmosphere and the speed of light is changing in the atmosphere.
+You get rid of this by feedback.
+The other area here is, uh, is, uh, in the nano scale.
+We're using atomic force microscope to essentially, look at surfaces in very details.
+And of course both systems depend very critically on efficient feedback systems.
+If you do, for example, a better feedback system here, the biologists are looking at samples.
+Could see a picture, y'know, five times faster than they can look before, for example.
+Up here you can get much sharper images.
+Very clear what control would do here.
+Biology's an interesting one.
+Since I'm not a biologist, em, I-here's a book called The Way Life Works and it has seven chapters and, eh, one chapter is about feedback.
+And this is a quote from the book.
+"That feedback is a central feature of life.
+"The process of feedback governs how we grow, "respond to stress and challenge, "and regulate body temperature, "blood pressure, cholesterol level.
+"The mechanisms operate at every level, "from the interaction of proteins to-to organisms." So that's taken bonafide from this book.
+And, y'know, right now, there's a lot of activity in systems biology and related fields.
+One tries to merge this.
+I personally think it's a difficult thing to do, eh, but, em, it's certainly a very worthwhile effort.
+So that was a little bit about the present.
+Now, what about the future? I think we have some interesting challenges because, em, we are now starting to deal with complex networked systems.
+You can think about the internet itself, for example.
+You can think about power systems.
+You can think about, what you're talking about smart grids.
+When you're gonna, y'know, to, to charge electric cars.
+You're going to use electric cars for storage.
+You're going to generate electricity in the houses, etc.
+We're also getting system that are called sensor and actuator rich.
+If you take a camera, y'know, camera with, say ten me-megapixels.
+Eh, if you then view this as a sensor, it is a sensor which has a lot of information in it.
+And I would say that the systems we have now in control, they can easily deal with, say, 20-100 variables, 20-100 variables can deal with well.
+When we're coming into this, we need to think about systems in a very different way.
+And what's going to happen is that we are to break up the system.
+It's no longer sufficient to have the central Kalman filter that sits there and do everything.
+We have to have local feedback in the sensors.
+We-if we have, for example, images we have to do a lot of work in the images themselves to pick out the relevant information.
+And this is a tremendous ch-challenge.
+Another thing that's popping up here is safe design of embedded system.
+I mentioned this problem about the car.
+When it's specified something by a book in English, it's not easy to verify what you get this right.
+So this is a tremendous challenge that we have not solved.
+Another one is autonomy, and to do autonomy you need to do adaptation, learning, reasoning, cognition, etc.
+And then we have the applications throughout the field, so I will elaborate a little bit about this.
+This is a picture I got from a friend of mine, eh, at, em, Wright-Patterson Air Force Base.
+It tells about Flight Control, An Evolution of Automation to Enable Greater Air Vehicle Capability.
+And you see what they're striving for is that they are striving for a higher degree of autonomy.
+So they would like to have, y'know, vehicles that are much more autonomous than they are before.
+The same thing is happening out there in space.
+And, um, em, adaptive control can play a small part of this but we have to bring in elements of learning and cognition in here which are, not so easy to do if you're going to do it autonomously.
+There have been some interesting things done, though.
+Most of you have probably heard about the Darpa Urban Challenge.
+Y'know, when you drive car on an air force bay out in California, they should obey the California driving rules.
+And th-you mix them up with other cars that are driving around.
+And, eh, there were a handful of cars, who were fulfilling of the specification.
+Um, among them was this car here that was the winning car.
+And they have some elements of adaptation, learning, and connection.
+They have to have a lot of safety.
+They have to have diagnostics.
+If you're going to have real systems, you also have to think about maintenance and reconfiguration.
+I should mention, though, at that already 1995, y'know, that's long time ago, 17 years ago, a German researcher named Dickmanns was running a Mercedes Benz from Munich to Copenhagen on the German Autobahn and, eh, they had an autonomous car with a lot of sensors on it.
+And of course the driver on the Autobahn, they had to sit there and also supervise it manually.
+And they recorded whenever they have to do manual interaction.
+But they could run 95% autonomously already in 1995, which I think is quite remarkable.
+Eh, so my feeling is that, eh, and this is very subjective, that I think we are moving into third phase.
+Like I said, the second phase was driven by the space race and by computers.
+Now we're driven by complex networked systems and applications in physics and biology.
+So these are some very strong drivers.
+And, eh, some things we have to have there.
+We have to have autonomy.
+We have to learn to deal with sensor and actuator rich systems.
+We have to learn how to do provable safe design and reconfiguration.
+Now when you have the cars with a lot of computers in, when you drive them in and you have to make a change of them, something, you must have a safe way to introduce changes in the system effectively.
+And I also think as control engineers what we have to do is that we have to recover the holistic view.
+Eh, I think what happened in the 60s wasn't necessary because if you're going to develop, y'know, new areas and new field, there is no way but to dive into it, y'know, forget about the rest.
+Dive into it an-and develop the mathematics.
+And we still have to do this in many of this field, but to serve the engineering world that's sitting out there, we must also have people who have a holistic view of things and that's a major challenge that I will talk a little bit about.
+And, eh, if you take this NIH study, The Engineer of 2020, this is precisely what they are saying.
+That, eh, contemporary challenges, er, require a systems perspective.
+So we must make sure that we're getting students with a broad systems perspective.
+I'm very pleased to see John Barris here.
+So, uh, he's been advocating this for a very long time.
+In my view it is something like this.
+I'm pretentious enough to put control in the middle.
+Doesn't matter what you put it.
+[laughing] Eh, then we have to have computing.
+We have to have communication.
+We have to mathematics.
+And out here we have the real world.
+And to do the system we're talking about you must in some way grasp aspects of all of this.
+Now, it's impossible for a single person to be good at all of this.
+But what we can do is I'm sure we can educate, eh, students who are very good at one of these fields and who know enough about these interfaces in here so that they can communicate and work effectively with the other specialists that are sitting here.
+And then, of course, we need to have some overall people in here.
+Em, eh, eh, I talk about some, for example, I think this, this interface is real easy, control and communication, because in my mind it's essentially the same stuff.
+But it's taught in different departments by different people, which I think is ridiculous.
+Eh, Mathematics is the same.
+There is a couple of differences.
+Communication, the guys don't bother about time delays and we control guys are worried about time delays.
+But I think these are minor things.
+So I think we can do a lot both in terms of courses and other things t-to merge these kinds of things together.
+Eh, I'm gonna talk a little more about s-something.
+This is the easy interface.
+It only has to do with university politics.
+[laughing] But now you have a young, vigorous chancellor here, so, I think, uh, you may have a chance to do something.
+Eh, I will talk about the computer science barrier.
+Y'know, here you have control and here you have computing.
+Incidentally, I borrowed this from Bruce Krogh at, eh, Carnegie Mellon.
+So what control engineers do, they work with stability feedback, ordinary differential equation, moderate complexity, and worry about robustness.
+And then they write a-a Simulink simulation.
+They throw this over to the computing guys.
+And they know about languages, etc, formal methods, abstraction, architecture.
+And then they take the simulating program and then they do some kind of software for it.
+And, eh, sometimes it works.
+Sometimes it doesn't work.
+So what's happening here, control engineers have to know a little bit more about computing.
+Computing engineers have to know more about control.
+I'll give you one example.
+In automotive now there is a communications device called the can bus which is a standard communication protocol in the cars.
+It's a beautiful little protocol, but it has one drawback.
+It has time delays, and not only that, it has very big time delays.
+And if I said that time delays are bad for control system, very big time delays are really bad.
+So if this person who did the can bus had had a good introductory course in control, I said just an introductory course in control, that was good.
+He would have known, time delays are bad.
+So this would not be.
+a good thing if you're gonna close control loops.
+It's alright if you're gonna just raise your windows up and down, but if you're going to close control feedback loops around there, it's not a good idea.
+So that's one example, that could have been prohibited by good education.
+[laughing] I should also mention computing.
+And I still remember, eh, well you can start with Vannevar Bush.
+He said, "Engineering can progress no faster "than mathematical analysis on which it's based.
+"Formal mathematics is frequently inadequate.
+"A mechanical solution offers the most promise." He was at MIT and then he went ahead and built The Mechanical Differential Analyzer, that could solve about six ordinary differential equations.
+I worked for IBM research, and my boss, I was in the math department for a while, my boss was Herman Goldstine.
+He built the first computer together with John von Neumann.
+So, he was chair in the math department.
+At one staff meeting he said this, which I've never forgotten.
+"When things change by two orders of magnitude "it is not evolution, it is revolution." Now you combine this with Moore's Law, you get a revolution every ten years.
+[laughing] So, you recognize that computing power changes by two orders of magnitude roughly speaking every ten years.
+And that's why I have to exchange laptops every third year, for example.
+And, eh, there's a tremendous potential.
+If you think about this, y'know, that you're gaining two orders of magnitude per ten years, so there's a f-fantastic potential.
+But we have not been able to capitalize on this in engineering productivity.
+And I think that is something to think about because there is something out there that we could probably do something about.
+I should also mention that what I call the physics barrier, y'know.
+Here is, we have the real world.
+And there we have mass, energy, momentum and up here we have control.
+And I said before that block diagrams is very useful for control because that was what w-people used to discover that autopilots was the same as process control.
+The block diagrams look the same.
+But we as control engineers have been brainwashing students with block diagrams, over 50 years, but, and we use them for physical modeling, but block diagrams are absolutely worthless for phy-serious physical modeling because in blocks you have a causal connection.
+You have an input and you have an output.
+When it connect two physical systems you have bidirectional interaction and that is not captured by block diagrams.
+So, so please, if you're educate in control engineer say that there's something more than block diagrams, okay? Eh,then I'll talk about modeling and simulation.
+Again, a quote from this, The Engineer of 2020 where they say that "computer-based design-build engineerer will become the norm "for most product designs, "accelerating the creation of complex structure "for which multiple subsystems combine to form a product." So in other words, y'know, modeling is simulation.
+And so this is not my world.
+I said, most were personal.
+This is from a more authoritative source than me.
+I'll give you a nice example of this.
+Eh, the major German car manufacturers, I listed them here, and their suppliers, have standardized when it comes to doing climate control systems in cars.
+You know climate control, it has, um, compressors, it has heating changes, it has pumps, etc.
+And what they have done, is that the supplier, who supplies a hardware piece of hardware, he also delivers a validated mathematical model of that.
+Happens to be in a language called Modelica.
+And then the car companies, they are taking then this model, eh, so they say, well, uh, maybe this p-company here has a cheaper version of a compressor, should I use it? So then they take the-the model from-from this company, they put it into their simulator and they run the typical, eh, European standard drive cycle and then they figure out what happens to power consumption, to gasoline consumption, what happens to quality, no big deal, so then we can buy the cheaper one.
+So I think this is a very nice illustration of, em, how you can use models.
+In this case, the IP is protected by extensive en-en-encryptation and the substantial reduction here is in-in road and climate chamber testing.
+And I'm very proud to say that this was done by, eh, some of my grad students who also have this company Modelon, who is doing this.
+Eh, actually the same technology was used by Toyota when they made the Prius.
+And the software was also done by one of my former PhD students.
+Toyota had, at the time, 300 engineers working with mo-with working with what's now called Modelica.
+Ok, now come to the educational challenges.
+Eh, we have to educate the engineers who can deal with this in the future.
+We also have to educate people in physics and biology.
+And last year I actually gave a course in control to physicists, based on the request from the physics department, which was kind of fun.
+Em, and I think in control we have, what I call the dilemma of emerging fields.
+Y'know, I said control is a very young field, literal 50 years.
+So what did we do? Well, we taught everything we knew.
+That was, first course.
+When we knew a little bit more, we made a new course.
+And then we made a new course, and we made a new course, and we made a new course.
+And right now there are simply too many courses, eh, because if we're going to have these people who are well rounded and well educated we can't have them to do 15 courses in control or, I don't know what it is here, to get a PhD in Urbana.
+We can't have them to, because, they also have to learn a little bit about communication, about computer science, and about, about physics.
+So we have to do something about this.
+And the way to do this, I think, is to filter out the fundamentals, to compress, eh, to compress, figure out, what are really the important things? What are the essentials here? And we have to do this at the courses to all the level.
+It's a lot of work.
+Particularly if you have your courses developed and are going to teach it.
+But I think in the long run it's going to be very worthwhile.
+I also mentioned here computing.
+And I think computers have changed what we mean by a solution to a problem.
+Y'know, in the old time you had a solution if you can write it down with sine functions or something like this.
+And now, t-for example, if something reduces to a-a linear algebra problem, it's essentially solved.
+If something reduces to an ordinary differential equation with constant coefficient, it's also solved because we can generate everything we know with computers.
+So I think, erh, by thinking intelligent about this, I think we can do this.
+And what we need is, that we have to have students who have very deep knowledge in specific areas but who are reasonably broad in neighboring areas and also, who are able to communicate and also, to work in teams.
+This is what we need in order to do this.
+So now, eh, what I've done, I've spoken about introduction, past, present, and future.
+And now let me try to summarize.
+Eh, I think, personally, control is a very vital dynamic field.
+And if we watch out for the foundations and if we think about telling other people what we are doing, eh, I think we are going to continue to do great.
+Eh, there are lots of applications in traditional fields, so engineers we're educating here, they can find lots of job out in the industry.
+Now we have, also have to deal with networked embedded systems.
+We have to deal with autonomy and safety.
+And I think we should take the educational challenge here seriously.
+We were discussing here during dinner, for example, that there are many changing modes of education right now and I think this may be some vehicle we can jump on to, to do this.
+Eh, so, what we should do, is that we should continue to take care of the foundations and then to develop the holistic view.
+If we do this, control will also be great in the future.
+Thank you very much.
+[applause] (man) Thank you, Karl, for this inspiring, eh, lecture.
+I think we can take, eh, eh, a couple of questions from the audience.
+When you have a big crowd it's (Karl) They are like Swedish students.
+(man) Yes, that's right.
+Yes.
+(Karl) John, John Barras (inaudible audience) (Karl) Ah, eh, co-could you, could you repeat, eh, they wanted (inaudible audience) (Karl) Yeah (inaudible audience) (Karl) I-I will repeat, I will repeat the question.
+Eh, t-the question was that before we had a very simple situation.
+We had the sensor and an actuator and then we had the controller sitting between and maybe you had ten sensors and ten actuators, but you have a block sitting there in between.
+And John asked, what is happening right now when we have networked systems.
+And I'm trying here, to pick up a little picture, as an illustration.
+Eh, ah, Eh, I'll do it here.
+Eh, it should be, uh, I think it was somewhere down here.
+Oh, I think I'll skip the picture.
+Eh, I think this will require new paradigms.
+I mean, will we require, y'know.
+My view is this.
+That I think it will requi-require total different way of thinking.
+So, so what you have to do is that you have, eh, eh, you have to have a lot of, eh, eh-eh, well, to be honest, I don't really know what the solution is, but clearly it requires a very different way of thinking than when you had, for example, ten sensors and ten actuators and then, y'know, some kind of computing box in the middle.
+So, so that's why I'm saying, y'know, that control is by no means dead, y'know.
+We have these problems, that are very challenging, which are sitting out there that we have to deal with where we don't know the solution.
+And that's, of course, great if your graduate student are looking for good problems.
+And it's not going to be easy.
+(inaudible audience) (Karl) Yeah.
+Uh, so, eh, th-the comment was that, eh, eh, if you, if you have information theory, you have the problem bringing the information out to the network.
+So, tha-that's also a problem.
+So, yes.
+I think, you know, eh, Both John and I will be out here, eh, so you can, you can, you can corner John, then me to talk more about this later on, so.
+(inaudible) (Karl) No, no.
+(man) Well, thank you Karl.
+[applause] (Karl) Thank you.

@@ -1,0 +1,15 @@
+'19th' 11
+'budworm' 17
+'thousandfold' 18
+'2050' 38
+'10' 40
+'an-and' 52
+'50' 59
+'co-chaired' 54
+'creatives'' 56
+'it's-it's' 60
+'1964' 63
+'the-the' 64
+'5th' 65
+'15th' 66
+0.25 fail to produce phonetic transcription

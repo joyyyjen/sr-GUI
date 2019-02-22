@@ -367,7 +367,7 @@ def sec_freq(rec_file,trans_file):
         sol_word = sol_string[i].strip("\n").lower().split()
         sum = sum + len(sol_word)
         test_word = test_string[i].strip("\n").lower().split()
-        sentences.append(word_error.wer(sol_word, test_word))
+        sentences.append(wer(sol_word, test_word))
 
 
     error = n_gram_set(sentences,2)

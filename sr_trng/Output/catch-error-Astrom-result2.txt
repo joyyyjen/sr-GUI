@@ -1,0 +1,10 @@
+'an-and' 2
+'50' 9
+'co-chaired' 4
+'creatives'' 6
+'it's-it's' 10
+'1964' 13
+'the-the' 14
+'5th' 15
+'15th' 16
+0.6111111111111112 fail to produce phonetic transcription
