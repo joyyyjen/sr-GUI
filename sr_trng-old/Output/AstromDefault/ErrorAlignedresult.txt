@@ -1,0 +1,150 @@
+REF: we are kicking off this evening          a week long celebration of a     landmark event  which is the golden anniversary of the allerton    conference on communication control and         computing 
+HYP: we are taking  off this they    remained a week long celebration    often landmark events which is the golden anniversary of the ballot   in conference on communication         controlling computing 
+EVA:        S                S       I                                D  S              S                                             S        I                              D       S                     
+REF: for those of you who have been    regular attendees at the allerton  conference for many years and for some probably allerton is               special place in your career having                presented your first paper or second paper  in     your   career  at the allerton  conference and i know that there are many of you out there 
+HYP: for those of you who have being a regular attendees at     balancing conference for many years and for some probably a        pallet than this special place in new  york   area   and then being presented your first date  or or     second bigger bigger barrier at     balancing office     and i know that there are many of you out there 
+EVA:                           S     I                      D   S                                                         S        S      I    I                     S    S      S      I   I    I                          S        S      S      S      S      S          D   S         S                                                          
+REF: for those of you for whom  this is the very first allerton conference an         and for  all  conference attendees and for our guests this is a historic moment 
+HYP: for those of     two phone this is the very first ballot   in         conference and then fall conference attendees and     fog as     this is a historic moment 
+EVA:              D   S   S                            S        S          S              S    S                             D   S   S                                
+REF: its  a celebration of a    multi     disciplinary   scientific meeting which was launched fifty years ago on november fifteen nineteen sixty  three      with vision and incredible foresight    
+HYP: it's a celebration of that malt  the disciplinary a scientific meeting which was launched fifty years ago on november fifth   a        ninety six   is a with vision an  incredible force     ah 
+EVA: S                     S    S     I                I                                                                   S       S        S      S     I  I             S              S         I  
+REF: it was the brainchild of mac   van       valkenburg who  together with joe   cruz  co     chaired the first conference fifty years ago 
+HYP: it was the brainchild of mecca unwelcome work       boat together with jokes those quotes share   the first conference fifty years ago 
+EVA:                          S     S         S          S                  S     S     S      S                                            
+REF: bill perkins     eh   who      is   here    ehht and eh  he  was also involved in the initial discussions and planning    of the conference      and i believe he is the    only one in this room who has witnessed that historic event       fifty years ago 
+HYP: bill parkinson's that glorious year mandate that and the new was also involved in the initial discussions and letting  go of the golf       pros and i believe he is though only won in this room who has witnessed that these    are   given fifty years ago 
+EVA:      S           S    S        S    S       S        S   S                                                    S        I         S          I                        S           S                                       S        S     I                     
+REF: the  creatives    vision was as      articulated by                    mac and joe  in the forward to the proceedings of that first conference 
+HYP: that creates   as vision was bizarre to          go like that meant my mac and join in the forward to the proceedings of that first conference 
+EVA: S    S         I             S       S           S  I    I    I     I          S                                                               
+REF: that     vision was to provide an   opportunity              for researchers to present their fresh new results in a dynamic growing field      and to       bring researchers in       different disciplines together to cultivate cross fertilization of ideas 
+HYP: that's a vision was to vote    like no          fortunate to for researchers to present their first few results in a dynamic going   to    feel and fumbling we    start       trusting different disciplines together to cultivate coast fertilization of ideas 
+EVA: S      I               S       S    S           I         I                                   S     S                        S       S     I        S        S     S           S                                                    S                            
+REF: and this was  right on    target 
+HYP: and this goes i     don't target 
+EVA:          S    S     S            
+REF: and this far reaching vision of  its founders is still the guiding light at allerton            fifty years later      
+HYP: and thus far reaching vision off its ponders  is still the guiding light at the      eller than fifty years like  that 
+EVA:     S                        S       S                                      S        I     I                S     I    
+REF: its  its  one of the longest running       conferences at   least that im aware of          in the  systems area     and its  one of the most prestigious                 
+HYP: it's it's one of the longest one     eight conferences that plays that    kind  of wear off in this isn't   very out and it's one of the most is          the idiots that 
+EVA: S    S                       S       I                 S    S          D  S        I    I      S    S       S    I       S                    S           I   I      I    
+REF: its  perhaps the   only       longest running conference that has never changed its  venue     
+HYP: it's perhaps still only eight longest running conference that has never changed it's me    and 
+EVA: S            S          I                                                       S    S     I   
+REF: from the very beginning it has been held at   the allerton house in monticello       illinois 
+HYP: from the very beginning it has been out  alex and lost     him   on the        cello illinois 
+EVA:                                     S    S    S   S        S     S  S          I              
+REF: only a minor adjustment was made in        going from the first to the second allerton conference            in nineteen sixty four      which was to move the date     from the  chilly       mid november to late september which was september twenty eighth through          the thirtieth      
+HYP: only a minor adjustment was made it's been going from the first of the second ballot   and        confidence in ninety   six   civil war which was to          motivate from that show   where mid november so late september which was set       them   with   ten     days but the third     year 
+EVA:                                  S    I                         S             S        S          I             S        S     S     I                D    D   S             S    S      I                  S                           S         S      S      S       I    I       S         I    
+REF: thats  when the  the second allerton conference was held             so that the  attendees       can enjoy the beautiful fall weather       at the allerton     grounds and it looks like at   least some of the days well have that beautiful weather with us this year also 
+HYP: that's one  that the second ballot   and        how things worse now so that then then      these can enjoy the beautiful full were    there at the house    and grounds and it looks like it's way   some of the base will have that beautiful weather with us this year also 
+EVA: S      S    S               S        S          S   S      I     I           S    S         I                             S    S       I            S        I                             S    S                 S    S                                                       
+REF: im  told eh  im  not sure to what       extent that it   is a    fact but eh   mac actually wanted    to hold the first eh  conference in october            the first week in october because that coincided would have coincided with his birth date     which was    october     fifth 
+HYP: i'm salt bad i'm not sure so what's the extent that says is that fact but then mac actually want   it to all  the first day conference in all     your route the first week in october because that coincided with  that coincided with his       birthday which little over    the fifth 
+EVA: S   S    S   S            S  S      I               S       S             S                 S      I     S              S                 S       I    I                                                      S     S                       D     S              S      S       I         
+REF: but the  allerton house was   not   available at   the       time and im  told that was the reason why it was pushed to  november the  fifteenth 
+HYP: but that out      an    awful about the       veil that that time and i'm told that was the reason why it was pushed the november than fifty     
+EVA:     S    S        S     S     S     S         S    S    I             S                                              S            S    S         
+REF: but then immediately the following year it was brought back to the first week or  the last week in september and since then it has always been held either the last week in  september or   the first week in october 
+HYP: but then immediately the following year it was brought back to the first week for the last week in september and since then it has always been out  either the last week and i'm       both the first week in october 
+EVA:                                                                               S                                                                S                         S   S         S                              
+REF: the conference   has evolved over the years in parallel to        the developments in the fields of communication control and         computing and in fact it has at times influenced impacted           and shaped the evolutions in those fields 
+HYP: the conference's him all     over the years in a        barrel of the developments in the fields of communication         controlling computing and in fact it has at times influence  in       fact that and shaped the emotions   in those fields 
+EVA:     S            S   S                         S        S      I                                                  D       S                                                 S          S        I    I                   S                          
+REF: some of the very early results which then became landmarks in these fields were  presented at   the allerton conference            
+HYP: some of the very early results which then became landmarks in these fields where present   that it  out      and        confidence 
+EVA:                                                                            S     S         S    S   S        S          I          
+REF: to share with you some numbers in nineteen sixty three       at the very first conference there were    eleven technical sessions three     general or what we now call plenary sessions they  were not called that way at the time with sixty two    individual presentations          involving eighty four authors 
+HYP: to share with you some numbers in nineteen six   fifty eight at the very first conference their regular non    technical sessions for   the general or what we now call planet  sessions there were not call   that way at the time with six   it  to individual present       patients involving they   for  office  
+EVA:                                            S     S     I                                  S     S       S                         S     I                               S                S              S                                S     S   I             S             I                  S      S    S       
+REF: the proceedings of  that inaugural meeting was edited by joe cruz  and it   comprised      seven hundred and       eighty       pages 
+HYP: the proceedings off that inaugural meeting was edited by joe close and it's gone      five seven on      that than eighty eight pages 
+EVA:                 S                                            S         S    S         I          S       S    I           I           
+REF: and here i have actually a copy of  that very first proceedings and it is    in   such good shape fifty years later 
+HYP: and here i have actually a copy off that very first proceedings and it since i've had  good shape fifty years later 
+EVA:                                 S                                      S     S    S                                 
+REF: [laughing] and the and  the proceedings in the intervening years have    always looked like this 
+HYP:            and     then the proceedings in the intervening years they've always looked like this 
+EVA: D              D   S                                             S                               
+REF: nothing has changed 
+HYP: nothing is  that    
+EVA:         S   S       
+REF: and the  eh  today          as compared with those initial numbers forty nine years later we have in the program this week sixty    five sessions three hundred and      forty four individual presentations and have      almost five hundred authors           maybe even over five hundred    authors are involved in these papers which will be presented here         
+HYP: and then get a     good day as compared with those initial numbers forty nine years later we have in the program this week six   to five sessions three on      that i'm forty four individual presentations and they will almost five hundred at      all those maybe one  or   five pounds  of authors are involved in these papers which will be present   the  theater 
+EVA:     S    S   S     I    I                                                                                                  S     I                      S       S    I                                           S    I                        S       I   I           S    S         S       I                                                     S         S    I       
+REF: so its  a its  a major growth but we are limited by the size of the     allerton house       so dont  expect those numbers to grow to double within the next even   uh       ten years 
+HYP: so it's a it's a major goes   but we are limited by the size of ballots and      all   those so don't expect those numbers of goes to double within the next thirty one than ten years 
+EVA:    S      S            S                                        S       S        S     I        S                          S  S                              S      S   I              
+REF: so talking about the  celebrations this eh   golden anniversary of the allerton conference   is not the only important anniversary     on our campus today 
+HYP: so talking about then celebrations that said golden anniversary of     ballots  incompetence is not the only important anniversary run on our campus today 
+EVA:                  S                 S    S                          D   S        S                                                  I                       
+REF: today is also the  exact to the day first year anniversary of our chancellor phyllis wise      taking on the  stewardship of our campus 
+HYP: today is also that exact to the bay for   zero anniversary of our chancellor phyllis why  it's taking on this stewardship of our campus 
+EVA:               S                 S   S     S                                          S    I              S                              
+REF: we    are  delighted and  honored          to have her here with us this evening to share with us this important moment and to officially open   this kick off     event for the golden anniversary 
+HYP: where they like      that then    on earth to have her here with us busy running to share with us this important moment and    officially opened this      kickoff event for the golden anniversary 
+EVA: S     S    S         S    S       I  I                              S    S                                                  D             S           D    S                                        
+REF: chancellor wise also holds the position of vice president of    the university of   illinois and as  ceo     of our campus she is responsible for all financial programs campus policies and priorities with the mission of insuring a  transformative           educational experience for americas  next generation of leaders 
+HYP: chancellor was  all  souls the position of life is        above the universe   open live     and his see all of our campus she is responsible for all financial around   campus policies and priorities with the mission of ensuring it says           formative educational experience for america's next generation of leaders 
+EVA:            S    S    S                     S    S         S         S          S    S            S   S   I                                                      S                                                           S        S  S              I                                    S                                    
+REF: she has held    eh  faculty and administrative         appointments at the university of  washington at the university of california at davis and kentucky eh          prior to joining here eh      illinois 
+HYP: she is  healthy and faculty end is             that of appointments it the universe   the washington    the universe   of california    davis and came     back in and prior to joining here than in illinois 
+EVA:     S   S       S           S   S              I    I               S      S          S              D      S                        D            S        S    I  I                         S    I           
+REF: eh  her research career has focused on     issues concerning womens  health and gender based biology  
+HYP: and for research area   has focused on the issues concerning women's health and gender based violence 
+EVA: S   S            S                     I                     S                               S        
+REF: she is a    fellow of  aaas       and a member of the national academy of sciences institute of   medicine              
+HYP: she is that fell   off triple h s and a member of the national academy of sciences is        that you      both minutes 
+EVA:        S    S      S   S      I I                                                  S         S    S        I    I       
+REF: please join me in welcoming vice president and  chancellor phyllis wise to      the podium to open this golden anniversary 
+HYP: please join me in welcoming vice president then chancellor for     this life of the podium to open the  swamp  how         
+EVA:                                            S               S       S    S    I                     S    S      S           
+REF: [ applause ] phyllis wise somebody took good care of these proceedings from fifty years ago 
+HYP:                                                                                   thank you 
+EVA: D D        D D       D    D        D    D    D    D  D     D           D    D     S     S   
+REF: its  a   real honor to be  here        in  this  overflowing room 
+HYP: some aid to   care  of the proceedings for fifty years       ago  
+EVA: S    S   S    S     S  S   S           S   S     S           S    
+REF:                                                       i wonder whether were  in   fire code but thats  thats  okay                                           
+HYP: it's a real honour to be here in is overflowing wrong i wonder whether we're in a fire code but that's that's okay i won't say anything if you don't have to 
+EVA: I    I I    I      I  I  I    I  I  I           I                      S        I               S      S           I I     I   I        I  I   I     I    I  
+REF: i  wont say   anything if                          you dont                                                                                                       
+HYP: it is   truly an       honor to be here to welcome you to   the fiftieth anniversary celebration of this wonderful conference with such a long and strong history 
+EVA: S  S    S     S        S     I  I  I    I  I           S    I   I        I           I           I  I    I         I          I    I    I I    I   I      I       
+REF: um  it   is   truly an  honor to       be here              to uh welcome you to             the fiftieth anniversary celebration of    this  wonderful                                                                       conference with such a    long and    strong history                                                                       
+HYP: you know when i     got this  position i  tried really hard to do a       lot of homework on the universe illinois    to          learn about my        new academic home and i must admit i did not come across the elephant conference i    must love john palmer enough to      realize what you're rich tradition was really started fifty years ago 
+EVA: S   S    S    S     S   S     S        S  S     I      I       S  S       S   S  I        I      S        S           S           S     S     S         I   I        I    I   I I    I     I I   I   I    I      I   I                   S    S    S    S    S      S      S       I       I    I      I    I         I   I      I       I     I     I   
+REF: yknow um when i got this position i tried  really hard to uh do a lot of homework on the university   of illinois to   learn about  my new   academic   home and i must admit i did not come across the allerton conference so i must not have done homework enough to realize what a rich tradition was really started fifty years ago     
+HYP:                     this            covers really                                 is an  illustration of          what can   happen at every university with and                                                                                                                                         for    forty   five  year  history 
+EVA: D     D  D    D D        D        D S             D    D  D  D  D D   D  D        S  S   S               D        S    S     S      S  S     S          S        D D    D     D D   D   D    D      D   D        D          D  D D    D   D    D    D        D      D  D       D    D D    D         D   S      S       S     S     S       
+REF: um   this conference really is  an  illustration of   uh      what can happen at a   great university with a        one     hundred and forty five year history         
+HYP: that says the        story  did you just         told purpose of   us  here   us are and   what       i'm  learning tonight about   all of    this is   truly   amazing 
+EVA: S    S    S          S      S   S   S            S    S       S    S   S      S  S   S     S          S    S        S       S       S   S     S    S    S       I       
+REF: uh the   the  story     that you just told professor baser basar and uh what im learning tonight about all       of this is truly amazing 
+HYP: i  think it's wonderful that          it   started   our   ten   and                                   continues to be   at our   time    
+EVA: S  S     S    S              D   D    S    S         S     S         D  D    D  D        D       D     S         S  S    S  S     S       
+REF: i    think     its wonderful that it        started    out    at allerton and it      continues to   be  at   allerton                                
+HYP: it's wonderful to  know      that sometimes traditions should be carried  on  because they      have are part of       the richness of the experience 
+EVA: S    S         S   S              S         S          S      S  S        S   S       S         S    S   S    S        I   I        I  I   I          
+REF:              i think its  wonderful to  know                                                                                                                                         that                                  sometimes traditions should                                                                be carried    on   because they hav are  part of        the richness  of           the experience      
+HYP: and you know i i     just wanna     add tonight then i'm sure this is the beginning of the next fifty years of this conference and no you won't get a larger in terms of number that that is actually a good thing because sometimes the        intimacy that you gather from having only a few hundred people cannot be replicated when you     let  it  grow into thousands and thousands of people in the same       time 
+EVA: I   I   I      S     S    S         S   S       I    I   I    I    I  I   I         I  I   I    I     I     I  I    I          I   I  I   I     I   I I      I  I     I  I      I         I  I        I I    I     I                 S          S        I    I   I      I    I      I    I I   I       I      I         S          S    S       S    S   S    S    S         S   S            I      I      S          I    
+REF: um you know i  i just want to add tonight that uh im sure that this is the beginning of the next fifty years of this conference and though it wont get larger in terms of number that that is actually a good thing because sometimes the intimacy that you gather from having only a few hundred people cannot be replicated when you let it grow into thousands and thousands of people at the same time       
+HYP:             so i                                                                                                                                                                                                                                                                                                              wish you        the  very best      and                                 discovered 
+EVA: D  D   D    S    D    D    D  D   D       D    D  D  D    D    D    D  D   D         D  D   D    D     D     D  D    D          D   D      D  D    D   D      D  D     D  D      D    D    D  D        D D    D     D       D         D   D        D    D   D      D    D      D    D D   D       D      D      D  D          S        D   D  S    S    S             D         D  D      D  D   D    S          
+REF: so                                                i wish you the very   best in this       conference 
+HYP: i  am honored to be here to welcome you to it and i wish you the riches get  a  discussion so         
+EVA: S  I  I       I  I  I    I  I       I   I  I  I                  S      S    S  S          S          
+REF: i am honored to be here to welcome you to it and i wish you the richest of ca discussions and and um new discoveries being discussed here 
+HYP:                                                                                               and    new discoveries being discussed here 
+EVA: D D  D       D  D  D    D  D       D   D  D  D   D D    D   D   D       D  D  D           D       D                                       
+REF: thank you very much for having me 
+HYP: thank you very much for having me 
+EVA:                                   
+REF: [clapping] male now  that we have the official opening of  the confernece allerton conference we  can      uh      eh   continue          with the program and eh   and we have a very distinguished eh  eh   speaker eh   to     uh   eh      for this eh kick    off evening and and this is something special 
+HYP:                 flog that we have no  official opening off the cuff       of       salads     and dolphins weekend that they     can deal with the program and that and we have a very distinguished the good speaker said though that that is for this a  kickoff be  running and and this is something special 
+EVA: D          D    S                 S                    S       S          S        S          S   S        S       S    S        I   I                         S                                     S   S            S    S      S    S    I           S  S       S   S                                         

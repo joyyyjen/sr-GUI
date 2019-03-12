@@ -2,66 +2,102 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8b43763-0e42-4228-b30d-4a42475205a3" name="Default Changelist" comment="Updated file">
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/1.mfc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/1.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/10.mfc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/10.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/11.mfc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/11.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/12.mfc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/12.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/13.mfc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/13.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/14.mfc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/14.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/15.mfc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/15.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/16.mfc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/16.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/17.mfc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/17.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/18.mfc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/18.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/2.mfc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/2.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/3.mfc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/3.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/4.mfc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/4.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/5.mfc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/5.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/6.mfc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/6.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/7.mfc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/7.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/8.mfc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/8.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/9.mfc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/9.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/Astrom.fileids" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/Astrom.transcription" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Astrom_model3/model-steps.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Output/AstromDefault-Model2-result/ErrorAlignedresult.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Output/AstromDefault-Model2-result/ErrorFreqResult.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Output/AstromDefault-Model2-result/ErrorWer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Output/AstromTrain-Model2-result/ErrorAlignedresult.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Output/AstromTrain-Model2-result/ErrorFreqResult.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Output/AstromTrain-Model2-result/ErrorWer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Output/AstromTrain-Model3-result/ErrorAlignedresult.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Output/AstromTrain-Model3-result/ErrorFreqResult.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Output/AstromTrain-Model3-result/ErrorWer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Output/TedDefault-Model1-result/ErrorAlignedresult.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Output/TedDefault-Model1-result/ErrorFreqResult.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Output/TedDefault-Model1-result/ErrorWer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Output/TedTrain-Model1-result/ErrorAlignedresult.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Output/TedTrain-Model1-result/ErrorFreqResult.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Output/TedTrain-Model1-result/ErrorWer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Output/TedTrain-Model2-result/ErrorAlignedresult.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Output/TedTrain-Model2-result/ErrorFreqResult.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/Output/TedTrain-Model2-result/ErrorWer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2/Astrom-fileids.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2/Astrom-transcription.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr_trng/catch-train-warning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/19.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/20.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/21.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/22.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/23.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/24.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/25.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/26.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/27.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/28.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/29.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/30.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/31.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/32.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/33.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/34.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/35.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/36.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/37.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/38.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/39.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/40.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/41.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/42.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/43.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/44.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/45.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/46.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/47.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/48.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/49.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/50.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/Astrom-fileids.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/Astrom-num-short-transcription.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/Astrom-tag-transcription.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/Astrom-transcription.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/gauden_counts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/mixw_counts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/model-steps.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/tmat_counts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Output/AstromDefault/ErrorAlignedresult.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Output/AstromDefault/ErrorFreqResult.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Output/AstromDefault/ErrorWer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Output/AstromNum-result/ErrorAlignedresult.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Output/AstromNum-result/ErrorFreqResult.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Output/AstromNum-result/ErrorWer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Output/AstromNum2Word-result/ErrorAlignedresult.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Output/AstromNum2Word-result/ErrorFreqResult.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Output/AstromNum2Word-result/ErrorWer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Output/CMU-T5-Astrom-recognition.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Output/Ted-openslr-result/ErrorAlignedresult.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Output/Ted-openslr-result/ErrorFreqResult.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Output/Ted-openslr-result/ErrorWer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/gauden_counts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/mixw_counts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model-steps.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/tmat_counts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/gauden_counts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/mixw_counts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model-steps.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/tmat_counts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/TrainingSet/acoustic-model/noisedict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/TrainingSet/openslr_pronounciation.dict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/catch-train-warning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/recognizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/requirement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/scriptPreprocess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng-old/tag-processer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/execute/scriptPreprocess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/model-directory/1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/model-directory/2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/model-directory/3.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/CMU-TedRec.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/SphinxBaseSteps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/acoustic-model/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/acoustic-model/feat.params" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/acoustic-model/mdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/acoustic-model/mdef.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/acoustic-model/means" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/acoustic-model/mixture_weights" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/acoustic-model/noisedict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/acoustic-model/sendump" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/acoustic-model/transition_matrices" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/acoustic-model/variances" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/bw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/cmudict-en-us.dict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/dictionary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/en-us.lm.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/lexicon.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/librispeech-vocab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/map_adapt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/mk_s2sendump" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/openslr_pronounciation.dict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/output_dict.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/recognition2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sr_trng/training-functions/recognizer.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/bin/activate" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/bin/activate.csh" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/bin/activate.fish" afterDir="false" />
@@ -1382,7 +1418,6 @@
       <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/feat.params" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/mdef" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/means" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/noisedict" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/sendump" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/transition_matrices" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/variances" afterDir="false" />
@@ -1458,11 +1493,448 @@
       <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_site/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask_site/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_site/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/flask_site/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_anlz/execute/.idea/Execute.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sr_anlz/execute-old/.idea/Execute.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_anlz/execute/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sr_anlz/execute-old/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_anlz/execute/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sr_anlz/execute-old/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_anlz/execute/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sr_anlz/execute-old/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_anlz/execute/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sr_anlz/execute-old/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_anlz/execute/freq-old.py" beforeDir="false" afterPath="$PROJECT_DIR$/sr_anlz/execute-old/freq-old.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_anlz/execute/freq.py" beforeDir="false" afterPath="$PROJECT_DIR$/sr_anlz/execute-old/freq.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_anlz/execute/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/sr_anlz/execute-old/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_anlz/execute/grade.py" beforeDir="false" afterPath="$PROJECT_DIR$/sr_anlz/execute-old/grade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_anlz/execute/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/sr_anlz/execute-old/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_anlz/execute/recognizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/sr_anlz/execute-old/recognizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_anlz/execute/wer.py" beforeDir="false" afterPath="$PROJECT_DIR$/sr_anlz/execute-old/wer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_anlz/execute/word_error.py" beforeDir="false" afterPath="$PROJECT_DIR$/sr_anlz/execute-old/word_error.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sr_anlz/execute2/freq.py" beforeDir="false" afterPath="$PROJECT_DIR$/sr_anlz/execute2/freq.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sr_anlz/output/ErrorAlignedresult.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_anlz/output/ErrorAlignedresult.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sr_anlz/output/ErrorWer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_anlz/output/ErrorWer.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sr_anlz/output/ErrorfreqResult.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_anlz/output/ErrorfreqResult.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/test-set.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/1.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/1.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/1.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/10.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/10.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/10.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/10.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/11.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/11.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/11.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/11.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/12.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/12.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/12.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/12.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/13.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/13.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/13.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/13.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/14.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/14.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/14.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/14.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/15.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/15.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/15.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/15.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/16.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/16.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/16.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/16.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/17.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/17.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/17.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/17.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/18.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/18.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/18.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/18.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/2.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/2.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/2.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/3.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/3.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/3.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/4.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/4.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/4.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/5.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/5.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/5.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/6.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/6.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/6.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/7.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/7.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/7.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/8.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/8.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/8.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/9.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/9.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Astrom_model3/9.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/Astrom.fileids" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/Astrom.fileids" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/Astrom.transcription" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/Astrom.transcription" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/gauden_counts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/mixw_counts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/model-steps.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/tmat_counts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/training-result.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Astrom_model3/training-result2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/AstromDefault-Model2-result/ErrorAlignedresult.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/AstromDefault-Model2-result/ErrorFreqResult.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/AstromDefault-Model2-result/ErrorWer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/AstromTrain-Model2-result/ErrorAlignedresult.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/AstromTrain-Model2-result/ErrorFreqResult.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/AstromTrain-Model2-result/ErrorWer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/AstromTrain-Model3-result/ErrorAlignedresult.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/AstromTrain-Model3-result/ErrorFreqResult.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/AstromTrain-Model3-result/ErrorWer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/CMU-D1-Ted-recognition.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Output/CMU-D1-Ted-recognition.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/CMU-D2-Astrom-recognition.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/CMU-T1-Ted-recognition.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Output/CMU-T1-Ted-recognition.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/CMU-T2-Astrom-recognition.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/CMU-T2-Ted-recognition.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Output/CMU-T2-Ted-recognition.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/CMU-T4-Astrom-recognition.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/CMU-T4-Ted-recognition.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Output/CMU-T4-Ted-recognition.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/CMU-T5-Astrom-recognition.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/CMU-T5-Ted-recognition.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Output/CMU-T5-Ted-recognition.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/TedDefault-Model1-result/ErrorAlignedresult.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Output/TedDefault-Model1-result/ErrorAlignedresult.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/TedDefault-Model1-result/ErrorFreqResult.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Output/TedDefault-Model1-result/ErrorFreqResult.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/TedDefault-Model1-result/ErrorWer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Output/TedDefault-Model1-result/ErrorWer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/TedTrain-Model1-result/ErrorAlignedresult.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Output/TedTrain-Model1-result/ErrorAlignedresult.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/TedTrain-Model1-result/ErrorFreqResult.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Output/TedTrain-Model1-result/ErrorFreqResult.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/TedTrain-Model1-result/ErrorWer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Output/TedTrain-Model1-result/ErrorWer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/TedTrain-Model2-result/ErrorAlignedresult.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Output/TedTrain-Model2-result/ErrorAlignedresult.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/TedTrain-Model2-result/ErrorFreqResult.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Output/TedTrain-Model2-result/ErrorFreqResult.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/TedTrain-Model2-result/ErrorWer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Output/TedTrain-Model2-result/ErrorWer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/catch-error-Astrom-result.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/catch-error-Astrom-result2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/catch-error-Ted-result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Output/catch-error-Ted-result.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/catch-error-Ted-result2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Output/catch-error-Ted-result2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Output/catch-error-TedAstrom-result2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/1.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/1.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/1.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/10.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/10.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/10.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/10.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/11.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/11.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/11.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/11.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/12.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/12.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/12.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/12.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/13.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/13.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/13.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/13.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/14.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/14.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/14.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/14.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/15.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/15.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/15.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/15.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/16.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/16.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/16.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/16.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/17.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/17.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/17.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/17.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/18.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/18.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/18.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/18.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/2.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/2.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/2.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/3.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/3.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/3.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/4.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/4.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/4.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/5.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/5.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/5.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/6.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/6.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/6.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/7.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/7.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/7.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/8.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/8.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/8.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/9.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/9.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/9.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/Astrom-result2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/Astrom-result2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/Astrom.fileids" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/Astrom.transcription" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/gauden_counts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/mixw_counts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model-steps.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2-update-dict/README" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2-update-dict/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2-update-dict/acoustic-model/README" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2-update-dict/acoustic-model/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2-update-dict/acoustic-model/feat.params" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2-update-dict/acoustic-model/feat.params" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2-update-dict/acoustic-model/mdef" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2-update-dict/acoustic-model/mdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2-update-dict/acoustic-model/mdef.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2-update-dict/acoustic-model/mdef.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2-update-dict/acoustic-model/means" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2-update-dict/acoustic-model/means" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2-update-dict/acoustic-model/mixture_weights" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2-update-dict/acoustic-model/mixture_weights" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2-update-dict/acoustic-model/noisedict" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2-update-dict/acoustic-model/noisedict" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2-update-dict/acoustic-model/sendump" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2-update-dict/acoustic-model/sendump" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2-update-dict/acoustic-model/transition_matrices" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2-update-dict/acoustic-model/transition_matrices" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2-update-dict/acoustic-model/variances" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2-update-dict/acoustic-model/variances" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2-update-dict/feat.params" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2-update-dict/feat.params" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2-update-dict/mdef" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2-update-dict/mdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2-update-dict/mdef.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2-update-dict/mdef.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2-update-dict/means" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2-update-dict/means" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2-update-dict/mixture_weights" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2-update-dict/mixture_weights" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2-update-dict/noisedict" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2-update-dict/noisedict" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2-update-dict/sendump" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2-update-dict/sendump" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2-update-dict/transition_matrices" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2-update-dict/transition_matrices" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2-update-dict/variances" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2-update-dict/variances" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2/Astrom-fileids.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2/Astrom-fileids.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2/Astrom-transcription.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2/Astrom-transcription.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2/README" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2/feat.params" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2/feat.params" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2/mdef" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2/mdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2/mdef.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2/mdef.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2/means" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2/means" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2/mixture_weights" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2/mixture_weights" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2/noisedict" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2/noisedict" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2/sendump" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2/sendump" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2/transition_matrices" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2/transition_matrices" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2/variances" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/model2/variances" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s1.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s1.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s1.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s10.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s10.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s10.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s10.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s11.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s11.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s11.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s11.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s12.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s12.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s12.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s12.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s2-1.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s2-1.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s2-1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s2-1.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s2-2.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s2-2.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s2-2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s2-2.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s2-3.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s2-3.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s2-3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s2-3.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s2-4.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s2-4.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s2-4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s2-4.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s2-5.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s2-5.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s2-5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s2-5.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s2-6.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s2-6.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s2-6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s2-6.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s2-7.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s2-7.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s2-7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s2-7.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s2-8.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s2-8.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s2-8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s2-8.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s2.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s2.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s2.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s21.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s21.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s21.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s21.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s22.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s22.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s22.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s22.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s23.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s23.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s23.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s23.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s24.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s24.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s24.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s24.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s25.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s25.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s25.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s25.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s26.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s26.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s26.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s26.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s27.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s27.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s27.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s27.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s28.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s28.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s28.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s28.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s29.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s29.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s29.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s29.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s3.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s3.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s3.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s30.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s30.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s30.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s30.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s31.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s31.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s31.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s31.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s32.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s32.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s32.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s32.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s33.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s33.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s33.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s33.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s34.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s34.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s34.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s34.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s35.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s35.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s35.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s35.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s36.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s36.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s36.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s36.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s37.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s37.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s37.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s37.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s38.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s38.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s38.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s38.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s39.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s39.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s39.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s39.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s4.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s4.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s4.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s40.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s40.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s40.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s40.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s41.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s41.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s41.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s41.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s42.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s42.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s42.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s42.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s43.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s43.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s43.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s43.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s44.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s44.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s44.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s44.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s45.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s45.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s45.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s45.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s46.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s46.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s46.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s46.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s47.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s47.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s47.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s47.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s48.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s48.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s48.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s48.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s49.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s49.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s49.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s49.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s5.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s5.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s5.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s50.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s50.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s50.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s50.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s6.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s6.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s6.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s7.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s7.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s7.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s8.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s8.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s8.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s9.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s9.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/s9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/s9.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/ted-Astrom.fileids" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/ted-Astrom.fileids" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/ted-Astrom.transcription" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/ted-Astrom.transcription" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/ted.fileids" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/ted.fileids" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/ted.transcription" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/ted.transcription" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/tmat_counts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TedAstrom_model2/training-result2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TedAstrom_model2/training-result2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/cmudict-en-us.dict" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/cmudict-en-us.dict" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/gauden_counts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/mixw_counts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model-steps.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1-update-dict/README" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1-update-dict/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1-update-dict/acoustic-model/README" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1-update-dict/acoustic-model/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1-update-dict/acoustic-model/feat.params" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1-update-dict/acoustic-model/feat.params" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1-update-dict/acoustic-model/mdef" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1-update-dict/acoustic-model/mdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1-update-dict/acoustic-model/mdef.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1-update-dict/acoustic-model/mdef.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1-update-dict/acoustic-model/means" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1-update-dict/acoustic-model/means" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1-update-dict/acoustic-model/mixture_weights" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1-update-dict/acoustic-model/mixture_weights" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1-update-dict/acoustic-model/noisedict" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1-update-dict/acoustic-model/noisedict" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1-update-dict/acoustic-model/sendump" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1-update-dict/acoustic-model/sendump" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1-update-dict/acoustic-model/transition_matrices" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1-update-dict/acoustic-model/transition_matrices" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1-update-dict/acoustic-model/variances" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1-update-dict/acoustic-model/variances" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1-update-dict/feat.params" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1-update-dict/feat.params" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1-update-dict/mdef" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1-update-dict/mdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1-update-dict/mdef.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1-update-dict/mdef.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1-update-dict/means" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1-update-dict/means" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1-update-dict/mixture_weights" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1-update-dict/mixture_weights" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1-update-dict/noisedict" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1-update-dict/noisedict" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1-update-dict/sendump" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1-update-dict/sendump" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1-update-dict/transition_matrices" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1-update-dict/transition_matrices" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1-update-dict/variances" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1-update-dict/variances" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1/README" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1/feat.params" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1/feat.params" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1/mdef" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1/mdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1/mdef.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1/mdef.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1/means" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1/means" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1/mixture_weights" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1/mixture_weights" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1/noisedict" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1/noisedict" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1/sendump" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1/sendump" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1/transition_matrices" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1/transition_matrices" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/model1/variances" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/model1/variances" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s1.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s1.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s1.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s10.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s10.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s10.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s10.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s11.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s11.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s11.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s11.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s12.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s12.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s12.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s12.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s2-1.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s2-1.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s2-1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s2-1.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s2-2.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s2-2.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s2-2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s2-2.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s2-3.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s2-3.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s2-3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s2-3.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s2-4.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s2-4.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s2-4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s2-4.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s2-5.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s2-5.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s2-5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s2-5.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s2-6.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s2-6.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s2-6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s2-6.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s2-7.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s2-7.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s2-7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s2-7.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s2-8.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s2-8.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s2-8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s2-8.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s2.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s2.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s2.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s21.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s21.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s21.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s21.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s22.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s22.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s22.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s22.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s23.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s23.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s23.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s23.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s24.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s24.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s24.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s24.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s25.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s25.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s25.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s25.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s26.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s26.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s26.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s26.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s27.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s27.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s27.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s27.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s28.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s28.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s28.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s28.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s29.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s29.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s29.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s29.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s3.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s3.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s3.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s30.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s30.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s30.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s30.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s31.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s31.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s31.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s31.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s32.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s32.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s32.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s32.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s33.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s33.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s33.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s33.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s34.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s34.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s34.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s34.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s35.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s35.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s35.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s35.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s36.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s36.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s36.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s36.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s37.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s37.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s37.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s37.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s38.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s38.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s38.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s38.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s39.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s39.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s39.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s39.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s4.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s4.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s4.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s40.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s40.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s40.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s40.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s41.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s41.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s41.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s41.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s42.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s42.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s42.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s42.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s43.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s43.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s43.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s43.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s44.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s44.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s44.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s44.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s45.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s45.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s45.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s45.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s46.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s46.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s46.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s46.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s47.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s47.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s47.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s47.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s48.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s48.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s48.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s48.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s49.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s49.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s49.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s49.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s5.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s5.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s5.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s50.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s50.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s50.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s50.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s6.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s6.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s6.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s7.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s7.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s7.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s8.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s8.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s8.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s9.mfc" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s9.mfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/s9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/s9.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/tag-ted.transcription" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/tag-ted.transcription" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/ted.fileids" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/ted.fileids" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/tmat_counts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/training-result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/training-result.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/training-result2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/training-result2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/Ted_model1/training-result3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/Ted_model1/training-result3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TrainingSet/CMU-TedRec.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TrainingSet/CMU-TedRec.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TrainingSet/SphinxBaseSteps" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TrainingSet/SphinxBaseSteps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TrainingSet/acoustic-model/README" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TrainingSet/acoustic-model/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TrainingSet/acoustic-model/feat.params" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TrainingSet/acoustic-model/feat.params" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TrainingSet/acoustic-model/mdef" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TrainingSet/acoustic-model/mdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TrainingSet/acoustic-model/mdef.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TrainingSet/acoustic-model/mdef.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TrainingSet/acoustic-model/means" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TrainingSet/acoustic-model/means" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TrainingSet/acoustic-model/mixture_weights" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TrainingSet/acoustic-model/mixture_weights" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TrainingSet/acoustic-model/noisedict" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/noisedict" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TrainingSet/acoustic-model/sendump" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TrainingSet/acoustic-model/sendump" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TrainingSet/acoustic-model/transition_matrices" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TrainingSet/acoustic-model/transition_matrices" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TrainingSet/acoustic-model/variances" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TrainingSet/acoustic-model/variances" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TrainingSet/bw" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TrainingSet/bw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TrainingSet/cmudict-en-us.dict" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TrainingSet/cmudict-en-us.dict" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TrainingSet/dictionary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TrainingSet/dictionary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TrainingSet/en-us.lm.bin" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TrainingSet/en-us.lm.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TrainingSet/g2p-seq2seq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TrainingSet/map_adapt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TrainingSet/map_adapt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TrainingSet/mk_s2sendump" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TrainingSet/mk_s2sendump" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TrainingSet/output_dict.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TrainingSet/output_dict.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TrainingSet/recognition2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TrainingSet/recognition2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/TrainingSet/recognizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/sr_trng-old/TrainingSet/recognizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/catch-train-warning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/recognizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr_trng/requirement.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/CMU-T4-Astrom-recognition.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/short-Astrom-transcription.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -1474,65 +1946,81 @@
     <session id="119953984">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
-          <entry key="project.open.time.1" value="5" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.closed" value="25" />
+          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="SphinxBaseSteps" value="1" />
           <entry key="YAML" value="1" />
-          <entry key="css" value="2" />
-          <entry key="dict" value="4" />
-          <entry key="fileids" value="4" />
-          <entry key="html" value="4" />
+          <entry key="css" value="3" />
+          <entry key="dict" value="10" />
+          <entry key="fileids" value="5" />
+          <entry key="html" value="11" />
+          <entry key="ipynb" value="1" />
           <entry key="md" value="1" />
-          <entry key="py" value="73" />
-          <entry key="sh" value="13" />
-          <entry key="transcription" value="7" />
-          <entry key="txt" value="100" />
+          <entry key="noisedict" value="2" />
+          <entry key="py" value="132" />
+          <entry key="sh" value="25" />
+          <entry key="srt" value="6" />
+          <entry key="transcription" value="8" />
+          <entry key="txt" value="258" />
+          <entry key="wiki_00" value="2" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Bash" value="5" />
-          <entry key="CSS" value="2" />
-          <entry key="HTML" value="4" />
+          <entry key="Bash" value="16" />
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="11" />
+          <entry key="IPNB" value="1" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="124" />
-          <entry key="Python" value="73" />
+          <entry key="PLAIN_TEXT" value="300" />
+          <entry key="Python" value="132" />
+          <entry key="Scratch" value="1" />
+          <entry key="XML" value="2" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="750" />
+          <entry key="Python Console" value="1078" />
           <entry key="css" value="6" />
-          <entry key="dict" value="2" />
+          <entry key="dict" value="3" />
+          <entry key="dummy" value="27" />
           <entry key="fileids" value="1" />
-          <entry key="html" value="2314" />
-          <entry key="py" value="5842" />
-          <entry key="sh" value="210" />
-          <entry key="txt" value="48" />
+          <entry key="html" value="3016" />
+          <entry key="noisedict" value="66" />
+          <entry key="py" value="11959" />
+          <entry key="sh" value="544" />
+          <entry key="srt" value="13" />
+          <entry key="txt" value="534" />
+          <entry key="wiki_00" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Bash" value="80" />
+          <entry key="Bash" value="405" />
           <entry key="CSS" value="6" />
-          <entry key="HTML" value="2314" />
-          <entry key="PLAIN_TEXT" value="181" />
-          <entry key="Python" value="6592" />
+          <entry key="HTML" value="3016" />
+          <entry key="PLAIN_TEXT" value="776" />
+          <entry key="Python" value="13037" />
+          <entry key="Scratch" value="9" />
         </counts>
       </usages-collector>
     </session>
@@ -1540,81 +2028,58 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sr_trng/Output/AstromTrain-Model3-result/ErrorAlignedresult.txt">
+        <entry file="file://$PROJECT_DIR$/flask_site/templates/training.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="107" selection-start-line="15" selection-start-column="107" selection-end-line="15" selection-end-column="107" />
+            <state relative-caret-position="269">
+              <caret line="77" column="10" selection-start-line="77" selection-start-column="10" selection-end-line="77" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask_site/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="52" column="35" lean-forward="true" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+                <marker date="1552420642432" expanded="true" signature="1666:2117" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sr_anlz/execute-old/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sr_trng/TrainingSet/cmudict-en-us.dict">
+        <entry file="file://$PROJECT_DIR$/sr_trng/execute/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="2216" column="13" selection-start-line="2216" selection-start-column="13" selection-end-line="2216" selection-end-column="13" />
+            <state relative-caret-position="193">
+              <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+              <folding>
+                <element signature="e#25#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sr_trng/Ted_model1/model-steps.sh">
+        <entry file="file://$PROJECT_DIR$/sr_anlz/execute2/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+            <state relative-caret-position="-155">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="20" />
+              <folding>
+                <element signature="e#25#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sr_trng/Ted_model1/training-result3.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="143" column="55" selection-start-line="143" selection-start-column="55" selection-end-line="143" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sr_trng/Output/catch-error-Astrom-result.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sr_trng/TrainingSet/output_dict.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sr_trng/Output/CMU-T4-Ted-recognition.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sr_trng/Output/CMU-T2-Ted-recognition.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sr_trng/Output/CMU-D2-Astrom-recognition.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sr_trng/Output/CMU-D1-Ted-recognition.txt">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -1628,17 +2093,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>functions</find>
-      <find>mistake</find>
-      <find>editorder</find>
-      <find>sents</find>
-      <find>sentence</find>
-      <find>it's</find>
-      <find>Unable to lookup</find>
-      <find>week</find>
-      <find>well</find>
-      <find>multi</find>
+      <find>and</find>
+      <find>19</find>
+      <find>skitter</find>
+      <find>aaas</find>
+      <find>62</find>
+      <find>6</find>
+      <find>50</find>
+      <find>145</find>
+      <find>4</find>
+      <find>2000</find>
+      <find>r2</find>
+      <find>o'clo</find>
+      <find>2:00</find>
+      <find>2010</find>
+      <find>:</find>
+      <find>o'cl</find>
+      <find>appl</find>
+      <find>1995</find>
+      <find>grade</find>
+      <find>its</find>
       <find>-</find>
+      <find>render_template</find>
+      <find>pattern</find>
+      <find>punc</find>
+      <find>fileid</find>
+      <find>output</find>
+      <find>train</find>
+      <find>CFG</find>
+      <find>end if</find>
+      <find>end</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -1647,44 +2131,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/flask_site/templates/plugin_pie_chart.html" />
-        <option value="$PROJECT_DIR$/sr_anlz/execute/recognizer.py" />
-        <option value="$PROJECT_DIR$/sr_anlz/test.py" />
-        <option value="$PROJECT_DIR$/flask_site/main.css" />
-        <option value="$PROJECT_DIR$/flask_site/style.css" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
-        <option value="$PROJECT_DIR$/upload/CMU-T-recognition.txt" />
-        <option value="$PROJECT_DIR$/upload/CMU-D-recognition.txt" />
-        <option value="$PROJECT_DIR$/sr_anlz/execute/main.py" />
-        <option value="$PROJECT_DIR$/flask_site/templates/index.html" />
-        <option value="$PROJECT_DIR$/sr_anlz/execute/functions.py" />
-        <option value="$PROJECT_DIR$/upload/CMU-T1-Ted-recognition.txt" />
-        <option value="$PROJECT_DIR$/sr_anlz/execute/freq.py" />
-        <option value="$PROJECT_DIR$/sr_anlz/execute/word_error.py" />
-        <option value="$PROJECT_DIR$/sr_anlz/execute2/word_error.py" />
-        <option value="$PROJECT_DIR$/sr_anlz/execute2/recognizer.py" />
-        <option value="$PROJECT_DIR$/flask_site/__init__.py" />
-        <option value="$PROJECT_DIR$/sr_anlz/execute2/main.py" />
-        <option value="$PROJECT_DIR$/sr_anlz/execute2/freq.py" />
-        <option value="$PROJECT_DIR$/sr_trng/model-steps.sh" />
-        <option value="$PROJECT_DIR$/sr_trng/TedAstrom_model2/ted-Astrom.fileids" />
-        <option value="$PROJECT_DIR$/sr_trng/TedAstrom_model2/Astrom.fileids" />
-        <option value="$PROJECT_DIR$/sr_trng/requirement.txt" />
-        <option value="$PROJECT_DIR$/sr_trng/TrainingSet/cmudict-en-us.dict" />
-        <option value="$PROJECT_DIR$/sr_trng/Astrom_model3/model-steps.sh" />
-        <option value="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model-steps.sh" />
-        <option value="$PROJECT_DIR$/sr_trng/catch-train-warning.py" />
-        <option value="$PROJECT_DIR$/sr_trng/Output/CMU-T4-Ted-recognition.txt" />
         <option value="$PROJECT_DIR$/sr_trng/Output/CMU-T4-Astrom-recognition.txt" />
-        <option value="$PROJECT_DIR$/sr_trng/recognizer.py" />
+        <option value="$PROJECT_DIR$/corpora/Output.txt/AA/wiki_00" />
+        <option value="$PROJECT_DIR$/corpora/text.txt" />
+        <option value="$PROJECT_DIR$/corpora/word2.txt" />
+        <option value="$PROJECT_DIR$/corpora/wiki_00.txt" />
+        <option value="$PROJECT_DIR$/sr_trng/TrainingSet/cmudict-en-us.dict" />
+        <option value="$PROJECT_DIR$/corpora/librispeech-lexicon.txt" />
+        <option value="$PROJECT_DIR$/corpora/wikidict.txt" />
+        <option value="$PROJECT_DIR$/corpora/lexiwords.txt" />
+        <option value="$PROJECT_DIR$/corpora/corpus-anlz.py" />
+        <option value="$PROJECT_DIR$/sr_trng/Ted_model1/text2int.py" />
+        <option value="$PROJECT_DIR$/corpora/DictionaryTest/wikidict.txt" />
+        <option value="$PROJECT_DIR$/corpora/DictionaryTest/corpus-anlz.py" />
         <option value="$PROJECT_DIR$/sr_trng/Ted_model1/model-steps.sh" />
+        <option value="$PROJECT_DIR$/sr_trng/Output/CMU-T-Ted-openSLR.txt" />
+        <option value="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model-steps.sh" />
+        <option value="$PROJECT_DIR$/sr_trng/Astrom_model3/Astrom-transcription.txt" />
+        <option value="$PROJECT_DIR$/sr_trng/Astrom_model3/Astrom_model/Astrom-short-transcription.txt" />
+        <option value="$PROJECT_DIR$/sr_trng/Output/CMU-T-Astrom.txt" />
+        <option value="$PROJECT_DIR$/sr_trng/TrainingSet/acoustic-model/noisedict" />
+        <option value="$PROJECT_DIR$/sr_trng/scriptPreprocess.py" />
+        <option value="$PROJECT_DIR$/corpora/num2words-test.ipynb" />
+        <option value="$PROJECT_DIR$/sr_trng/Astrom_model3/scriptPreprocess.py" />
+        <option value="$PROJECT_DIR$/sr_trng/Output/CMU-T5-Astrom-recognition.txt" />
+        <option value="$PROJECT_DIR$/sr_trng/Astrom_model3/Astrom-num-short-transcription.txt" />
+        <option value="$PROJECT_DIR$/sr_anlz/execute2/freq.py" />
+        <option value="$PROJECT_DIR$/sr_trng/Astrom_model3/model-steps.sh" />
+        <option value="$PROJECT_DIR$/sr_trng/catch-train-warning.py" />
+        <option value="$PROJECT_DIR$/sr_trng/Astrom_model3/tag-processer.py" />
+        <option value="$PROJECT_DIR$/sr_trng/requirement.txt" />
+        <option value="$PROJECT_DIR$/sr_trng/recognizer.py" />
+        <option value="$PROJECT_DIR$/sr_trng/Astrom_model3/Astrom-tag-transcription.txt" />
+        <option value="$PROJECT_DIR$/sr_trng/Astrom_model3/Astrom-short-transcription.txt" />
+        <option value="$PROJECT_DIR$/sr_trng/Output/CMU-D-Astrom.txt" />
+        <option value="$PROJECT_DIR$/flask_site/templates/index.html" />
+        <option value="$PROJECT_DIR$/sr_trng-old/scriptPreprocess.py" />
+        <option value="$PROJECT_DIR$/sr_trng/model-directory/test.srt" />
+        <option value="$PROJECT_DIR$/sr_trng/output/trans.txt" />
+        <option value="$PROJECT_DIR$/sr_trng/execute/scriptPreprocess.py" />
+        <option value="$PROJECT_DIR$/sr_trng/training-functions/acoustic-model/noisedict" />
+        <option value="$PROJECT_DIR$/sr_trng/model-directory/fileid.txt" />
+        <option value="$PROJECT_DIR$/sr_trng/model-directory/tag-trans.txt" />
+        <option value="$PROJECT_DIR$/sr_trng/model-directory/trans.txt" />
+        <option value="$PROJECT_DIR$/sr_trng/execute/model-steps.sh" />
+        <option value="$PROJECT_DIR$/sr_trng/execute/hello.sh" />
+        <option value="$PROJECT_DIR$/sr_trng/execute/CatchTrainWarning.py" />
+        <option value="$PROJECT_DIR$/sr_trng/execute/adapt.sh" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" />
+        <option value="$PROJECT_DIR$/flask_site/__init__.py" />
+        <option value="$PROJECT_DIR$/flask_site/templates/training.html" />
+        <option value="$PROJECT_DIR$/sr_trng/execute/main.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="712" />
+    <option name="x" value="35" />
+    <option name="y" value="36" />
+    <option name="width" value="1172" />
+    <option name="height" value="709" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -1692,6 +2197,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1702,18 +2208,13 @@
             <path>
               <item name="sr-GUI" type="b2602c69:ProjectViewProjectNode" />
               <item name="sr-GUI" type="462c0819:PsiDirectoryNode" />
-              <item name="flask_site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sr-GUI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sr-GUI" type="462c0819:PsiDirectoryNode" />
               <item name="sr_anlz" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sr-GUI" type="b2602c69:ProjectViewProjectNode" />
               <item name="sr-GUI" type="462c0819:PsiDirectoryNode" />
               <item name="sr_anlz" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
+              <item name="execute-old" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sr-GUI" type="b2602c69:ProjectViewProjectNode" />
@@ -1722,34 +2223,44 @@
             </path>
             <path>
               <item name="sr-GUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sr-GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="upload" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sr-GUI" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="sr-GUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (sr-GUI) &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Bash" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/sr_trng/Output" />
-      <recent name="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model2" />
-      <recent name="$PROJECT_DIR$/sr_trng/Ted_model1" />
+      <recent name="$PROJECT_DIR$/sr_trng/Astrom_model3" />
       <recent name="$PROJECT_DIR$/sr_trng" />
-      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/sr_trng/TrainingSet" />
+      <recent name="$PROJECT_DIR$/corpora" />
+      <recent name="$PROJECT_DIR$/corpora/DictionaryTest" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/sr_trng/Output/AstromTrain-Model3-result" />
-      <recent name="$PROJECT_DIR$/sr_trng/Astrom_model3" />
-      <recent name="$PROJECT_DIR$/sr_trng/AstromDefault-Model2-result" />
-      <recent name="$PROJECT_DIR$/sr_trng/AstromTrain-Model2-result" />
-      <recent name="$PROJECT_DIR$/sr_trng/TedTrain-Model2-result" />
+      <recent name="$PROJECT_DIR$/sr_trng/execute" />
+      <recent name="$PROJECT_DIR$/sr_trng/model-directory" />
+      <recent name="$PROJECT_DIR$/sr_trng/training-function" />
+      <recent name="$PROJECT_DIR$/sr_trng" />
+      <recent name="$PROJECT_DIR$/flask_site/templates" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1764,27 +2275,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Bash.model-steps.sh (1)">
-    <configuration name="model-steps.sh (1)" type="BashConfigurationType" factoryName="Bash" temporary="true">
+  <component name="RunManager" selected="Python.run">
+    <configuration name="sr-GUI" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="sr-GUI" />
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="INTERPRETER_PATH" value="/bin/bash" />
-      <option name="PROJECT_INTERPRETER" value="false" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sr_trng/Ted_model1" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sr_trng/Ted_model1/model-steps.sh" />
-      <option name="PARAMETERS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="model-steps.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
-      <module name="sr-GUI" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="INTERPRETER_PATH" value="/bin/bash" />
-      <option name="PROJECT_INTERPRETER" value="false" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sr_trng/TedAstrom_model2" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sr_trng/TedAstrom_model2/model-steps.sh" />
-      <option name="PARAMETERS" value="" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
       <method v="2" />
     </configuration>
     <configuration name="catch-train-warning" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -1800,6 +2306,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sr_trng/catch-train-warning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sr-GUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sr_trng/execute" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sr_trng/execute/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1850,19 +2377,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="scriptPreprocess" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sr-GUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sr_trng/execute" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sr_trng/execute/scriptPreprocess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Jupyter Notebook.sr-GUI" />
       <item itemvalue="Python.run" />
       <item itemvalue="Python.recognizer" />
       <item itemvalue="Python.catch-train-warning" />
-      <item itemvalue="Bash.model-steps.sh" />
-      <item itemvalue="Bash.model-steps.sh (1)" />
+      <item itemvalue="Python.scriptPreprocess" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Bash.model-steps.sh (1)" />
         <item itemvalue="Python.run" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.scriptPreprocess" />
         <item itemvalue="Python.recognizer" />
-        <item itemvalue="Bash.model-steps.sh" />
         <item itemvalue="Python.catch-train-warning" />
       </list>
     </recent_temporary>
@@ -1920,7 +2469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548904571848</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updated file">
+      <created>1550796463462</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1550796463462</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1933,40 +2489,39 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="717" extended-state="6" />
-    <editor active="true" />
+    <frame x="35" y="36" width="1172" height="709" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22875299" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31537792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4990991" weight="0.32698414" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4954955" weight="0.38387096" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6585578" visible="true" weight="0.50729334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4990991" weight="0.3273906" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49369368" weight="0.32576984" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4981982" visible="true" weight="0.5072" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5045045" side_tool="true" weight="0.36953" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.48387095" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4990991" weight="0.32419354" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4917463" weight="0.3241491" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.8410078" weight="0.46191248" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.34144223" side_tool="true" visible="true" weight="0.50729334" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.69070375" weight="0.48298216" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22875299" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22875299" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4990991" weight="0.32698414" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4954955" visible="true" weight="0.384127" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4954955" weight="0.38202247" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4990991" weight="0.3273906" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4990991" weight="0.32580644" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49369368" weight="0.32576984" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4981982" weight="0.5095238" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4981982" visible="true" weight="0.5483871" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5045045" side_tool="true" weight="0.36953" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.48387095" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1986,282 +2541,286 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updated file" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sr_trng/TedAstrom_model2/Astrom.transcription">
+    <entry file="file://$PROJECT_DIR$/sr_trng-old/Astrom_model3/Astrom-tag-transcription.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr_trng-old/Output/AstromDefault/ErrorAlignedresult.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/TedAstrom_model2/Astrom.fileids">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/TedAstrom_model2/ted.fileids">
+    <entry file="file://$PROJECT_DIR$/sr_trng-old/Output/AstromNum-result/ErrorFreqResult.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/TedAstrom_model2/ted.transcription">
+    <entry file="file://$PROJECT_DIR$/sr_trng-old/Output/AstromNum-result/ErrorAlignedresult.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-520" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/TedAstrom_model2/ted-Astrom.transcription">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-636" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_anlz/execute2/recognizer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        <state relative-caret-position="1836">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/AstromDefault-Model2-result/ErrorWer.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Astrom_model3/Astrom.fileids">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/AstromDefault-Model2-result/ErrorFreqResult.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/AstromDefault-Model2-result/ErrorAlignedresult.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/AstromTrain-Model2-result/ErrorAlignedresult.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_anlz/output/recognition.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/requirement.txt">
+    <entry file="file://$PROJECT_DIR$/sr_trng-old/Astrom_model3/Astrom-short-transcription.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        <state relative-caret-position="833">
+          <caret line="49" column="259" selection-start-line="49" selection-start-column="259" selection-end-line="49" selection-end-column="259" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/TrainingSet/dictionary.txt">
+    <entry file="file://$PROJECT_DIR$/sr_trng-old/Output/CMU-D-Astrom.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Astrom_model3/training-result.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2703">
-          <caret line="159" column="68" selection-start-line="159" selection-start-column="33" selection-end-line="159" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Ted_model1/cmudict-en-us.dict">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Ted_model1/training-result.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2903">
-          <caret line="243" column="2" selection-start-line="243" selection-start-column="2" selection-end-line="243" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Ted_model1/training-result2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/TedAstrom_model2/Astrom-result2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/catch-error-Ted-result.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/catch-error-Ted-result2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/catch-train-warning.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="32" column="67" selection-start-line="32" selection-start-column="67" selection-end-line="32" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Astrom_model3/model-steps.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="22" selection-start-line="22" selection-end-line="33" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/catch-error-TedAstrom-result2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/CMU-T2-Astrom-recognition.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/AstromTrain-Model2-result/ErrorFreqResult.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3128">
-          <caret line="184" column="44" lean-forward="true" selection-start-line="184" selection-start-column="44" selection-end-line="184" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_anlz/output/ErrorFreqResult.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2897" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/AstromTrain-Model3-result/ErrorWer.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_anlz/output/ErrorWer.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Astrom_model3/training-result2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="147" column="49" lean-forward="true" selection-start-line="147" selection-start-column="49" selection-end-line="147" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/AstromTrain-Model2-result/ErrorWer.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="17" selection-end-column="6" />
+        <state relative-caret-position="748">
+          <caret line="44" column="45" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sr_anlz/output/ErrorAlignedresult.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="149" column="51" lean-forward="true" selection-start-line="149" selection-start-column="51" selection-end-line="149" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/catch-error-Astrom-result2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/recognizer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/CMU-T5-Ted-recognition.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/CMU-T5-Astrom-recognition.txt">
+    <entry file="file://$PROJECT_DIR$/sr_anlz/output/ErrorWer.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/CMU-T4-Astrom-recognition.txt">
+    <entry file="file://$PROJECT_DIR$/sr_trng-old/Astrom_model3/Astrom-transcription.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state>
+          <caret selection-end-line="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/TedTrain-Model2-result/ErrorAlignedresult.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/TedTrain-Model1-result/ErrorAlignedresult.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/TedAstrom_model2/model-steps.sh">
+    <entry file="file://$PROJECT_DIR$/sr_trng-old/Output/AstromNum2Word-result/ErrorAlignedresult.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        <state relative-caret-position="1802">
+          <caret line="106" column="53" selection-start-line="106" selection-start-column="53" selection-end-line="106" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/TedDefault-Model1-result/ErrorAlignedresult.txt">
+    <entry file="file://$PROJECT_DIR$/sr_trng-old/Astrom_model3/model-steps.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+        <state relative-caret-position="198">
+          <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/AstromTrain-Model3-result/ErrorAlignedresult.txt">
+    <entry file="file://$PROJECT_DIR$/sr_trng-old/catch-train-warning.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="107" selection-start-line="15" selection-start-column="107" selection-end-line="15" selection-end-column="107" />
+        <state relative-caret-position="506">
+          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/catch-error-Astrom-result.txt">
+    <entry file="file://$PROJECT_DIR$/sr_trng-old/recognizer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        <state relative-caret-position="-226">
+          <caret line="60" column="18" lean-forward="true" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/CMU-T4-Ted-recognition.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/CMU-T2-Ted-recognition.txt">
+    <entry file="file://$PROJECT_DIR$/sr_anlz/test.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/CMU-D2-Astrom-recognition.txt">
+    <entry file="file://$PROJECT_DIR$/sr_trng/definition.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Output/CMU-D1-Ted-recognition.txt">
+    <entry file="file://$PROJECT_DIR$/sr_anlz/definition.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/TrainingSet/output_dict.txt">
+    <entry file="file://$PROJECT_DIR$/sr_anlz/execute2/grade.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr_anlz/execute2/recognizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="12" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr_trng-old/scriptPreprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr_trng-old/Astrom_model3/scriptPreprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="90" column="22" selection-start-line="43" selection-start-column="4" selection-end-line="90" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr_anlz/execute2/freq-old.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr_anlz/execute2/freq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="368" column="26" selection-start-line="368" selection-start-column="26" selection-end-line="368" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr_trng/model-directory/test.srt" />
+    <entry file="file://$PROJECT_DIR$/sr_trng/model-directory/Astrom2.srt" />
+    <entry file="file://$PROJECT_DIR$/sr_trng/output/trans.txt" />
+    <entry file="file://$PROJECT_DIR$/sr_trng/output/tag-trans.txt" />
+    <entry file="file://$PROJECT_DIR$/sr_trng/execute/tag-processer.py" />
+    <entry file="file://$PROJECT_DIR$/sr_trng/training-functions/lexicon.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr_trng/training-functions/acoustic-model/noisedict">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr_trng/model-directory/training-result.txt" />
+    <entry file="file://$PROJECT_DIR$/sr_trng-old/Astrom_model3/training-result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr_trng/model-directory/trans.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="49" column="259" selection-start-line="49" selection-start-column="259" selection-end-line="49" selection-end-column="259" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr_trng/model-directory/tag-trans.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="49" column="273" selection-start-line="49" selection-start-column="273" selection-end-line="49" selection-end-column="273" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr_trng/model-directory/fileid.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="49" column="2" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr_trng/output/OOV.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr_trng/output/training-result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4165" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr_trng/execute/scriptPreprocess.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Ted_model1/training-result3.txt">
+    <entry file="file://$PROJECT_DIR$/flask_site/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_site/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="143" column="55" selection-start-line="143" selection-start-column="55" selection-end-line="143" selection-end-column="55" />
+        <state relative-caret-position="33">
+          <caret line="92" column="10" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/Ted_model1/model-steps.sh">
+    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/subprocess.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        <state relative-caret-position="483">
+          <caret line="1558" selection-start-line="1558" selection-end-line="1558" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sr_trng/TrainingSet/cmudict-en-us.dict">
+    <entry file="file://$PROJECT_DIR$/sr_trng/execute/model-steps.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="2216" column="13" selection-start-line="2216" selection-start-column="13" selection-end-line="2216" selection-end-column="13" />
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr_trng/execute/adapt.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr_trng/model-directory/Astrom.srt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr_trng/execute/CatchTrainWarning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-124">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#25#35#0" expanded="true" />
+            <marker date="1552344071889" expanded="true" signature="97:98" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_site/templates/plugin_pie_chart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr_anlz/execute2/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-155">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="20" />
+          <folding>
+            <element signature="e#25#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_site/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="52" column="35" lean-forward="true" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+            <marker date="1552420642432" expanded="true" signature="1666:2117" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_site/templates/training.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="77" column="10" selection-start-line="77" selection-start-column="10" selection-end-line="77" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr_anlz/execute-old/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr_trng/execute/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+          <folding>
+            <element signature="e#25#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

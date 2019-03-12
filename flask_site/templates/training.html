@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ASR Error Analyzer</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="linker/data.js"></script>
+    {% if PIE_DATA is defined %}
+    {% include "plugin_pie_chart.html" %}
+    {% endif %}
+</head>
+
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand">Speech To Text</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li><a href="/">Recognition</a></li>
+      <li class="active"><a href="/training">Training</a></li>
+    </ul>
+  </div>
+</nav>
+<div class="container">
+    <!-- RUN TITLE -->
+    <div class="jumbotron">
+        <h1>Speech-to-Text Error Analyzer</h1>
+
+        <p>Powered by Python <br>Rendered by HTML and JavaScript</p>
+    </div>
+    <br>
+    <div class="panel panel-default">
+        <div class="panel-body">
+            <h3>Speech Recognition Training Required File</h3>
+            <ul>
+                <li>Please make sure all the audio file is record at a sample rate of mono 16 KHz</li>
+                <li>Include <a href="../static/example/fileid.txt" target="_blank">a fileid file</a> and <a
+                        href="../static/example/tag-transcription.txt" target="_blank"> an Audio srt file</a></li>
+                <li>The file structure should look like this:
+                    <ul>
+                        <li>84-121123-0000.wav</li>
+                        <li>84-121123-0001.wav</li>
+                        <li>...</li>
+                        <li>fileid.txt</li>
+                        <li>Title.srt</li>
+                    </ul>
+                </li>
+            </ul>
+        <h3>Please Upload Your Recognition Zipfile for Training</h3><br>
+            <!-- <input type="file" id="data" hidden="hidden"/> -->
+            <form method=post enctype=multipart/form-data>
+                <div class="col-xs-2">
+                    <input type=file name=file>
+                </div>
+                <div class="col-xs-2">
+                    <input type=submit class="btn btn-info" value=Upload>
+                </div>
+            </form> </div>
+    </div>
+    <div class="panel panel-info">
+      <div class="panel-heading"><h3>Training Progress</h3></div>
+        {% if FP is defined %}
+          <div class="panel-body"><h4> SRT to Transcription File and Tag-Transcription</h4></div>
+          <div class="panel-body"><h4>Adapting Acoustics Model</h4>
+        </div>
+        {% if ERRORS is defined %}
+          <div class="panel-body"><h4>Checking Training Error</h4></div>
+        <div class = "well">
+            {% for error in ERRORS %}<ul>{{ error}}</ul>
+            {% endfor %}
+        </div>
+        {% endif %}
+        <a href=FP class="btn btn-info" role="button">Download!</a>
+        {% endif %}
+    </div>
+
+</div>
+</body>
+
+</html>

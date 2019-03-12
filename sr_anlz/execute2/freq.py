@@ -282,6 +282,7 @@ def n_gram_set(sentences, n):
     print("====Error Freq ====")
     sumE = len(error_SS) + len(error_SD) + len(error_DS) + len(error_II) + len(error_IS) + len(error_SI) + len(
         error_DD) + len(error_I) + len(error_D) + len(error_S)
+    grade.write('WER: {}'.format((sumE / len(N_Gram))))
     print(sumE / len(N_Gram))
     global freqDict
     freqDict["WER"] = [sumE, round(sumE / len(N_Gram),3)]

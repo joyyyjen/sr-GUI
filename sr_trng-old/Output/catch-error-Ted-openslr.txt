@@ -1,0 +1,7 @@
+'well-being' 3
+'skitters' 11
+'photosynthesis' 9
+'crown-of-thorns' 17
+'2050' 38
+'toblerone' 40
+0.16 fail to produce phonetic transcription

@@ -1,0 +1,15 @@
+'an-and' 2
+'co-chaired' 4
+'creatives'' 6
+'it's-it's' 10
+'the-the' 42
+'evolutions' 18
+'[laughing]' 23
+'kick-off' 29
+'aaas' 33
+'[applause]' 35
+'hav-are' 44
+'i-i' 45
+'ca-discussions' 47
+'[clapping]' 49
+0.3 fail to produce phonetic transcription

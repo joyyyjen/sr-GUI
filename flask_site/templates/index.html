@@ -13,6 +13,17 @@
 </head>
 
 <body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand">Speech To Text</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="/">Recognition</a></li>
+      <li><a href="/training">Training</a></li>
+    </ul>
+  </div>
+</nav>
 <div class="container">
     <!-- RUN TITLE -->
     <div class="jumbotron">
@@ -61,9 +72,7 @@
                     <input type=submit class="btn btn-info" value=Upload>
                 </div>
             </form>
-
-        </div>
-    </div>
+        </div></div>
 
 
     {% if PIE_DATA is defined %}

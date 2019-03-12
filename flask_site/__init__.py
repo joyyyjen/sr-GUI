@@ -2,8 +2,10 @@ from flask import Flask, render_template, request
 from definition import CFG, SITE_ROOT, UPLOAD_ROOT
 from sr_anlz.execute2.main import execute
 from sr_anlz.execute2.main import analyze
+from sr_trng.execute.main import execute as execute_trng
 import flask_site.utility as uti
 import os
+import shutil
 app = Flask(__name__, instance_relative_config=True)
 
 @app.route("/", methods=["GET", "POST"])
@@ -44,6 +46,24 @@ def index():
     # GET
     return render_template("index.html", CFG=CFG)
 
+@app.route("/training", methods=["GET", "POST"])
+def training():
+    if request.method == "POST":
+        file = request.files['file']
+        fp = os.path.join(UPLOAD_ROOT, file.filename)
+
+        if ".zip" in file.filename:
+            fp = os.path.join(UPLOAD_ROOT, file.filename)
+            file.save(fp)
+
+            FP,ERRORS = execute_trng(fp)
+
+        return render_template("training.html", CFG=CFG,FP =FP,ERRORS = ERROR)
+
+        # return
+
+    # GET
+    return render_template("training.html", CFG=CFG)
 
 @app.errorhandler(404)
 def not_found(error):

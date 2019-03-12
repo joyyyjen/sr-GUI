@@ -1,0 +1,319 @@
+INFO: main.c(229): Compiled on Oct 22 2018 at 16:54:17
+Current configuration:
+[NAME]		[DEFLT]		[VALUE]
+-2passvar	no		no
+-abeam		1e-100		1.000000e-100
+-accumdir			.
+-agc		none		none
+-agcthresh	2.0		2.000000e+00
+-bbeam		1e-100		1.000000e-100
+-cb2mllrfn	.1cls.		.1cls.
+-cepdir				
+-cepext		mfc		mfc
+-ceplen		13		13
+-ckptintv			0
+-cmn		live		current
+-cmninit	40,3,-1		40,3,-1
+-ctlfn				Astrom-fileids.txt
+-diagfull	no		no
+-dictfn				../TrainingSet/cmudict-en-us.dict
+-example	no		no
+-fdictfn			
+-feat		1s_c_d_dd	1s_c_d_dd
+-fullvar	no		no
+-help		no		no
+-hmmdir				../TrainingSet/acoustic-model
+-latdir				
+-latext				
+-lda				
+-ldadim		0		0
+-lsnfn				Astrom-tag-transcription.txt
+-lw		11.5		1.150000e+01
+-maxuttlen	0		0
+-meanfn				
+-meanreest	yes		yes
+-mixwfn				
+-mixwreest	yes		yes
+-mllrmat			
+-mmie		no		no
+-mmie_type	rand		rand
+-moddeffn			../TrainingSet/acoustic-model/mdef.txt
+-mwfloor	0.00001		1.000000e-05
+-npart				0
+-nskip				0
+-outphsegdir			
+-outputfullpath	no		no
+-part				0
+-pdumpdir			
+-phsegdir			
+-phsegext	phseg		phseg
+-runlen		-1		-1
+-sentdir			
+-sentext	sent		sent
+-spthresh	0.0		0.000000e+00
+-svspec				0-12/13-25/26-38
+-timing		yes		yes
+-tmatfn				
+-tmatreest	yes		yes
+-topn		4		4
+-tpfloor	0.0001		1.000000e-04
+-ts2cbfn			.ptm.
+-varfloor	0.00001		1.000000e-05
+-varfn				
+-varnorm	no		no
+-varreest	yes		yes
+-viterbi	no		no
+
+INFO: feat.c(715): Initializing feature stream to type: '1s_c_d_dd', ceplen=13, CMN='batch', VARNORM='no', AGC='none'
+INFO: main.c(255): Using subvector specification 0-12/13-25/26-38
+INFO: main.c(318): Reading ../TrainingSet/acoustic-model/mdef.txt
+INFO: model_def_io.c(573): Model definition info:
+INFO: model_def_io.c(574): 137095 total models defined (42 base, 137053 tri)
+INFO: model_def_io.c(575): 548380 total states
+INFO: model_def_io.c(576): 5126 total tied states
+INFO: model_def_io.c(577): 126 total tied CI states
+INFO: model_def_io.c(578): 42 total tied transition matrices
+INFO: model_def_io.c(579): 4 max state/model
+INFO: model_def_io.c(580): 4 min state/model
+INFO: s3mixw_io.c(117): Read ../TrainingSet/acoustic-model/mixture_weights [5126x3x128 array]
+INFO: s3tmat_io.c(118): Read ../TrainingSet/acoustic-model/transition_matrices [42x3x4 array]
+INFO: mod_inv.c(301): inserting tprob floor 1.000000e-04 and renormalizing
+INFO: s3gau_io.c(169): Read ../TrainingSet/acoustic-model/means [42x3x128 array]
+INFO: s3gau_io.c(169): Read ../TrainingSet/acoustic-model/variances [42x3x128 array]
+INFO: gauden.c(176): 42 total mgau
+INFO: gauden.c(150): 3 feature streams (|0|=13 |1|=13 |2|=13 )
+INFO: gauden.c(187): 128 total densities
+INFO: gauden.c(90): min_var=1.000000e-05
+INFO: gauden.c(165): compute 4 densities/frame
+INFO: main.c(431): Will reestimate mixing weights.
+INFO: main.c(433): Will reestimate means.
+INFO: main.c(435): Will reestimate variances.
+INFO: main.c(443): Will reestimate transition matrices
+INFO: main.c(456): Reading main dictionary: ../TrainingSet/cmudict-en-us.dict
+INFO: lexicon.c(221): 134734 entries added from ../TrainingSet/cmudict-en-us.dict
+INFO: main.c(466): Reading filler dictionary: ../TrainingSet/acoustic-model/noisedict
+ERROR: "lexicon.c", line 90: Unknown phone +LAUGH+
+ERROR: "lexicon.c", line 211: pronunciation for [laughing] has undefined phones; skipping.
+ERROR: "lexicon.c", line 90: Unknown phone +UH+
+ERROR: "lexicon.c", line 211: pronunciation for eh has undefined phones; skipping.
+ERROR: "lexicon.c", line 90: Unknown phone +UM+
+ERROR: "lexicon.c", line 211: pronunciation for um has undefined phones; skipping.
+ERROR: "lexicon.c", line 90: Unknown phone +UH+
+ERROR: "lexicon.c", line 211: pronunciation for ehht has undefined phones; skipping.
+INFO: lexicon.c(221): 6 entries added from ../TrainingSet/acoustic-model/noisedict
+INFO: corpus.c(1062): Will process all remaining utts starting at 0
+INFO: main.c(665): Reestimation: Baum-Welch
+INFO: main.c(669): Generating profiling information consumes significant CPU resources.
+INFO: main.c(670): If you are not interested in profiling, use -timing no
+INFO: cmn.c(133): CMN: 65.16 -0.37 -1.76 11.11 -1.27  8.21 -2.78 -2.06 -8.38 -10.25 -11.24 -7.28 -3.76 
+column defns
+	<seq>
+	<id>
+	<n_frame_in>
+	<n_frame_del>
+	<n_state_shmm>
+	<avg_states_alpha>
+	<avg_states_beta>
+	<avg_states_reest>
+	<avg_posterior_prune>
+	<frame_log_lik>
+	<utt_log_lik>
+	... timing info ... 
+utt>     0                         1 1553    0   504 38  10 9 3.733548e-102 -1.523891e+02 -2.366603e+05 utt 0.030x 1.030e upd 0.030x 1.030e fwd 0.015x 1.030e bwd 0.015x 1.031e gau 0.077x 1.035e rsts 0.003x 1.105e rstf 0.001x 1.053e rstu 0.000x 1.031e
+
+INFO: cmn.c(133): CMN: 68.76  0.24 -3.95 14.71 -0.77 10.24 -6.16 -4.53 -7.27 -11.65 -15.02 -6.31 -4.09 
+utt>     1                         2 2300    0   792 35  11 9 2.658046e-102 -1.508044e+02 -3.468501e+05 utt 0.030x 1.015e upd 0.030x 1.015e fwd 0.014x 1.016e bwd 0.015x 1.014e gau 0.077x 1.029e rsts 0.003x 1.072e rstf 0.001x 1.054e rstu 0.000x 1.006e
+
+INFO: cmn.c(133): CMN: 65.34 -4.14 -1.66 10.15  0.73  8.39 -2.19 -4.28 -8.56 -5.64 -12.18 -7.09 -4.07 
+utt>     2                         3 1325    0   420 31  9 8 2.357721e-102 -1.500162e+02 -1.987715e+05 utt 0.026x 1.021e upd 0.026x 1.020e fwd 0.013x 1.021e bwd 0.013x 1.019e gau 0.064x 1.028e rsts 0.003x 1.089e rstf 0.001x 1.056e rstu 0.000x 1.019e
+
+INFO: cmn.c(133): CMN: 64.83 -4.23 -2.18 16.26  2.02  6.21 -4.72 -2.47 -7.30 -11.09 -15.45 -4.59 -2.38 
+utt>     3                         4 1749    0   516 35  9 8 2.851324e-102 -1.515479e+02 -2.650573e+05 utt 0.026x 1.026e upd 0.026x 1.026e fwd 0.013x 1.031e bwd 0.013x 1.022e gau 0.063x 1.027e rsts 0.003x 1.088e rstf 0.001x 1.054e rstu 0.000x 1.000e
+
+INFO: cmn.c(133): CMN: 65.27 -2.52 -1.17 10.39 -2.72 12.62 -5.48 -6.62 -6.45 -13.05 -13.31 -3.08 -3.82 
+utt>     4                         5 1104    0   332 33  9 8 2.415117e-102 -1.512558e+02 -1.669864e+05 utt 0.027x 1.017e upd 0.027x 1.017e fwd 0.014x 1.010e bwd 0.013x 1.025e gau 0.060x 1.025e rsts 0.003x 1.089e rstf 0.001x 1.088e rstu 0.000x 1.001e
+
+INFO: cmn.c(133): CMN: 67.28 -2.83 -0.60 16.35  2.80  6.22 -3.44 -5.28 -6.16 -4.71 -15.31 -9.00 -9.19 
+utt>     5                         6 2141    0   604 38  10 8 2.680710e-102 -1.500591e+02 -3.212766e+05 utt 0.029x 1.027e upd 0.029x 1.027e fwd 0.015x 1.030e bwd 0.014x 1.025e gau 0.070x 1.032e rsts 0.003x 1.097e rstf 0.001x 1.072e rstu 0.000x 1.026e
+
+INFO: cmn.c(133): CMN: 68.70 -2.51 -2.68  9.21  3.18  7.21 -9.67 -5.04 -11.19 -4.23 -14.67 -6.06 -5.61 
+utt>     6                         7  989    0   336 30  9 8 2.477367e-102 -1.509680e+02 -1.493073e+05 utt 0.027x 1.037e upd 0.027x 1.037e fwd 0.014x 1.037e bwd 0.014x 1.038e gau 0.061x 1.038e rsts 0.003x 1.090e rstf 0.001x 1.145e rstu 0.000x 1.002e
+
+INFO: cmn.c(133): CMN: 67.00 -1.39 -3.96 14.01  2.90  7.30 -6.63 -8.41 -7.73 -6.57 -16.72 -4.54 -4.43 
+utt>     7                         8 1855    0   632 28  9 9 2.979187e-102 -1.504836e+02 -2.791471e+05 utt 0.026x 1.041e upd 0.026x 1.041e fwd 0.012x 1.032e bwd 0.014x 1.049e gau 0.061x 1.047e rsts 0.003x 1.111e rstf 0.001x 1.094e rstu 0.000x 1.001e
+
+INFO: cmn.c(133): CMN: 60.36 -0.48 -2.54  9.49 -5.39 12.26  4.86 -2.62 -7.99  0.98 -11.34 -5.76 -4.00 
+utt>     8                         9  277    0    88 24  10 9 3.189560e-102 -1.529061e+02 -4.235500e+04 utt 0.025x 1.026e upd 0.025x 1.026e fwd 0.010x 1.028e bwd 0.014x 1.025e gau 0.067x 1.028e rsts 0.003x 1.070e rstf 0.001x 1.128e rstu 0.000x 1.009e
+
+INFO: cmn.c(133): CMN: 64.47 -3.30 -2.03 12.92  3.97  6.13 -4.42 -4.37 -7.76 -5.27 -15.27 -5.46 -4.08 
+utt>     9                        10  974    0   276 31  8 8 2.063927e-102 -1.492696e+02 -1.453886e+05 utt 0.024x 1.038e upd 0.024x 1.038e fwd 0.012x 1.039e bwd 0.012x 1.037e gau 0.054x 1.045e rsts 0.003x 1.094e rstf 0.001x 1.100e rstu 0.000x 1.002e
+
+INFO: cmn.c(133): CMN: 65.05 -6.32 -2.07 11.59  0.34  8.93 -5.05 -6.72 -7.79 -6.26 -12.71 -6.19 -1.37 
+utt>    10                        11 1261    0   380 38  11 9 3.124754e-102 -1.528452e+02 -1.927378e+05 utt 0.043x 1.318e upd 0.043x 1.318e fwd 0.020x 1.347e bwd 0.023x 1.296e gau 0.119x 1.389e rsts 0.005x 1.266e rstf 0.002x 1.378e rstu 0.000x 1.123e
+
+INFO: cmn.c(133): CMN: 68.15 -1.59 -2.19 13.89  0.05  2.66 -10.44 -4.75 -6.33 -5.21 -13.23 -8.36 -4.06 
+utt>    11                        12  707    0   240 30  9 9 2.456093e-102 -1.498710e+02 -1.059588e+05 utt 0.040x 1.321e upd 0.040x 1.320e fwd 0.022x 1.321e bwd 0.018x 1.322e gau 0.083x 1.286e rsts 0.004x 1.232e rstf 0.001x 1.510e rstu 0.000x 1.032e
+
+INFO: cmn.c(133): CMN: 65.43  1.18 -2.87 11.21 -3.08  7.47 -2.88 -3.64 -6.67 -2.94 -10.58 -8.90 -6.52 
+utt>    12                        13  816    0   240 33  10 9 1.949934e-102 -1.510198e+02 -1.232322e+05 utt 0.033x 1.239e upd 0.033x 1.239e fwd 0.013x 1.023e bwd 0.020x 1.385e gau 0.090x 1.443e rsts 0.004x 1.533e rstf 0.002x 1.220e rstu 0.000x 1.083e
+
+INFO: cmn.c(133): CMN: 65.19 -0.70 -2.36 12.23  1.37  6.57 -4.07 -5.65 -8.85 -4.47 -13.41 -6.07 -6.60 
+utt>    13                        14 1967    0   664 33  8 8 2.492364e-102 -1.518556e+02 -2.986999e+05 utt 0.029x 1.089e upd 0.029x 1.088e fwd 0.014x 1.033e bwd 0.015x 1.139e gau 0.065x 1.116e rsts 0.003x 1.201e rstf 0.001x 1.287e rstu 0.000x 1.001e
+
+INFO: cmn.c(133): CMN: 67.58 -1.27  0.11 12.53 -0.24  8.15 -4.76 -4.96 -9.56 -1.46 -13.93 -10.59 -3.77 
+WARN: "mk_phone_list.c", line 178: Unable to lookup word 'thats' in the dictionary
+WARN: "next_utt_states.c", line 83: Unable to produce phonetic transcription for the utterance '<s> thats when the the second allerton conference was held so that the attendees can enjoy the beautiful fall weather at the allerton grounds and it looks like at least some of the days well have that beautiful weather with us this year also </s>'
+WARN: "main.c", line 826: Skipped utterance '<s> thats when the the second allerton conference was held so that the attendees can enjoy the beautiful fall weather at the allerton grounds and it looks like at least some of the days well have that beautiful weather with us this year also </s>'
+utt>    14                        15 1708    0   664 utt 0.000x 2.701e upd 0.000x 0.923e fwd 0.000x 0.000e bwd 0.000x 0.000e gau 0.000x 0.000e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+INFO: cmn.c(133): CMN: 66.16 -2.16 -3.23  9.02 -1.73  7.11 -5.66 -6.11 -4.10 -1.35 -11.47 -9.23 -6.71 
+utt>    15                        16 2579    0   668 36  9 8 2.997358e-102 -1.503083e+02 -3.876450e+05 utt 0.028x 1.012e upd 0.027x 1.012e fwd 0.015x 1.016e bwd 0.013x 1.008e gau 0.061x 1.014e rsts 0.003x 1.071e rstf 0.001x 1.052e rstu 0.000x 1.003e
+
+INFO: cmn.c(133): CMN: 68.95  1.39 -2.53 12.75 -3.78  7.96 -1.04 -8.84 -9.24 -0.22 -12.33 -8.00 -8.46 
+utt>    16                        17  898    0   352 32  11 9 3.067834e-102 -1.506547e+02 -1.352879e+05 utt 0.029x 1.019e upd 0.029x 1.019e fwd 0.013x 1.015e bwd 0.016x 1.021e gau 0.078x 1.022e rsts 0.003x 1.080e rstf 0.001x 1.075e rstu 0.000x 1.000e
+
+INFO: cmn.c(133): CMN: 66.59  2.71 -0.84 13.10 -0.54  6.60 -4.61 -7.82 -5.30 -6.42 -9.46 -7.96 -7.13 
+utt>    17                        18 1413    0   560 29  10 9 3.242171e-102 -1.506366e+02 -2.128495e+05 utt 0.028x 1.029e upd 0.028x 1.029e fwd 0.013x 1.034e bwd 0.014x 1.023e gau 0.069x 1.035e rsts 0.003x 1.092e rstf 0.001x 1.058e rstu 0.000x 1.004e
+
+INFO: cmn.c(133): CMN: 66.10 -4.79  1.93 12.90  1.37  4.58 -5.09 -3.17 -6.42 -7.20 -11.59 -9.42 -2.57 
+WARN: "mk_phone_list.c", line 178: Unable to lookup word 'evolutions' in the dictionary
+WARN: "next_utt_states.c", line 83: Unable to produce phonetic transcription for the utterance '<s> the conference has evolved over the years in parallel to the developments in the fields of communication control and computing and in fact it has at times influenced impacted and shaped the evolutions in those fields </s>'
+WARN: "main.c", line 826: Skipped utterance '<s> the conference has evolved over the years in parallel to the developments in the fields of communication control and computing and in fact it has at times influenced impacted and shaped the evolutions in those fields </s>'
+utt>    18                        19 1867    0   560 utt 0.000x 1.044e upd 0.000x 0.995e fwd 0.000x 0.000e bwd 0.000x 0.000e gau 0.000x 0.000e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+INFO: cmn.c(133): CMN: 67.31 -2.86  2.50  8.18  1.00  7.17 -5.66 -4.41 -5.41 -4.52 -9.31 -7.95 -5.33 
+utt>    19                        20  903    0   328 28  10 9 3.678023e-102 -1.477076e+02 -1.333800e+05 utt 0.026x 1.032e upd 0.026x 1.032e fwd 0.012x 1.023e bwd 0.014x 1.039e gau 0.068x 1.058e rsts 0.003x 1.088e rstf 0.001x 1.091e rstu 0.000x 1.004e
+
+INFO: cmn.c(133): CMN: 65.08 -3.15  1.19 11.46  1.70  3.88 -4.94 -6.70 -6.14 -6.20 -11.85 -7.54 -5.41 
+utt>    20                        21 2337    0   764 29  9 8 2.989029e-102 -1.492017e+02 -3.486843e+05 utt 0.025x 1.025e upd 0.025x 1.025e fwd 0.012x 1.024e bwd 0.013x 1.025e gau 0.059x 1.034e rsts 0.003x 1.099e rstf 0.001x 1.065e rstu 0.000x 1.002e
+
+INFO: cmn.c(133): CMN: 67.52 -3.66 -0.14 11.55  1.76  2.81 -3.22 -5.00 -9.05 -10.26 -10.92 -6.41 -1.70 
+utt>    21                        22 1032    0   332 35  11 9 3.369110e-102 -1.492265e+02 -1.540018e+05 utt 0.031x 1.034e upd 0.030x 1.031e fwd 0.015x 1.030e bwd 0.016x 1.032e gau 0.082x 1.029e rsts 0.003x 1.086e rstf 0.001x 1.054e rstu 0.000x 1.004e
+
+INFO: cmn.c(133): CMN: 68.96 -2.91 -0.83 16.37  7.70  3.40 -14.54 -9.82 -3.87 -9.48 -11.45 -8.78 -3.05 
+utt>    22                        23  888    0   308 34  11 10 1.897430e-102 -1.482429e+02 -1.316397e+05 utt 0.029x 1.033e upd 0.029x 1.028e fwd 0.014x 1.034e bwd 0.015x 1.023e gau 0.079x 1.023e rsts 0.003x 1.086e rstf 0.001x 1.033e rstu 0.000x 1.002e
+
+INFO: cmn.c(133): CMN: 69.20 -0.32  3.98 18.29  7.82  0.72 -11.34 -9.85 -4.23 -6.13 -11.14 -11.49 -5.81 
+WARN: "mk_phone_list.c", line 178: Unable to lookup word '[laughing]' in the dictionary
+WARN: "next_utt_states.c", line 83: Unable to produce phonetic transcription for the utterance '<s> [laughing] and the and the proceedings in the intervening years have always looked like this </s>'
+WARN: "main.c", line 826: Skipped utterance '<s> [laughing] and the and the proceedings in the intervening years have always looked like this </s>'
+utt>    23                        24  556    0   308 utt 0.000x 3.110e upd 0.000x 0.974e fwd 0.000x 0.000e bwd 0.000x 0.000e gau 0.000x 0.000e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+INFO: cmn.c(133): CMN: 58.21 -12.98  0.26 10.15  2.91  0.60 -7.19 -5.61 -3.75 -2.71 -4.40 -6.67  1.36 
+utt>    24                        25  203    0    60 21  10 10 3.693715e-102 -1.492337e+02 -3.029444e+04 utt 0.024x 1.030e upd 0.024x 1.024e fwd 0.010x 1.029e bwd 0.013x 1.021e gau 0.064x 1.019e rsts 0.003x 1.101e rstf 0.000x 1.059e rstu 0.000x 1.006e
+
+INFO: cmn.c(133): CMN: 66.69 -1.65  0.62 13.20  3.33  6.03 -5.06 -6.53 -8.61 -10.62 -13.03 -5.44 -1.27 
+utt>    25                        26 2505    0   904 35  10 9 2.410043e-102 -1.493234e+02 -3.740552e+05 utt 0.029x 1.031e upd 0.029x 1.030e fwd 0.014x 1.032e bwd 0.015x 1.027e gau 0.074x 1.035e rsts 0.003x 1.094e rstf 0.001x 1.087e rstu 0.000x 1.002e
+
+INFO: cmn.c(133): CMN: 67.47  0.98  1.46  6.98 -0.01  5.62 -5.39 -7.50 -7.20 -6.35 -11.42 -6.28 -6.94 
+WARN: "mk_phone_list.c", line 178: Unable to lookup word 'dont' in the dictionary
+WARN: "next_utt_states.c", line 83: Unable to produce phonetic transcription for the utterance '<s> so its a its a major growth but we are limited by the size of the allerton house so dont expect those numbers to grow to double within the next even uh ten years </s>'
+WARN: "main.c", line 826: Skipped utterance '<s> so its a its a major growth but we are limited by the size of the allerton house so dont expect those numbers to grow to double within the next even uh ten years </s>'
+utt>    26                        27 1351    0   904 utt 0.000x 3.150e upd 0.000x 0.954e fwd 0.000x 0.000e bwd 0.000x 0.000e gau 0.000x 0.000e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+INFO: cmn.c(133): CMN: 68.28 -1.90 -2.44  6.59 -1.89  6.19 -3.77 -8.47 -10.54 -2.27 -7.95 -6.28 -6.65 
+utt>    27                        28 1229    0   416 31  9 8 2.463799e-102 -1.509676e+02 -1.855391e+05 utt 0.026x 1.027e upd 0.026x 1.025e fwd 0.013x 1.026e bwd 0.013x 1.024e gau 0.061x 1.026e rsts 0.003x 1.096e rstf 0.001x 1.083e rstu 0.000x 1.002e
+
+INFO: cmn.c(133): CMN: 67.00 -5.00 -1.85  8.25  0.02  6.92 -3.41 -5.96 -7.16 -4.03 -10.66 -7.58 -2.39 
+utt>    28                        29 1194    0   348 28  8 8 2.978026e-102 -1.475463e+02 -1.761703e+05 utt 0.025x 1.051e upd 0.025x 1.048e fwd 0.013x 1.072e bwd 0.012x 1.023e gau 0.054x 1.035e rsts 0.003x 1.068e rstf 0.001x 1.100e rstu 0.000x 1.004e
+
+INFO: cmn.c(133): CMN: 64.93 -0.25  0.95  9.98  0.66  5.48 -1.81 -6.31 -7.29 -7.58 -11.11 -7.50 -3.23 
+utt>    29                        30 1242    0   476 29  9 8 3.235999e-102 -1.487843e+02 -1.847902e+05 utt 0.026x 1.039e upd 0.025x 1.031e fwd 0.012x 1.026e bwd 0.014x 1.036e gau 0.067x 1.036e rsts 0.003x 1.114e rstf 0.001x 1.080e rstu 0.000x 1.004e
+
+INFO: cmn.c(133): CMN: 67.50 -1.44  2.11 10.53  0.64  6.14 -2.75 -7.45 -5.34 -7.48 -14.48 -5.33 -2.98 
+utt>    30                        31 2220    0   916 30  10 9 3.121095e-102 -1.483076e+02 -3.292429e+05 utt 0.027x 1.032e upd 0.027x 1.030e fwd 0.012x 1.029e bwd 0.014x 1.031e gau 0.068x 1.030e rsts 0.003x 1.097e rstf 0.001x 1.090e rstu 0.000x 1.001e
+
+INFO: cmn.c(133): CMN: 66.33 -2.39 -4.40 12.84  3.40  4.48 -6.57 -7.03 -5.41 -4.00 -14.45 -7.11 -2.49 
+utt>    31                        32 1451    0   532 34  11 10 2.367860e-102 -1.487016e+02 -2.157660e+05 utt 0.029x 1.031e upd 0.029x 1.028e fwd 0.013x 1.026e bwd 0.015x 1.030e gau 0.081x 1.032e rsts 0.003x 1.092e rstf 0.001x 1.069e rstu 0.000x 1.002e
+
+INFO: cmn.c(133): CMN: 70.15 -0.22 -2.66 13.66  2.21  4.47 -5.92 -8.92 -7.58 -7.02 -16.52 -4.42 -3.63 
+WARN: "mk_phone_list.c", line 178: Unable to lookup word 'womens' in the dictionary
+WARN: "next_utt_states.c", line 83: Unable to produce phonetic transcription for the utterance '<s> eh her research career has focused on issues concerning womens health and gender based biology </s>'
+WARN: "main.c", line 826: Skipped utterance '<s> eh her research career has focused on issues concerning womens health and gender based biology </s>'
+utt>    32                        33  662    0   532 utt 0.000x 2.954e upd 0.000x 0.924e fwd 0.000x 0.000e bwd 0.000x 0.000e gau 0.000x 0.000e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+INFO: cmn.c(133): CMN: 66.07 -3.08  2.14  9.16  3.88  7.57 -4.22 -6.40 -7.95 -3.08 -11.90 -7.32  0.84 
+WARN: "mk_phone_list.c", line 178: Unable to lookup word 'aaas' in the dictionary
+WARN: "next_utt_states.c", line 83: Unable to produce phonetic transcription for the utterance '<s> she is a fellow of aaas and a member of the national academy of sciences institute of medicine </s>'
+WARN: "main.c", line 826: Skipped utterance '<s> she is a fellow of aaas and a member of the national academy of sciences institute of medicine </s>'
+utt>    33                        34  726    0   532 utt 0.000x 2.037e upd 0.000x 0.972e fwd 0.000x 0.000e bwd 0.000x 0.000e gau 0.000x 0.000e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+INFO: cmn.c(133): CMN: 68.06  0.73 -2.50  7.28  1.34  3.89 -3.59 -4.61 -8.03 -9.04 -11.40 -6.86 -4.30 
+utt>    34                        35  801    0   336 33  13 13 3.665014e-102 -1.496672e+02 -1.198835e+05 utt 0.032x 1.012e upd 0.032x 1.010e fwd 0.014x 1.014e bwd 0.018x 1.008e gau 0.115x 1.014e rsts 0.004x 1.074e rstf 0.001x 1.049e rstu 0.000x 1.002e
+
+INFO: cmn.c(133): CMN: 74.24 -7.78 -27.00 -13.29  2.97 -4.72 -8.03  3.16 -2.46 -2.23 -7.64 -6.09 -7.37 
+WARN: "mk_phone_list.c", line 178: Unable to lookup word '[' in the dictionary
+WARN: "next_utt_states.c", line 83: Unable to produce phonetic transcription for the utterance '<s> [ applause ] phyllis wise somebody took good care of these proceedings from fifty years ago </s>'
+WARN: "main.c", line 826: Skipped utterance '<s> [ applause ] phyllis wise somebody took good care of these proceedings from fifty years ago </s>'
+utt>    35                        36  622    0   336 utt 0.000x 2.681e upd 0.000x 1.001e fwd 0.000x 0.000e bwd 0.000x 0.000e gau 0.000x 0.000e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+INFO: cmn.c(133): CMN: 60.57 -4.48  3.45  1.90 -1.60 -4.43 -4.07  4.03 -1.30  1.03 -3.18 -9.88 -1.02 
+utt>    36                        37  414    0   140 52  30 22 4.105005e-102 -1.561429e+02 -6.464315e+04 utt 0.057x 1.009e upd 0.057x 1.007e fwd 0.019x 1.006e bwd 0.037x 1.008e gau 0.448x 1.014e rsts 0.009x 1.064e rstf 0.001x 1.038e rstu 0.000x 1.000e
+
+INFO: cmn.c(133): CMN: 64.67  1.67  1.63  3.54 -8.99 -4.43 -0.01  3.85  4.61  2.87 -7.96 -7.89 -4.45 
+WARN: "mk_phone_list.c", line 178: Unable to lookup word 'thats' in the dictionary
+WARN: "next_utt_states.c", line 83: Unable to produce phonetic transcription for the utterance '<s> i wonder whether were in fire code but thats thats okay </s>'
+WARN: "main.c", line 826: Skipped utterance '<s> i wonder whether were in fire code but thats thats okay </s>'
+utt>    37                        38 1106    0   140 utt 0.000x 2.932e upd 0.000x 0.954e fwd 0.000x 0.000e bwd 0.000x 0.000e gau 0.000x 0.000e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+INFO: cmn.c(133): CMN: 61.34 -3.63  9.56  6.36 -4.20 -9.96  1.11  4.69  3.43  6.52 -14.05 -7.55 -7.30 
+WARN: "mk_phone_list.c", line 178: Unable to lookup word 'dont' in the dictionary
+WARN: "next_utt_states.c", line 83: Unable to produce phonetic transcription for the utterance '<s> i wont say anything if you dont </s>'
+WARN: "main.c", line 826: Skipped utterance '<s> i wont say anything if you dont </s>'
+utt>    38                        39 1086    0   140 utt 0.000x 1.906e upd 0.000x 1.004e fwd 0.000x 0.000e bwd 0.000x 0.000e gau 0.000x 0.000e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+INFO: cmn.c(133): CMN: 63.15  0.19  2.45  3.03 -4.33 -6.04 -0.33  6.14  2.17 10.80 -10.95 -8.11 -8.93 
+utt>    39                        40 1990    0   440 53  16 12 3.373029e-102 -1.550499e+02 -3.085493e+05 utt 0.038x 1.011e upd 0.038x 1.010e fwd 0.018x 1.007e bwd 0.020x 1.012e gau 0.190x 1.012e rsts 0.005x 1.075e rstf 0.001x 1.052e rstu 0.000x 1.004e
+
+INFO: cmn.c(133): CMN: 64.72 -1.77  0.46  8.87  1.07 -8.66 -4.06  4.39 -2.92 14.08 -11.55 -8.21 -4.96 
+WARN: "mk_phone_list.c", line 178: Unable to lookup word 'yknow' in the dictionary
+WARN: "next_utt_states.c", line 83: Unable to produce phonetic transcription for the utterance '<s> yknow um when i got this position i tried really hard to uh do a lot of homework on the university of illinois to learn about my new academic home and i must admit i did not come across the allerton conference so i must not have done homework enough to realize what a rich tradition was really started fifty years ago </s>'
+WARN: "main.c", line 826: Skipped utterance '<s> yknow um when i got this position i tried really hard to uh do a lot of homework on the university of illinois to learn about my new academic home and i must admit i did not come across the allerton conference so i must not have done homework enough to realize what a rich tradition was really started fifty years ago </s>'
+utt>    40                        41  864    0   440 utt 0.000x 2.794e upd 0.000x 0.947e fwd 0.000x 0.000e bwd 0.000x 0.000e gau 0.000x 0.000e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+INFO: cmn.c(133): CMN: 63.21  0.36  5.24  2.60 -0.75 -12.38 -6.76  6.75 -5.89 15.63 -12.85 -8.97 -5.24 
+utt>    41                        42 1065    0   392 75  25 20 4.238471e-102 -1.530324e+02 -1.629795e+05 utt 0.053x 1.023e upd 0.053x 1.023e fwd 0.022x 1.026e bwd 0.031x 1.022e gau 0.349x 1.022e rsts 0.008x 1.085e rstf 0.001x 1.060e rstu 0.000x 1.005e
+
+INFO: cmn.c(133): CMN: 64.63 -4.54  5.71  8.56  0.95 -7.57 -6.13 10.29 -7.32 13.21 -14.31 -6.70 -3.55 
+WARN: "mk_phone_list.c", line 178: Unable to lookup word 'basar' in the dictionary
+WARN: "next_utt_states.c", line 83: Unable to produce phonetic transcription for the utterance '<s> uh the the story that you just told professor baser basar and uh what im learning tonight about all of this is truly amazing </s>'
+WARN: "main.c", line 826: Skipped utterance '<s> uh the the story that you just told professor baser basar and uh what im learning tonight about all of this is truly amazing </s>'
+utt>    42                        43  474    0   392 utt 0.000x 1.000e upd 0.000x 1.029e fwd 0.000x 0.000e bwd 0.000x 0.000e gau 0.000x 0.000e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+INFO: cmn.c(133): CMN: 63.17 -6.17  4.73  5.94  0.51 -10.08 -5.02  5.18 -1.92 10.14 -12.92 -7.26 -6.46 
+utt>    43                        44  826    0   264 37  14 11 4.032928e-102 -1.559468e+02 -1.288120e+05 utt 0.029x 1.030e upd 0.029x 1.029e fwd 0.012x 1.063e bwd 0.017x 1.007e gau 0.135x 1.013e rsts 0.004x 1.077e rstf 0.001x 1.049e rstu 0.000x 1.005e
+
+INFO: cmn.c(133): CMN: 62.44 -1.63  5.42  6.44  1.22 -9.17 -6.70  4.90 -2.36 13.75 -14.28 -8.87 -6.76 
+WARN: "mk_phone_list.c", line 178: Unable to lookup word 'hav' in the dictionary
+WARN: "next_utt_states.c", line 83: Unable to produce phonetic transcription for the utterance '<s> i think its wonderful to know that sometimes traditions should be carried on because they hav are part of the richness of the experience </s>'
+WARN: "main.c", line 826: Skipped utterance '<s> i think its wonderful to know that sometimes traditions should be carried on because they hav are part of the richness of the experience </s>'
+utt>    44                        45 2463    0   264 utt 0.000x 0.998e upd 0.000x 0.963e fwd 0.000x 0.000e bwd 0.000x 0.000e gau 0.000x 0.000e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+INFO: cmn.c(133): CMN: 66.08 -9.03  0.04  7.09  7.34 -10.57 -11.74 10.11 -1.41 14.37 -7.13 -7.17 -7.20 
+ERROR: "backward.c", line 421: Failed to align audio to trancript: final state of the search is not reached
+ERROR: "baum_welch.c", line 324: 46 ignored
+utt>    45                        46  243    0  1064 49  utt 0.017x 1.009e upd 0.017x 1.009e fwd 0.017x 1.009e bwd 0.000x 0.996e gau 0.014x 1.022e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+INFO: cmn.c(133): CMN: 62.54 -3.92  3.99  8.65  1.64 -10.63 -7.94  3.24 -5.87  9.55 -9.22 -7.11 -6.27 
+utt>    46                        47  634    0   132 48  22 15 7.382129e-102 -1.557859e+02 -9.876823e+04 utt 0.047x 1.037e upd 0.047x 1.037e fwd 0.017x 1.013e bwd 0.029x 1.051e gau 0.291x 1.053e rsts 0.007x 1.136e rstf 0.001x 1.071e rstu 0.000x 1.003e
+
+INFO: cmn.c(133): CMN: 60.53 -2.42  8.35  4.52  2.60 -10.31 -3.95  8.40 -6.03  8.09 -8.80 -7.15 -9.06 
+ERROR: "backward.c", line 421: Failed to align audio to trancript: final state of the search is not reached
+ERROR: "baum_welch.c", line 324: 48 ignored
+utt>    47                        48  417    0   372 83  utt 0.026x 1.032e upd 0.025x 1.026e fwd 0.025x 1.025e bwd 0.000x 1.027e gau 0.021x 1.035e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+INFO: cmn.c(133): CMN: 56.70 -5.04  0.07  3.34  0.58 -6.36  0.81  9.28  6.26  7.30 -7.17 -8.13 -10.64 
+utt>    48                        49  185    0   100 23  10 10 2.614586e-102 -1.494148e+02 -2.764174e+04 utt 0.026x 1.037e upd 0.026x 1.019e fwd 0.011x 1.025e bwd 0.015x 1.015e gau 0.071x 1.035e rsts 0.003x 1.068e rstf 0.000x 1.099e rstu 0.000x 1.001e
+
+INFO: cmn.c(133): CMN: 63.65 -4.81 -7.55  6.35  1.44  1.78 -9.29 -3.59 -2.19 -3.70 -6.69 -9.66 -4.14 
+WARN: "mk_phone_list.c", line 178: Unable to lookup word 'confernece' in the dictionary
+WARN: "next_utt_states.c", line 83: Unable to produce phonetic transcription for the utterance '<s> [clapping] male now that we have the official opening of the confernece allerton conference we can uh eh continue with the program and eh and we have a very distinguished eh eh speaker eh to uh eh for this eh kick off evening and and this is something special </s>'
+WARN: "main.c", line 826: Skipped utterance '<s> [clapping] male now that we have the official opening of the confernece allerton conference we can uh eh continue with the program and eh and we have a very distinguished eh eh speaker eh to uh eh for this eh kick off evening and and this is something special </s>'
+utt>    49                        50 3721    0   100 utt 0.000x 2.009e upd 0.000x 1.075e fwd 0.000x 0.000e bwd 0.000x 0.000e gau 0.000x 0.000e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+overall> stats 45027 (-0) -1.506441e+02 -6.783053e+06 0.030x 1.052e
+WARN: "accum.c", line 628: Over 500 senones never occur in the input data. This is normal for context-dependent untied senone training or for adaptation, but could indicate a serious problem otherwise.
+INFO: s3mixw_io.c(233): Wrote ./mixw_counts [5126x3x128 array]
+INFO: s3tmat_io.c(176): Wrote ./tmat_counts [42x3x4 array]
+INFO: s3gau_io.c(485): Wrote ./gauden_counts with means with vars [42x3x128 vector arrays]
+INFO: main.c(999): Counts saved to .

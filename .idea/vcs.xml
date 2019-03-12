@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/corpora/wikiextractor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sr_trng-old/TrainingSet/g2p-seq2seq" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sr_trng/TrainingSet/g2p-seq2seq" vcs="Git" />
   </component>
 </project>

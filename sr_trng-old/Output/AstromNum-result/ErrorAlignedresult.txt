@@ -1,0 +1,108 @@
+REF: we are kicking off this evening a         week long celebration of  a      landmark event  which is     the golden anniversary of the allerton    conference on communication control and computing 
+HYP: we are kicking off this evening a week to week long celebration the golden landmark events that  led to the golden years       of the ballot   in conference on communication control and computing 
+EVA:                                   I    I                        S   S               S      S     S   I             S                  S        I                                                    
+REF: for those of you who have been regular attendees at the allerton  conference for many years and for some probably allerton    is special place in your career having   presented your first paper or second paper in your career at the allerton  conference            and i know that there are many of you out    there 
+HYP: for those of you who have been regular attendees at     balancing conference for many years and for some probably allison  it is special place in your career whipping presented your first paper or second paper in your career at the knowledge and        confidence and i know that there are many of you out up there 
+EVA:                                                     D   S                                                         S        I                                  S                                                                         S         S          I                                                    I        
+REF: for those of you for whom this     is the very first allerton conference an and for  all  conference attendees and for our guests  this is a historic moment 
+HYP: for those of you for      congress of the area first allison  conference    and then fall conference attendees and         artists this is a historic moment 
+EVA:                      D    S        S      S          S                   D      S    S                             D   D   S                                 
+REF: its  a celebration of a    multi disciplinary                scientific meeting which was launched fifty years ago on november fifteen nineteen sixty    three with vision and incredible foresight 
+HYP: it's a celebration of that lol   the          discipline and scientific meeting which was launched fifty years ago on november fifteen ninety   six   to three with vision an  incredible force     
+EVA: S                     S    S     S            I          I                                                                             S        S     I                    S              S         
+REF: it was the brainchild           of mac  van valkenburg who  together with joe cruz co  chaired              the first conference     fifty years ago 
+HYP: it was a   blank      alpha fun of them all and        dark lord     to   get the  job for     us courts at the first conference the fifty years ago 
+EVA:        S   S          I     I      S    S   S          S    S        S    S   S    S   S       I  I      I                       I                   
+REF: bill perkins eh      who  is       here ehht       and eh           he was also involved in the initial discussions and planning    of the conference and i believe he is the only   one in this room who has witnessed         that historic event       fifty years ago 
+HYP:      milk    cartons that glorious here than it is and then they if he was also involved in the initial discussions and letting  go of the coffers    and i believe he is the wallet won in this room for as  a         witness that is       a     given fifty years ago 
+EVA: D    S       S       S    S             S    I  I      S    I    I                                                      S        I         S                                  S      S                S   S   S         I            S        S     I                     
+REF: the  creatives    vision was as articulated by                      mac and joe in the forward to the proceedings of that first conference     
+HYP: that creates   us vision was is that        the collapse of mad but mac and jaw in the fourth  of the proceedings of that first conference the 
+EVA: S    S         I             S  S           S   I        I  I   I           S          S       S                                           I   
+REF: that vision was to provide an opportunity for researchers to present their fresh new results in a dynamic growing field and to bring researchers in different disciplines together to cultivate cross fertilization of ideas 
+HYP: that vision was to provide an opportunity for researchers to present their fresh new results in a dynamic growing field and to bring researchers in different disciplines together to cultivate cost  fertilization of ideas 
+EVA:                                                                                                                                                                                                 S                            
+REF: and this was right on target 
+HYP: and this was right on target 
+EVA:                              
+REF: and this far reaching vision of  its founders    is still the guiding light        at allerton     fifty years later     
+HYP: and thus far reaching vision off its father's he is still the guy     didn't laugh at talent   and fifty years later but 
+EVA:     S                        S       S        I               S       S      I        S        I                     I   
+REF: its  its  one of the longest running conferences at least that im      aware of in the  systems area     and its  one of the most prestigious               
+HYP: it's it's one of the longest running conferences at least that but i'm aware of in this isn't   a    nap and it's one of the most is          the years but 
+EVA: S    S                                                         S   I               S    S       S    I       S                    S           I   I     I   
+REF: its  perhaps the only     longest running conference that has never changed its venue 
+HYP: it's perhaps the only the longest running conference that has never changed its venue 
+EVA: S                     I                                                               
+REF: from the very beginning    it has been held at the allerton house in monticello illinois 
+HYP: from the very beginning it it has been held at the allison  house in monticello illinois 
+EVA:                         I                          S                                     
+REF: only a minor adjustment was made   in        going from the first to the second allerton conference            in nineteen sixty four      which was to  move the date from the chilly    mid november to late september     which was september twenty eighth through      the thirtieth      
+HYP: only a minor adjustment to  assume it's been going from the first of the second ballot   and        confidence in ninety   six   of   warp which was the work the day  from the challenge mid november to late september are which was to        damage and    they    took the third     year 
+EVA:                         S   S      S    I                         S             S        S          I             S        S     S    I              S   S        S             S                                        I             S         S      S      S       I        S         I    
+REF: thats  when the  the second allerton conference was  held so      that the attendees can enjoy the  beautiful fall weather at    the allerton grounds      and it looks like at  least some of the days well    have that beautiful weather        with us this year also 
+HYP: that's one  that the second paladin  conference will sell so that that the andes     and and   york the       fall fall    under the alex     and     arms and it looks lack the play  some of the      visible at   that beautiful the     wooden with us this year olds 
+EVA: S      S    S               S                   S    S       I             S         S   S     S    S              S       S         S        S       I                 S    S   S                 D    S       S                   S       I                        S    
+REF: im told    eh   im  not sure to   what extent that it              is a    fact but eh  mac actually wanted to hold   the first eh  conference in october          the first week in october because that coincided would have      coincided with his birth date  which was october fifth                  
+HYP: an assault that i'm not sure that a    lot    that and that's that is that fact but the mac actually want   to double the first day conference in the     law burn the first week in october because that was       sad   book that coincided with is  the   thing which was a       little more than fifty 
+EVA: S  S       S    S            S    S    S           S   I      I       S             S                S         S                S                 S       I   I                                           S         S     S    I                   S   S     S               S       S      I    I    I     
+REF: but the allerton house was   not available at the time  and im     told that was the reason why it was pushed to november the fifteenth 
+HYP: but     alex     an    awful not available at the plant and that's all  that was the reason why it was forced to november the city      
+EVA:     D   S        S     S                          S         S      S                                   S                      S         
+REF: but then immediately the following year it was brought back to the first week or the last week in september and since then it has always been held either the last week in september or the first week in october 
+HYP: but then immediately the following year it was brought back to the first week or the last week in september and since then it has always been held either the last week in september or the first week in october 
+EVA:                                                                                                                                                                                                                   
+REF: we are kicking off this evening a         week long celebration of  a      landmark event  which is     the golden anniversary of the allerton    conference on communication control and computing 
+HYP: we are kicking off this evening a week to week long celebration the golden landmark events that  led to the golden years       of the ballot   in conference on communication control and computing 
+EVA:                                   I    I                        S   S               S      S     S   I             S                  S        I                                                    
+REF: for those of you who have been regular attendees at the allerton  conference for many years and for some probably allerton    is special place in your career having   presented your first paper or second paper in your career at the allerton  conference            and i know that there are many of you out    there 
+HYP: for those of you who have been regular attendees at     balancing conference for many years and for some probably allison  it is special place in your career whipping presented your first paper or second paper in your career at the knowledge and        confidence and i know that there are many of you out up there 
+EVA:                                                     D   S                                                         S        I                                  S                                                                         S         S          I                                                    I        
+REF: for those of you for whom this     is the very first allerton conference an and for  all  conference attendees and for our guests  this is a historic moment 
+HYP: for those of you for      congress of the area first allison  conference    and then fall conference attendees and         artists this is a historic moment 
+EVA:                      D    S        S      S          S                   D      S    S                             D   D   S                                 
+REF: its  a celebration of a    multi disciplinary                scientific meeting which was launched fifty years ago on november fifteen nineteen sixty    three with vision and incredible foresight 
+HYP: it's a celebration of that lol   the          discipline and scientific meeting which was launched fifty years ago on november fifteen ninety   six   to three with vision an  incredible force     
+EVA: S                     S    S     S            I          I                                                                             S        S     I                    S              S         
+REF: it was the brainchild           of mac  van valkenburg who  together with joe cruz co  chaired              the first conference     fifty years ago 
+HYP: it was a   blank      alpha fun of them all and        dark lord     to   get the  job for     us courts at the first conference the fifty years ago 
+EVA:        S   S          I     I      S    S   S          S    S        S    S   S    S   S       I  I      I                       I                   
+REF: bill perkins eh      who  is       here ehht       and eh           he was also involved in the initial discussions and planning    of the conference and i believe he is the only   one in this room who has witnessed         that historic event       fifty years ago 
+HYP:      milk    cartons that glorious here than it is and then they if he was also involved in the initial discussions and letting  go of the coffers    and i believe he is the wallet won in this room for as  a         witness that is       a     given fifty years ago 
+EVA: D    S       S       S    S             S    I  I      S    I    I                                                      S        I         S                                  S      S                S   S   S         I            S        S     I                     
+REF: the  creatives    vision was as articulated by                      mac and joe in the forward to the proceedings of that first conference     
+HYP: that creates   us vision was is that        the collapse of mad but mac and jaw in the fourth  of the proceedings of that first conference the 
+EVA: S    S         I             S  S           S   I        I  I   I           S          S       S                                           I   
+REF: that vision was to provide an opportunity for researchers to present their fresh new results in a dynamic growing field and to bring researchers in different disciplines together to cultivate cross fertilization of ideas 
+HYP: that vision was to provide an opportunity for researchers to present their fresh new results in a dynamic growing field and to bring researchers in different disciplines together to cultivate cost  fertilization of ideas 
+EVA:                                                                                                                                                                                                 S                            
+REF: and this was right on target 
+HYP: and this was right on target 
+EVA:                              
+REF: and this far reaching vision of  its founders    is still the guiding light        at allerton     fifty years later     
+HYP: and thus far reaching vision off its father's he is still the guy     didn't laugh at talent   and fifty years later but 
+EVA:     S                        S       S        I               S       S      I        S        I                     I   
+REF: its  its  one of the longest running conferences at least that im      aware of in the  systems area     and its  one of the most prestigious               
+HYP: it's it's one of the longest running conferences at least that but i'm aware of in this isn't   a    nap and it's one of the most is          the years but 
+EVA: S    S                                                         S   I               S    S       S    I       S                    S           I   I     I   
+REF: its  perhaps the only     longest running conference that has never changed its venue 
+HYP: it's perhaps the only the longest running conference that has never changed its venue 
+EVA: S                     I                                                               
+REF: from the very beginning    it has been held at the allerton house in monticello illinois 
+HYP: from the very beginning it it has been held at the allison  house in monticello illinois 
+EVA:                         I                          S                                     
+REF: only a minor adjustment was made   in        going from the first to the second allerton conference            in nineteen sixty four      which was to  move the date from the chilly    mid november to late september     which was september twenty eighth through      the thirtieth      
+HYP: only a minor adjustment to  assume it's been going from the first of the second ballot   and        confidence in ninety   six   of   warp which was the work the day  from the challenge mid november to late september are which was to        damage and    they    took the third     year 
+EVA:                         S   S      S    I                         S             S        S          I             S        S     S    I              S   S        S             S                                        I             S         S      S      S       I        S         I    
+REF: thats  when the  the second allerton conference was  held so      that the attendees can enjoy the  beautiful fall weather at    the allerton grounds      and it looks like at  least some of the days well    have that beautiful weather        with us this year also 
+HYP: that's one  that the second paladin  conference will sell so that that the andes     and and   york the       fall fall    under the alex     and     arms and it looks lack the play  some of the      visible at   that beautiful the     wooden with us this year olds 
+EVA: S      S    S               S                   S    S       I             S         S   S     S    S              S       S         S        S       I                 S    S   S                 D    S       S                   S       I                        S    
+REF: im told    eh   im  not sure to   what extent that it              is a    fact but eh  mac actually wanted to hold   the first eh  conference in october          the first week in october because that coincided would have      coincided with his birth date  which was october fifth                  
+HYP: an assault that i'm not sure that a    lot    that and that's that is that fact but the mac actually want   to double the first day conference in the     law burn the first week in october because that was       sad   book that coincided with is  the   thing which was a       little more than fifty 
+EVA: S  S       S    S            S    S    S           S   I      I       S             S                S         S                S                 S       I   I                                           S         S     S    I                   S   S     S               S       S      I    I    I     
+REF: but the allerton house was   not available at the time  and im     told that was the reason why it was pushed to november the fifteenth 
+HYP: but     alex     an    awful not available at the plant and that's all  that was the reason why it was forced to november the city      
+EVA:     D   S        S     S                          S         S      S                                   S                      S         
+REF: but then immediately the following year it was brought back to the first week or the last week in september and since then it has always been held either the last week in september or the first week in october 
+HYP: but then immediately the following year it was brought back to the first week or the last week in september and since then it has always been held either the last week in september or the first week in october 
+EVA:                                                                                                                                                                                                                   
